@@ -1,4 +1,4 @@
-name: Deploy Frontend PHP-HTML Automático
+name: Deploy Frontend via Runner Local
 
 on:
   push:
@@ -7,21 +7,19 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted  # Isso diz para rodar no seu servidor local
+
     steps:
-      - name: Atualizar Servidor via SSH
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USER }}
-          key: ${{ secrets.SSH_KEY }}
-          script: |
-            # Entra na pasta do projeto
-            cd /root/garantia/frontend
+      - name: Checkout do código
+        uses: actions/checkout@v3
 
-            # Puxa as alterações do GitHub
-            git fetch --all
-            git reset --hard origin/main
-
-            # Opcional: Ajustar permissões (caso o PHP precise escrever em alguma pasta de upload)
-            # chown -R www-data:www-data /root/garantia/frontend
+      - name: Sincronizar arquivos na pasta do Docker
+        run: |
+          # Como o runner já está no servidor, os comandos abaixo rodam direto nele
+          # Vamos copiar o que o GitHub baixou para a pasta do projeto
+          cp -R . /root/garantia/frontend/
+          
+          # Se preferir usar o Git dentro da pasta como estávamos fazendo:
+          # cd /root/garantia/frontend
+          # git fetch --all
+          # git reset --hard origin/main
