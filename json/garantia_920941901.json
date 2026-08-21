@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 920941901,
+        "dt_cad": "2026-04-06T11:59:55.579Z",
+        "codcli": "7882",
+        "codusur": "190",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "bezerraeoliveira.barbalha"
+    },
+    "garantia_itens": [
+        {
+            "id": "9209419010",
+            "fk_garantia": 920941901,
+            "codcli": "7882",
+            "codprod": "81110-BF0-CG19",
+            "codfab": "81110-BF0-CG19",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "9209419010",
+            "anexo": "81110-BF0-CG19_20260406_085938_3.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "9209419010",
+            "anexo": "81110-BF0-CG19_20260406_085938_4.jpg"
+        }
+    ]
+}

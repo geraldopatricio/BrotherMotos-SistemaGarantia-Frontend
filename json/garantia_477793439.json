@@ -1,0 +1,246 @@
+{
+    "garantia": {
+        "id": 477793439,
+        "dt_cad": "2026-03-27T17:30:39.524Z",
+        "codcli": "22122",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "4777934390",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "12110-DF0-CB02",
+            "codfab": "12110-DF0-CB02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Gera atrito, fica encostando"
+        },
+        {
+            "id": "4777934391",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "11410-BF0-CG07",
+            "codfab": "11410-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Fora do ponto"
+        },
+        {
+            "id": "4777934392",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "44130-DF0-BR01",
+            "codfab": "44130-DF0-BR01",
+            "qtd": "5",
+            "motivo": "Outros",
+            "observacao": "Vazamento logo ap\u00f3s a montagem"
+        },
+        {
+            "id": "4777934393",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "31120-DF0-CB04",
+            "codfab": "31120-DF0-CB04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Vieram fios desconectados"
+        },
+        {
+            "id": "4777934394",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "37410-DB0-TW02",
+            "codfab": "37410-DB0-TW02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Bot\u00e3o pisca n\u00e3o aciona"
+        },
+        {
+            "id": "4777934395",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "32100-BB0-CG03",
+            "codfab": "32100-BB0-CG03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o carrega carga"
+        },
+        {
+            "id": "4777934396",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "31120-BF0-CG08",
+            "codfab": "31120-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o gera carga"
+        },
+        {
+            "id": "4777934397",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "12130-BF0-CG15",
+            "codfab": "12130-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Fica trepidando"
+        },
+        {
+            "id": "4777934398",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "38100-BF0-CG07",
+            "codfab": "38100-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Som fraco"
+        },
+        {
+            "id": "4777934399",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "37410-DB0-CG08",
+            "codfab": "37410-DB0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Bot\u00e3o lampejador travado"
+        },
+        {
+            "id": "47779343910",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "32100-DB0-XR02",
+            "codfab": "32100-DB0-XR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o gera energia"
+        },
+        {
+            "id": "47779343911",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "37210-DB0-CG01",
+            "codfab": "37210-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Fio cor rosa com defeito"
+        },
+        {
+            "id": "47779343912",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "31120-DF0-CF01",
+            "codfab": "31120-DF0-CF01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o gera energia"
+        },
+        {
+            "id": "47779343913",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "12101-BF0-CG22",
+            "codfab": "12101-BF0-CG22",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Fica encostando na Carca\u00e7a do motor, fazendo barulho"
+        },
+        {
+            "id": "47779343914",
+            "fk_garantia": 477793439,
+            "codcli": "22122",
+            "codprod": "36100-DF0-TW01",
+            "codfab": "36100-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o marca a velocidade"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 16,
+            "fk_item": "4777934390",
+            "anexo": "12110-DF0-CB02_20260327_143019_16.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "4777934390",
+            "anexo": "12110-DF0-CB02_20260327_143019_17.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "4777934391",
+            "anexo": "11410-BF0-CG07_20260327_142834_15.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "4777934392",
+            "anexo": "44130-DF0-BR01_20260327_142740_14.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "4777934393",
+            "anexo": "31120-DF0-CB04_20260327_142707_13.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "4777934394",
+            "anexo": "37410-DB0-TW02_20260327_142633_12.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "4777934395",
+            "anexo": "32100-BB0-CG03_20260327_142601_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "4777934396",
+            "anexo": "31120-BF0-CG08_20260327_142528_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "4777934397",
+            "anexo": "12130-BF0-CG15_20260327_142459_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "4777934398",
+            "anexo": "38100-BF0-CG07_20260327_142432_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "4777934399",
+            "anexo": "37410-DB0-CG08_20260327_142408_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "47779343910",
+            "anexo": "32100-DB0-XR02_20260327_142335_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "47779343911",
+            "anexo": "37210-DB0-CG01_20260327_142249_5.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "47779343912",
+            "anexo": "31120-DF0-CF01_20260327_142143_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "47779343913",
+            "anexo": "12101-BF0-CG22_20260327_142057_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "47779343914",
+            "anexo": "36100-DF0-TW01_20260327_141921_1.jpeg"
+        }
+    ]
+}

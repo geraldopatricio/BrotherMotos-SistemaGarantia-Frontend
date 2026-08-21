@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 801465045,
+        "dt_cad": "2026-04-06T17:26:46.622Z",
+        "codcli": "22318",
+        "codusur": "288",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "8014650450",
+            "fk_garantia": 801465045,
+            "codcli": "22318",
+            "codprod": "41172-BF2-TD00",
+            "codfab": "41172-BF2-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "RASGOU NA EMENDA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "8014650450",
+            "anexo": "41172-BF2-TD00_20260406_142635_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "8014650450",
+            "anexo": "41172-BF2-TD00_20260406_142635_2.mp4"
+        }
+    ]
+}

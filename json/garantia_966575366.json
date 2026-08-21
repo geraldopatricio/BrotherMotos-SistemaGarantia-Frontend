@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 966575366,
+        "dt_cad": "2026-03-27T14:06:36.625Z",
+        "codcli": "6657",
+        "codusur": "346",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "ge.comercio"
+    },
+    "garantia_itens": [
+        {
+            "id": "9665753660",
+            "fk_garantia": 966575366,
+            "codcli": "6657",
+            "codprod": "12100-BF0-PH02",
+            "codfab": "12100-BF0-PH02",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": "Embreagem deslizando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9665753660",
+            "anexo": "12100-BF0-PH02_20260327_110634_1.jpg"
+        }
+    ]
+}

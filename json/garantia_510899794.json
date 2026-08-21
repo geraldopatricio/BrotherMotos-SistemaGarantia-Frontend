@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 510899794,
+        "dt_cad": "2026-03-30T19:05:42.887Z",
+        "codcli": "7651",
+        "codusur": "244",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mota"
+    },
+    "garantia_itens": [
+        {
+            "id": "5108997940",
+            "fk_garantia": 510899794,
+            "codcli": "7651",
+            "codprod": "36100-BF0-BZ01",
+            "codfab": "36100-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o marca gasolina"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5108997940",
+            "anexo": "36100-BF0-BZ01_20260330_160509_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "garantia": {
+        "id": 729123850,
+        "dt_cad": "2026-04-08T17:35:35.673Z",
+        "codcli": "21796",
+        "codusur": "218",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "alfredo"
+    },
+    "garantia_itens": [
+        {
+            "id": "7291238500",
+            "fk_garantia": 729123850,
+            "codcli": "21796",
+            "codprod": "31120-BF0-CG10",
+            "codfab": "31120-BF0-CG10",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "Com defeito"
+        },
+        {
+            "id": "7291238501",
+            "fk_garantia": 729123850,
+            "codcli": "21796",
+            "codprod": "12210-DF0-CG01",
+            "codfab": "12210-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o engata"
+        },
+        {
+            "id": "7291238502",
+            "fk_garantia": 729123850,
+            "codcli": "21796",
+            "codprod": "81140-BF0-CG19",
+            "codfab": "81140-BF0-CG19",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem press\u00e3o"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "7291238500",
+            "anexo": "31120-BF0-CG10_20260408_143530_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7291238501",
+            "anexo": "12210-DF0-CG01_20260408_143244_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "7291238502",
+            "anexo": "81140-BF0-CG19_20260408_142114_1.jpeg"
+        }
+    ]
+}

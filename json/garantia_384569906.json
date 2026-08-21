@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 384569906,
+        "dt_cad": "2026-04-07T19:36:42.183Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "3845699060",
+            "fk_garantia": 384569906,
+            "codcli": "8839",
+            "codprod": "35110-DF0-BZ02",
+            "codfab": "35110-DF0-BZ02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "derretendo com a temp da lampada"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "3845699060",
+            "anexo": "35110-DF0-BZ02_20260407_153636_1.jpeg"
+        }
+    ]
+}

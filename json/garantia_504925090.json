@@ -1,0 +1,51 @@
+{
+    "garantia": {
+        "id": 504925090,
+        "dt_cad": "2026-03-30T18:01:40.790Z",
+        "codcli": "19695",
+        "codusur": "321",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "fernandoa"
+    },
+    "garantia_itens": [
+        {
+            "id": "5049250900",
+            "fk_garantia": 504925090,
+            "codcli": "19695",
+            "codprod": "43111-BF0-CG20",
+            "codfab": "43111-BF0-CG20",
+            "qtd": "40",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "A BASE DO EIXO ONDE VAI A LONA ESTA MAIS FINO, POR EXPERIENCIA ESTE EIXO VAI NA TITAN 99 E N\u00c3O NA TITAN 150, POR\u00c9M A 99 N\u00c3O VAI COM O INDICADOR DE DESGASTE CONFORME FOTO CIRCULADA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5049250900",
+            "anexo": "43111-BF0-CG20_20260330_150131_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5049250900",
+            "anexo": "43111-BF0-CG20_20260330_150131_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5049250900",
+            "anexo": "43111-BF0-CG20_20260330_150131_3.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "5049250900",
+            "anexo": "43111-BF0-CG20_20260330_150131_4.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "5049250900",
+            "anexo": "43111-BF0-CG20_20260330_150131_5.jpg"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 367844772,
+        "dt_cad": "2026-04-07T11:49:06.345Z",
+        "codcli": "11346",
+        "codusur": "343",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "nilberto"
+    },
+    "garantia_itens": [
+        {
+            "id": "3678447720",
+            "fk_garantia": 367844772,
+            "codcli": "11346",
+            "codprod": "41172-BF3-TD00",
+            "codfab": "41172-BF3-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "furada"
+        },
+        {
+            "id": "3678447721",
+            "fk_garantia": 367844772,
+            "codcli": "11346",
+            "codprod": "41172-BF2-TD00",
+            "codfab": "41172-BF2-TD00",
+            "qtd": "4",
+            "motivo": "Outros",
+            "observacao": "furada"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "3678447720",
+            "anexo": "41172-BF3-TD00_20260407_084833_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3678447721",
+            "anexo": "41172-BF2-TD00_20260407_084704_1.jpeg"
+        }
+    ]
+}

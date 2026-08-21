@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 453311210,
+        "dt_cad": "2026-04-04T13:58:28.137Z",
+        "codcli": "13903",
+        "codusur": "298",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "formosa.pneus"
+    },
+    "garantia_itens": [
+        {
+            "id": "4533112100",
+            "fk_garantia": 453311210,
+            "codcli": "13903",
+            "codprod": "44130-BF0-BR03",
+            "codfab": "44130-BF0-BR03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "DEFEITO DE FABRICA, QUANDO APERTA VAZA OLEO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "4533112100",
+            "anexo": "44130-BF0-BR03_20260404_105807_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4533112100",
+            "anexo": "44130-BF0-BR03_20260404_105807_2.jpeg"
+        }
+    ]
+}

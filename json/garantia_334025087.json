@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 334025087,
+        "dt_cad": "2026-03-31T18:40:43.978Z",
+        "codcli": "12410",
+        "codusur": "331",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "lucas.souza"
+    },
+    "garantia_itens": [
+        {
+            "id": "3340250870",
+            "fk_garantia": 334025087,
+            "codcli": "12410",
+            "codprod": "32100-DB0-YB02",
+            "codfab": "32100-DB0-YB02",
+            "qtd": "6",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o ta passando corrente, voltou tudo"
+        },
+        {
+            "id": "3340250871",
+            "fk_garantia": 334025087,
+            "codcli": "12410",
+            "codprod": "12130-DF1-CG08",
+            "codfab": "12130-DF1-CG08",
+            "qtd": "6",
+            "motivo": "Outros",
+            "observacao": "3 dessas n\u00e3o pegaram, o cliente quer devolver outras 3 que comprou"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "3340250870",
+            "anexo": "32100-DB0-YB02_20260331_154040_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3340250871",
+            "anexo": "12130-DF1-CG08_20260331_153959_1.jpeg"
+        }
+    ]
+}

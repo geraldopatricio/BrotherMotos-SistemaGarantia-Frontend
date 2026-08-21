@@ -1,0 +1,121 @@
+{
+    "garantia": {
+        "id": 339296888,
+        "dt_cad": "2026-04-16T18:36:03.453Z",
+        "codcli": "22233",
+        "codusur": "340",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "lobato"
+    },
+    "garantia_itens": [
+        {
+            "id": "3392968880",
+            "fk_garantia": 339296888,
+            "codcli": "22233",
+            "codprod": "81140-BF0-BZ04",
+            "codfab": "81140-BF0-BZ04",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "Sem press\u00e3o"
+        },
+        {
+            "id": "3392968881",
+            "fk_garantia": 339296888,
+            "codcli": "22233",
+            "codprod": "81140-DF0-NE01",
+            "codfab": "81140-DF0-NE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Sem press\u00e3o"
+        },
+        {
+            "id": "3392968882",
+            "fk_garantia": 339296888,
+            "codcli": "22233",
+            "codprod": "35501-BF0-PH01",
+            "codfab": "35501-BF0-PH01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Vieram quebradas"
+        },
+        {
+            "id": "3392968883",
+            "fk_garantia": 339296888,
+            "codcli": "22233",
+            "codprod": "81140-BF0-CB04",
+            "codfab": "81140-BF0-CB04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Sem press\u00e3o"
+        },
+        {
+            "id": "3392968884",
+            "fk_garantia": 339296888,
+            "codcli": "22233",
+            "codprod": "37410-DB0-CB02",
+            "codfab": "37410-DB0-CB02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "Apagando sozinha"
+        },
+        {
+            "id": "3392968885",
+            "fk_garantia": 339296888,
+            "codcli": "22233",
+            "codprod": "36100-BF0-JE01",
+            "codfab": "36100-BF0-JE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Marcadores n\u00e3o acende"
+        },
+        {
+            "id": "3392968886",
+            "fk_garantia": 339296888,
+            "codcli": "22233",
+            "codprod": "45112-DF0-XR02",
+            "codfab": "45112-DF0-XR02",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "Est\u00e1 vazando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 8,
+            "fk_item": "3392968880",
+            "anexo": "81140-BF0-BZ04_20260416_153556_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "3392968881",
+            "anexo": "81140-DF0-NE01_20260416_153513_7.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "3392968883",
+            "anexo": "81140-BF0-CB04_20260416_153236_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3392968884",
+            "anexo": "37410-DB0-CB02_20260416_153140_4.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3392968885",
+            "anexo": "36100-BF0-JE01_20260416_153104_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3392968885",
+            "anexo": "36100-BF0-JE01_20260416_153104_3.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3392968886",
+            "anexo": "45112-DF0-XR02_20260416_153020_1.jpeg"
+        }
+    ]
+}

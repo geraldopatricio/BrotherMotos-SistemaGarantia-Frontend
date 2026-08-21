@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 916886439,
+        "dt_cad": "2026-03-27T16:25:09.926Z",
+        "codcli": "11877",
+        "codusur": "1",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "9168864390",
+            "fk_garantia": 916886439,
+            "codcli": "11877",
+            "codprod": "44130-BF0-CG06",
+            "codfab": "44130-BF0-CG06",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Pist\u00f5es travados"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9168864390",
+            "anexo": "44130-BF0-CG06_20260327_132459_1.jpeg"
+        }
+    ]
+}

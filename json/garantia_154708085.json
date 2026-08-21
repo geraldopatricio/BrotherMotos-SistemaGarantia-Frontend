@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 154708085,
+        "dt_cad": "2026-04-07T13:02:02.295Z",
+        "codcli": "8128",
+        "codusur": "159",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "caninana.imperatriz"
+    },
+    "garantia_itens": [
+        {
+            "id": "1547080850",
+            "fk_garantia": 154708085,
+            "codcli": "8128",
+            "codprod": "81110-DF0-CG01",
+            "codfab": "81110-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "Bomba fica travando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1547080850",
+            "anexo": "81110-DF0-CG01_20260407_100153_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1547080850",
+            "anexo": "81110-DF0-CG01_20260407_100153_2.mp4"
+        }
+    ]
+}

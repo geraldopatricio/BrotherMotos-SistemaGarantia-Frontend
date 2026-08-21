@@ -1,0 +1,146 @@
+{
+    "garantia": {
+        "id": 384341148,
+        "dt_cad": "2026-04-16T18:57:49.254Z",
+        "codcli": "18588",
+        "codusur": "307",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "arthur"
+    },
+    "garantia_itens": [
+        {
+            "id": "3843411480",
+            "fk_garantia": 384341148,
+            "codcli": "18588",
+            "codprod": "11203-DF0-PO01",
+            "codfab": "11203-DF0-PO01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "defeito junta ja veio rasgado"
+        },
+        {
+            "id": "3843411481",
+            "fk_garantia": 384341148,
+            "codcli": "18588",
+            "codprod": "82110-DF0-JE01",
+            "codfab": "82110-DF0-JE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "defeito pintura"
+        },
+        {
+            "id": "3843411482",
+            "fk_garantia": 384341148,
+            "codcli": "18588",
+            "codprod": "82700-DF1-JE23",
+            "codfab": "82700-DF1-JE23",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "falha pintura e riscos "
+        },
+        {
+            "id": "3843411483",
+            "fk_garantia": 384341148,
+            "codcli": "18588",
+            "codprod": "82700-DF3-JE23",
+            "codfab": "82700-DF3-JE23",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "1 quebreado e 1 arrranhado "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 18,
+            "fk_item": "3843411480",
+            "anexo": "11203-DF0-PO01_20260416_155557_18.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "3843411480",
+            "anexo": "11203-DF0-PO01_20260416_155557_19.jpeg"
+        },
+        {
+            "id": 20,
+            "fk_item": "3843411480",
+            "anexo": "11203-DF0-PO01_20260416_155557_20.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "3843411481",
+            "anexo": "82110-DF0-JE01_20260416_155328_16.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "3843411481",
+            "anexo": "82110-DF0-JE01_20260416_155328_17.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "3843411482",
+            "anexo": "82700-DF1-JE23_20260416_154855_9.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "3843411482",
+            "anexo": "82700-DF1-JE23_20260416_154855_10.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "3843411482",
+            "anexo": "82700-DF1-JE23_20260416_154855_11.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "3843411482",
+            "anexo": "82700-DF1-JE23_20260416_154855_12.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "3843411482",
+            "anexo": "82700-DF1-JE23_20260416_154855_13.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "3843411482",
+            "anexo": "82700-DF1-JE23_20260416_154855_14.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "3843411482",
+            "anexo": "82700-DF1-JE23_20260416_154855_15.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3843411483",
+            "anexo": "82700-DF3-JE23_20260416_154627_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3843411483",
+            "anexo": "82700-DF3-JE23_20260416_154627_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "3843411483",
+            "anexo": "82700-DF3-JE23_20260416_154627_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "3843411483",
+            "anexo": "82700-DF3-JE23_20260416_154627_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "3843411483",
+            "anexo": "82700-DF3-JE23_20260416_154627_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "3843411483",
+            "anexo": "82700-DF3-JE23_20260416_154627_8.jpeg"
+        }
+    ]
+}

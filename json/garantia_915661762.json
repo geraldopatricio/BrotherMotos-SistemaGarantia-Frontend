@@ -1,0 +1,161 @@
+{
+    "garantia": {
+        "id": 915661762,
+        "dt_cad": "2026-04-08T14:35:19.341Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "9156617620",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "44130-BF0-CG12",
+            "codfab": "44130-BF0-CG12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "frouxo"
+        },
+        {
+            "id": "9156617621",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "31120-DF0-FZ01",
+            "codfab": "31120-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "9156617622",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "11600-DF0-TW01",
+            "codfab": "11600-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o segura na lenta "
+        },
+        {
+            "id": "9156617623",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "12101-DF0-YB02",
+            "codfab": "12101-DF0-YB02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "9156617624",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "33200-DB0-BZ01",
+            "codfab": "33200-DB0-BZ01",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "em curto "
+        },
+        {
+            "id": "9156617625",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "parou de gerar "
+        },
+        {
+            "id": "9156617626",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "33300-BB0-XR04",
+            "codfab": "33300-BB0-XR04",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "em curto"
+        },
+        {
+            "id": "9156617627",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "37240-DF0-FZ02",
+            "codfab": "37240-DF0-FZ02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "mau contato"
+        },
+        {
+            "id": "9156617628",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "31120-DF0-XR02",
+            "codfab": "31120-DF0-XR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o passa centelha "
+        },
+        {
+            "id": "9156617629",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "81110-BF0-BR12",
+            "codfab": "81110-BF0-BR12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "parou de gerar"
+        },
+        {
+            "id": "91566176210",
+            "fk_garantia": 915661762,
+            "codcli": "8839",
+            "codprod": "36100-DF0-CG31",
+            "codfab": "36100-DF0-CG31",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 7,
+            "fk_item": "9156617620",
+            "anexo": "44130-BF0-CG12_20260408_095818_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "9156617622",
+            "anexo": "11600-DF0-TW01_20260408_095432_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "9156617623",
+            "anexo": "12101-DF0-YB02_20260408_095159_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "9156617624",
+            "anexo": "33200-DB0-BZ01_20260408_095029_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9156617627",
+            "anexo": "37240-DF0-FZ02_20260408_093017_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9156617628",
+            "anexo": "31120-DF0-XR02_20260408_092916_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "9156617629",
+            "anexo": "81110-BF0-BR12_20260408_092335_1.jpg"
+        }
+    ]
+}

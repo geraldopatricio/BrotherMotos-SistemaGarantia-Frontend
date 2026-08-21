@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 641797351,
+        "dt_cad": "2026-04-08T13:23:12.106Z",
+        "codcli": "14454",
+        "codusur": "315",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "isnael"
+    },
+    "garantia_itens": [
+        {
+            "id": "6417973510",
+            "fk_garantia": 641797351,
+            "codcli": "14454",
+            "codprod": "35501-DF4-CG08",
+            "codfab": "35501-DF4-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Fundo da l\u00e2mpada descolou"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "6417973510",
+            "anexo": "35501-DF4-CG08_20260408_092310_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "6417973510",
+            "anexo": "35501-DF4-CG08_20260408_092310_2.jpg"
+        }
+    ]
+}

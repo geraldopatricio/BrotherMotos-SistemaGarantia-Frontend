@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 628892459,
+        "dt_cad": "2026-04-13T17:47:41.830Z",
+        "codcli": "9064",
+        "codusur": "244",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mota"
+    },
+    "garantia_itens": [
+        {
+            "id": "6288924590",
+            "fk_garantia": 628892459,
+            "codcli": "9064",
+            "codprod": "36100-DF0-BZ03",
+            "codfab": "36100-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "MARCA ERRADO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "6288924590",
+            "anexo": "36100-DF0-BZ03_20260413_144739_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "6288924590",
+            "anexo": "36100-DF0-BZ03_20260413_144739_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "6288924590",
+            "anexo": "36100-DF0-BZ03_20260413_144739_3.mp4"
+        }
+    ]
+}

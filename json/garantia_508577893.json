@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 508577893,
+        "dt_cad": "2026-04-14T20:11:26.028Z",
+        "codcli": "2138",
+        "codusur": "190",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "companny"
+    },
+    "garantia_itens": [
+        {
+            "id": "5085778930",
+            "fk_garantia": 508577893,
+            "codcli": "2138",
+            "codprod": "36101-BF0-CG07",
+            "codfab": "36101-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O ESTA MARCANDO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5085778930",
+            "anexo": "36101-BF0-CG07_20260414_171119_1.jpeg"
+        }
+    ]
+}

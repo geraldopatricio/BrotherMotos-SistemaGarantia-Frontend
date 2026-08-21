@@ -1,0 +1,91 @@
+{
+    "garantia": {
+        "id": 475155211,
+        "dt_cad": "2026-03-27T18:24:33.511Z",
+        "codcli": "11510",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "sidneyde"
+    },
+    "garantia_itens": [
+        {
+            "id": "4751552110",
+            "fk_garantia": 475155211,
+            "codcli": "11510",
+            "codprod": "34100-BB0-CG03",
+            "codfab": "34100-BB0-CG03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Falta Plug do CDI no chicote"
+        },
+        {
+            "id": "4751552111",
+            "fk_garantia": 475155211,
+            "codcli": "11510",
+            "codprod": "35200-DF0-CG04",
+            "codfab": "35200-DF0-CG04",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Porca interna fixa\u00e7\u00e3o lanterna."
+        },
+        {
+            "id": "4751552112",
+            "fk_garantia": 475155211,
+            "codcli": "11510",
+            "codprod": "12321-BF0-CG03",
+            "codfab": "12321-BF0-CG03",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o Efetua a troca de marcha."
+        },
+        {
+            "id": "4751552113",
+            "fk_garantia": 475155211,
+            "codcli": "11510",
+            "codprod": "55100-BF0-CG03",
+            "codfab": "55100-BF0-CG03",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "amortecedor sem pressao"
+        },
+        {
+            "id": "4751552114",
+            "fk_garantia": 475155211,
+            "codcli": "11510",
+            "codprod": "81110-BF0-BR01",
+            "codfab": "81110-BF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Veio com conector quebrado."
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "4751552110",
+            "anexo": "34100-BB0-CG03_20260327_152424_5.png"
+        },
+        {
+            "id": 4,
+            "fk_item": "4751552111",
+            "anexo": "35200-DF0-CG04_20260327_152404_4.png"
+        },
+        {
+            "id": 3,
+            "fk_item": "4751552112",
+            "anexo": "12321-BF0-CG03_20260327_152341_3.png"
+        },
+        {
+            "id": 2,
+            "fk_item": "4751552113",
+            "anexo": "55100-BF0-CG03_20260327_152312_2.png"
+        },
+        {
+            "id": 1,
+            "fk_item": "4751552114",
+            "anexo": "81110-BF0-BR01_20260327_152235_1.png"
+        }
+    ]
+}

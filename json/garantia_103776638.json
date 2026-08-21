@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 103776638,
+        "dt_cad": "2026-04-08T13:55:47.164Z",
+        "codcli": "19446",
+        "codusur": "347",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "flavio.araujo"
+    },
+    "garantia_itens": [
+        {
+            "id": "1037766380",
+            "fk_garantia": 103776638,
+            "codcli": "19446",
+            "codprod": "31200-BB0-YB01",
+            "codfab": "31200-BB0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "a pe\u00e7a veio quebrada na caixa"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1037766380",
+            "anexo": "31200-BB0-YB01_20260408_105538_1.jfif"
+        },
+        {
+            "id": 2,
+            "fk_item": "1037766380",
+            "anexo": "31200-BB0-YB01_20260408_105538_2.jfif"
+        }
+    ]
+}

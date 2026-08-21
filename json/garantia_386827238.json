@@ -1,0 +1,166 @@
+{
+    "garantia": {
+        "id": 386827238,
+        "dt_cad": "2026-04-15T13:10:57.979Z",
+        "codcli": "20781",
+        "codusur": "233",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "sidneyde"
+    },
+    "garantia_itens": [
+        {
+            "id": "3868272380",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "11600-DF0-YS01",
+            "codfab": "11600-DF0-YS01",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o mantem marcha lenta, n\u00e3o aceita regulagem"
+        },
+        {
+            "id": "3868272381",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "81110-BF0-BR12",
+            "codfab": "81110-BF0-BR12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "sem press\u00e3o"
+        },
+        {
+            "id": "3868272382",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "41150-DF0-BR01",
+            "codfab": "41150-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "espa\u00e7ador interno solto"
+        },
+        {
+            "id": "3868272383",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "11210-DF0-BR01",
+            "codfab": "11210-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "folgas"
+        },
+        {
+            "id": "3868272384",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "81110-BF0-CG17",
+            "codfab": "81110-BF0-CG17",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ssem press\u00e3o"
+        },
+        {
+            "id": "3868272385",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "92100-DF0-CG01",
+            "codfab": "92100-DF0-CG01",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "amassado"
+        },
+        {
+            "id": "3868272386",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "82700-BF0-JE01",
+            "codfab": "82700-BF0-JE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "quebrado"
+        },
+        {
+            "id": "3868272387",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "82700-BF1-JE01",
+            "codfab": "82700-BF1-JE01",
+            "qtd": "6",
+            "motivo": "Outros",
+            "observacao": "quebrado"
+        },
+        {
+            "id": "3868272388",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "82314-DF0-PH01",
+            "codfab": "82314-DF0-PH01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "quebrado o encaixe e com riscos"
+        },
+        {
+            "id": "3868272389",
+            "fk_garantia": 386827238,
+            "codcli": "20781",
+            "codprod": "82311-BF1-JE01",
+            "codfab": "82311-BF1-JE01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "riscos"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 11,
+            "fk_item": "3868272380",
+            "anexo": "11600-DF0-YS01_20260415_100015_11.jpg"
+        },
+        {
+            "id": 10,
+            "fk_item": "3868272381",
+            "anexo": "81110-BF0-BR12_20260415_095906_10.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "3868272382",
+            "anexo": "41150-DF0-BR01_20260415_095809_9.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "3868272383",
+            "anexo": "11210-DF0-BR01_20260415_095706_8.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "3868272384",
+            "anexo": "81110-BF0-CG17_20260415_095223_7.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "3868272385",
+            "anexo": "92100-DF0-CG01_20260415_094932_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3868272386",
+            "anexo": "82700-BF0-JE01_20260415_094656_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3868272387",
+            "anexo": "82700-BF1-JE01_20260415_094445_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3868272388",
+            "anexo": "82314-DF0-PH01_20260415_094300_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3868272389",
+            "anexo": "82311-BF1-JE01_20260415_094023_1.jpg"
+        }
+    ]
+}

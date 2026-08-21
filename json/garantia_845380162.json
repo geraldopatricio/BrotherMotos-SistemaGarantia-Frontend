@@ -1,0 +1,61 @@
+{
+    "garantia": {
+        "id": 845380162,
+        "dt_cad": "2026-04-13T18:50:35.916Z",
+        "codcli": "2022",
+        "codusur": "239",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "8453801620",
+            "fk_garantia": 845380162,
+            "codcli": "2022",
+            "codprod": "55100-BF0-CG08",
+            "codfab": "55100-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SOCANDO"
+        },
+        {
+            "id": "8453801621",
+            "fk_garantia": 845380162,
+            "codcli": "2022",
+            "codprod": "81110-BF0-CG19",
+            "codfab": "81110-BF0-CG19",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO FUNCIONA"
+        },
+        {
+            "id": "8453801622",
+            "fk_garantia": 845380162,
+            "codcli": "2022",
+            "codprod": "81110-BF0-CG15",
+            "codfab": "81110-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao funciona"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "8453801620",
+            "anexo": "55100-BF0-CG08_20260413_155034_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "8453801621",
+            "anexo": "81110-BF0-CG19_20260413_154912_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8453801622",
+            "anexo": "81110-BF0-CG15_20260413_154801_1.jpeg"
+        }
+    ]
+}

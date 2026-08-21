@@ -1,0 +1,56 @@
+{
+    "garantia": {
+        "id": 581168461,
+        "dt_cad": "2026-04-10T10:30:03.569Z",
+        "codcli": "15328",
+        "codusur": "298",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "marilene"
+    },
+    "garantia_itens": [
+        {
+            "id": "5811684610",
+            "fk_garantia": 581168461,
+            "codcli": "15328",
+            "codprod": "8110D-F0N-M01",
+            "codfab": "8110D-F0N-M01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "funciona engasgando"
+        },
+        {
+            "id": "5811684611",
+            "fk_garantia": 581168461,
+            "codcli": "15328",
+            "codprod": "81110-BF0-CG13",
+            "codfab": "81110-BF0-CG13",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "falhando "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "5811684610",
+            "anexo": "8110D-F0N-M01_20260410_072914_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "5811684610",
+            "anexo": "8110D-F0N-M01_20260410_072914_4.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "5811684611",
+            "anexo": "81110-BF0-CG13_20260410_072834_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5811684611",
+            "anexo": "81110-BF0-CG13_20260410_072834_2.jpeg"
+        }
+    ]
+}

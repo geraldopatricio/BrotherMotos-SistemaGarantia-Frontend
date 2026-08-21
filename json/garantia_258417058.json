@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 258417058,
+        "dt_cad": "2026-04-15T12:07:49.994Z",
+        "codcli": "19418",
+        "codusur": "288",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "2584170580",
+            "fk_garantia": 258417058,
+            "codcli": "19418",
+            "codprod": "31120-DF0-CG02",
+            "codfab": "31120-DF0-CG02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "BOBINA N\u00c3O MANDA CENTELHA"
+        },
+        {
+            "id": "2584170581",
+            "fk_garantia": 258417058,
+            "codcli": "19418",
+            "codprod": "81140-BF0-CG19",
+            "codfab": "81140-BF0-CG19",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESS\u00c3O"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "2584170580",
+            "anexo": "31120-DF0-CG02_20260415_090748_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "2584170581",
+            "anexo": "81140-BF0-CG19_20260415_090521_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "garantia": {
+        "id": 445774733,
+        "dt_cad": "2026-04-13T19:59:21.516Z",
+        "codcli": "20085",
+        "codusur": "326",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "araujo"
+    },
+    "garantia_itens": [
+        {
+            "id": "4457747330",
+            "fk_garantia": 445774733,
+            "codcli": "20085",
+            "codprod": "36210-DF0-CG06",
+            "codfab": "36210-DF0-CG06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao marca tanque cheio"
+        },
+        {
+            "id": "4457747331",
+            "fk_garantia": 445774733,
+            "codcli": "20085",
+            "codprod": "82370-DF0-BZ03",
+            "codfab": "82370-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "quebrada"
+        },
+        {
+            "id": "4457747332",
+            "fk_garantia": 445774733,
+            "codcli": "20085",
+            "codprod": "33200-DB0-CG01",
+            "codfab": "33200-DB0-CG01",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "4457747330",
+            "anexo": "36210-DF0-CG06_20260413_165919_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "4457747330",
+            "anexo": "36210-DF0-CG06_20260413_165919_7.mp4"
+        },
+        {
+            "id": 4,
+            "fk_item": "4457747331",
+            "anexo": "82370-DF0-BZ03_20260413_165840_4.mp4"
+        },
+        {
+            "id": 5,
+            "fk_item": "4457747331",
+            "anexo": "82370-DF0-BZ03_20260413_165840_5.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4457747332",
+            "anexo": "33200-DB0-CG01_20260413_165721_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4457747332",
+            "anexo": "33200-DB0-CG01_20260413_165721_2.mp4"
+        },
+        {
+            "id": 3,
+            "fk_item": "4457747332",
+            "anexo": "33200-DB0-CG01_20260413_165721_3.mp4"
+        }
+    ]
+}

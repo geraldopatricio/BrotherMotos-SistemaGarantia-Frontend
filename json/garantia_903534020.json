@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 903534020,
+        "dt_cad": "2026-04-20T18:05:38.729Z",
+        "codcli": "13625",
+        "codusur": "331",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "lucas.souza"
+    },
+    "garantia_itens": [
+        {
+            "id": "9035340200",
+            "fk_garantia": 903534020,
+            "codcli": "13625",
+            "codprod": "41100-DF1-YB01",
+            "codfab": "41100-DF1-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "quando coloca fica empenada"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9035340200",
+            "anexo": "41100-DF1-YB01_20260420_150537_1.jpeg"
+        }
+    ]
+}

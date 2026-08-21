@@ -1,0 +1,106 @@
+{
+    "garantia": {
+        "id": 672938318,
+        "dt_cad": "2026-04-07T12:34:47.356Z",
+        "codcli": "12741",
+        "codusur": "244",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "sidneyde"
+    },
+    "garantia_itens": [
+        {
+            "id": "6729383180",
+            "fk_garantia": 672938318,
+            "codcli": "12741",
+            "codprod": "11430-BF0-CG15",
+            "codfab": "11430-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "quebrou rolete balamcim"
+        },
+        {
+            "id": "6729383181",
+            "fk_garantia": 672938318,
+            "codcli": "12741",
+            "codprod": "81120-BF0-CG01",
+            "codfab": "81120-BF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "veio obstruido"
+        },
+        {
+            "id": "6729383182",
+            "fk_garantia": 672938318,
+            "codcli": "12741",
+            "codprod": "33400-BF0-BR01",
+            "codfab": "33400-BF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao funcionou na moto "
+        },
+        {
+            "id": "6729383183",
+            "fk_garantia": 672938318,
+            "codcli": "12741",
+            "codprod": "33400-BF0-CG08",
+            "codfab": "33400-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "veio com a parte branca solta"
+        },
+        {
+            "id": "6729383184",
+            "fk_garantia": 672938318,
+            "codcli": "12741",
+            "codprod": "33410-BF0-CG08",
+            "codfab": "33410-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao encaixa na vela "
+        },
+        {
+            "id": "6729383185",
+            "fk_garantia": 672938318,
+            "codcli": "12741",
+            "codprod": "35501-BF0-CG01",
+            "codfab": "35501-BF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "veio quimada esbranqui\u00e7ada "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "6729383180",
+            "anexo": "11430-BF0-CG15_20260407_093412_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "6729383181",
+            "anexo": "81120-BF0-CG01_20260407_093239_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "6729383182",
+            "anexo": "33400-BF0-BR01_20260407_093150_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "6729383183",
+            "anexo": "33400-BF0-CG08_20260407_093056_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "6729383184",
+            "anexo": "33410-BF0-CG08_20260407_092954_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "6729383185",
+            "anexo": "35501-BF0-CG01_20260407_092853_1.jpg"
+        }
+    ]
+}

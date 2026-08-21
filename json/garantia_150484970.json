@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 150484970,
+        "dt_cad": "2026-03-26T20:09:37.614Z",
+        "codcli": "222",
+        "codusur": "1",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "geraldo"
+    },
+    "garantia_itens": [
+        {
+            "id": "1504849700",
+            "fk_garantia": 150484970,
+            "codcli": "222",
+            "codprod": "61230-BC0-BR10",
+            "codfab": "61230-BC0-BR10",
+            "qtd": "2",
+            "motivo": "Travando",
+            "observacao": "afasdf"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1504849700",
+            "anexo": "61230-BC0-BR10_20260326_170935_1.jpg"
+        }
+    ]
+}

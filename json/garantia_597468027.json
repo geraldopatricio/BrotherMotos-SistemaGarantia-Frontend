@@ -1,0 +1,151 @@
+{
+    "garantia": {
+        "id": 597468027,
+        "dt_cad": "2026-04-14T16:47:58.362Z",
+        "codcli": "13300",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "5974680270",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "52110-BF0-CG07",
+            "codfab": "52110-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": " Est\u00e1 vazando "
+        },
+        {
+            "id": "5974680271",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "71160-BF0-TD00",
+            "codfab": "71160-BF0-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": " Est\u00e1 com defeito "
+        },
+        {
+            "id": "5974680272",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "11471-BF1-CG07",
+            "codfab": "11471-BF1-CG07",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": " Est\u00e1 retornando a trava "
+        },
+        {
+            "id": "5974680273",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "37420-DB0-CG05",
+            "codfab": "37420-DB0-CG05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": " Corta corrente e n\u00e3o liga "
+        },
+        {
+            "id": "5974680274",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "37300-DB0-CG01",
+            "codfab": "37300-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": " Sem sinal "
+        },
+        {
+            "id": "5974680275",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "81141-DF0-CG01",
+            "codfab": "81141-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Est\u00e1 vazando"
+        },
+        {
+            "id": "5974680276",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "35320-DF0-BZ03",
+            "codfab": "35320-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Pisca chegou quebrado"
+        },
+        {
+            "id": "5974680277",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Est\u00e1 vazando"
+        },
+        {
+            "id": "5974680278",
+            "fk_garantia": 597468027,
+            "codcli": "13300",
+            "codprod": "33300-BB0-NX02",
+            "codfab": "33300-BB0-NX02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o est\u00e1 acionando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 9,
+            "fk_item": "5974680270",
+            "anexo": "52110-BF0-CG07_20260414_134709_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "5974680271",
+            "anexo": "71160-BF0-TD00_20260414_132821_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "5974680272",
+            "anexo": "11471-BF1-CG07_20260414_132750_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "5974680273",
+            "anexo": "37420-DB0-CG05_20260414_132706_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "5974680274",
+            "anexo": "37300-DB0-CG01_20260414_132623_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "5974680275",
+            "anexo": "81141-DF0-CG01_20260414_132556_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5974680276",
+            "anexo": "35320-DF0-BZ03_20260414_132528_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5974680277",
+            "anexo": "11600-BF0-CG08_20260414_132452_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "5974680278",
+            "anexo": "33300-BB0-NX02_20260414_132428_1.jpeg"
+        }
+    ]
+}

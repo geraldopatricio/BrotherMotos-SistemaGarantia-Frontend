@@ -1,0 +1,96 @@
+{
+    "garantia": {
+        "id": 152398973,
+        "dt_cad": "2026-04-06T14:14:29.285Z",
+        "codcli": "13734",
+        "codusur": "341",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "extremodistribuidora"
+    },
+    "garantia_itens": [
+        {
+            "id": "1523989730",
+            "fk_garantia": 152398973,
+            "codcli": "13734",
+            "codprod": "11200-DF0-XY01",
+            "codfab": "11200-DF0-XY01",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "N\u00e3o encaixa na guia da corrente de comando!"
+        },
+        {
+            "id": "1523989731",
+            "fk_garantia": 152398973,
+            "codcli": "13734",
+            "codprod": "33300-BB0-CG10",
+            "codfab": "33300-BB0-CG10",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o funcionou!"
+        },
+        {
+            "id": "1523989732",
+            "fk_garantia": 152398973,
+            "codcli": "13734",
+            "codprod": "12420-BF0-CG04",
+            "codfab": "12420-BF0-CG04",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "Encaixe do lado contrario!"
+        },
+        {
+            "id": "1523989733",
+            "fk_garantia": 152398973,
+            "codcli": "13734",
+            "codprod": "33300-BB0-PH02",
+            "codfab": "33300-BB0-PH02",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "N\u00e3o funcionou!"
+        },
+        {
+            "id": "1523989734",
+            "fk_garantia": 152398973,
+            "codcli": "13734",
+            "codprod": "33200-BB0-BZ01",
+            "codfab": "33200-BB0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o funcionou!"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "1523989730",
+            "anexo": "11200-DF0-XY01_20260406_111423_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "1523989731",
+            "anexo": "33300-BB0-CG10_20260406_111203_5.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1523989732",
+            "anexo": "12420-BF0-CG04_20260406_111114_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "1523989732",
+            "anexo": "12420-BF0-CG04_20260406_111114_4.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1523989733",
+            "anexo": "33300-BB0-PH02_20260406_110953_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "1523989734",
+            "anexo": "33200-BB0-BZ01_20260406_110901_1.jpeg"
+        }
+    ]
+}

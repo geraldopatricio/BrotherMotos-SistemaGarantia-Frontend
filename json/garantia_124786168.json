@@ -1,0 +1,471 @@
+{
+    "garantia": {
+        "id": 124786168,
+        "dt_cad": "2026-03-31T15:35:14.097Z",
+        "codcli": "18074",
+        "codusur": "308",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "carlos"
+    },
+    "garantia_itens": [
+        {
+            "id": "1247861680",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "81140-BF0-CG19",
+            "codfab": "81140-BF0-CG19",
+            "qtd": "1",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem pressAo"
+        },
+        {
+            "id": "1247861681",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "81140-DF0-XR01",
+            "codfab": "81140-DF0-XR01",
+            "qtd": "1",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem press\u00e3o "
+        },
+        {
+            "id": "1247861682",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "81140-DF0-FZ03",
+            "codfab": "81140-DF0-FZ03",
+            "qtd": "4",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem press\u00e3o "
+        },
+        {
+            "id": "1247861683",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "81140-BF0-PO02",
+            "codfab": "81140-BF0-PO02",
+            "qtd": "2",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Se press\u00e3o "
+        },
+        {
+            "id": "1247861684",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "81140-DF0-CB01",
+            "codfab": "81140-DF0-CB01",
+            "qtd": "10",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem press\u00e3o "
+        },
+        {
+            "id": "1247861685",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "37440-DB0-CG01",
+            "codfab": "37440-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Sem funcionar "
+        },
+        {
+            "id": "1247861686",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "53220-DF0-FZ03",
+            "codfab": "53220-DF0-FZ03",
+            "qtd": "5",
+            "motivo": "Outros",
+            "observacao": "Faltando pe\u00e7as "
+        },
+        {
+            "id": "1247861687",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "35130-BB0-BR13",
+            "codfab": "35130-BB0-BR13",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Fio partido"
+        },
+        {
+            "id": "1247861688",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "12110-BF0-CG06",
+            "codfab": "12110-BF0-CG06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Desmontou "
+        },
+        {
+            "id": "1247861689",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "54400-DF0-FZ01",
+            "codfab": "54400-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "N\u00e3o compat\u00edvel",
+            "observacao": "Lado errado "
+        },
+        {
+            "id": "12478616810",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "55100-BF0-BR01",
+            "codfab": "55100-BF0-BR01",
+            "qtd": "1",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem pressa"
+        },
+        {
+            "id": "12478616811",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "55100-DF0-XT02",
+            "codfab": "55100-DF0-XT02",
+            "qtd": "5",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem press\u00e3o , batendo "
+        },
+        {
+            "id": "12478616812",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "12130-BF0-CG15",
+            "codfab": "12130-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": "Trepidando "
+        },
+        {
+            "id": "12478616813",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "12101-BF0-CG22",
+            "codfab": "12101-BF0-CG22",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Empenado o dente "
+        },
+        {
+            "id": "12478616814",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "32100-DB0-JE01",
+            "codfab": "32100-DB0-JE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Queimou o terminal "
+        },
+        {
+            "id": "12478616815",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "32100-DB0-FZ02",
+            "codfab": "32100-DB0-FZ02",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "Sem funcionar "
+        },
+        {
+            "id": "12478616816",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "32100-DB0-XR02",
+            "codfab": "32100-DB0-XR02",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "Sem gerar "
+        },
+        {
+            "id": "12478616817",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "12220-DF0-CG03",
+            "codfab": "12220-DF0-CG03",
+            "qtd": "1",
+            "motivo": "N\u00e3o regula",
+            "observacao": "N\u00e3o encaixar "
+        },
+        {
+            "id": "12478616818",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "35310-BF1-XT03",
+            "codfab": "35310-BF1-XT03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Partiu na base "
+        },
+        {
+            "id": "12478616819",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "92540-DF0-CG01",
+            "codfab": "92540-DF0-CG01",
+            "qtd": "8",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "Sem funcionar "
+        },
+        {
+            "id": "12478616820",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "11200-BF0-CG15",
+            "codfab": "11200-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Pino do pist\u00e3o com defeito "
+        },
+        {
+            "id": "12478616821",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "11200-DF0-FZ02",
+            "codfab": "11200-DF0-FZ02",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "Com vazamento "
+        },
+        {
+            "id": "12478616822",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "81110-DF0-NM01",
+            "codfab": "81110-DF0-NM01",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "Parou de funcionar, sem press\u00e3o "
+        },
+        {
+            "id": "12478616823",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "36100-BF0-CG16",
+            "codfab": "36100-BF0-CG16",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Travando o veloc\u00edmetro "
+        },
+        {
+            "id": "12478616824",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "36100-DF0-CG28",
+            "codfab": "36100-DF0-CG28",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Acionando a luz do abs "
+        },
+        {
+            "id": "12478616825",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "81110-BF0-CG13",
+            "codfab": "81110-BF0-CG13",
+            "qtd": "1",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem pressao"
+        },
+        {
+            "id": "12478616826",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "41172-BF7-TD00",
+            "codfab": "41172-BF7-TD00",
+            "qtd": "1",
+            "motivo": "Falha na vulcaniza\u00e7\u00e3o",
+            "observacao": "Furada na emenda "
+        },
+        {
+            "id": "12478616827",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "35100-DF0-TD01",
+            "codfab": "35100-DF0-TD01",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "Um farol n\u00e3o funciona "
+        },
+        {
+            "id": "12478616828",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "37410-BB0-CG08",
+            "codfab": "37410-BB0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Buzina n\u00e3o funciona "
+        },
+        {
+            "id": "12478616829",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "37420-DB0-CB02",
+            "codfab": "37420-DB0-CB02",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "Sem funcionar "
+        },
+        {
+            "id": "12478616830",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "37410-DB0-CB02",
+            "codfab": "37410-DB0-CB02",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "Sem funcionar "
+        },
+        {
+            "id": "12478616831",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "45112-DF0-BR01",
+            "codfab": "45112-DF0-BR01",
+            "qtd": "2",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem press\u00e3o "
+        },
+        {
+            "id": "12478616832",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "45112-DF0-FZ01",
+            "codfab": "45112-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem a\u00e7\u00e3o "
+        },
+        {
+            "id": "12478616833",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "31200-DB0-FZ01",
+            "codfab": "31200-DB0-FZ01",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "Sem funcionar, fazendo barulho "
+        },
+        {
+            "id": "12478616834",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "45112-DF0-CB01",
+            "codfab": "45112-DF0-CB01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "Vazamento "
+        },
+        {
+            "id": "12478616835",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "37210-DB0-CG01",
+            "codfab": "37210-DB0-CG01",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "Nao liga "
+        },
+        {
+            "id": "12478616836",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "45110-DF0-BR02",
+            "codfab": "45110-DF0-BR02",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "Vazando o fluido "
+        },
+        {
+            "id": "12478616837",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "81141-DF0-CB01",
+            "codfab": "81141-DF0-CB01",
+            "qtd": "1",
+            "motivo": "N\u00e3o injeta combust\u00edvel",
+            "observacao": "Sem passagem de combust\u00edvel "
+        },
+        {
+            "id": "12478616838",
+            "fk_garantia": 124786168,
+            "codcli": "18074",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "Vazamento de combust\u00edvel "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 14,
+            "fk_item": "1247861684",
+            "anexo": "81140-DF0-CB01_20260331_121129_14.jpg"
+        },
+        {
+            "id": 13,
+            "fk_item": "1247861685",
+            "anexo": "37440-DB0-CG01_20260331_120237_13.jpg"
+        },
+        {
+            "id": 12,
+            "fk_item": "12478616810",
+            "anexo": "55100-BF0-BR01_20260331_114605_12.jpg"
+        },
+        {
+            "id": 11,
+            "fk_item": "12478616812",
+            "anexo": "12130-BF0-CG15_20260331_112954_11.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "12478616813",
+            "anexo": "12101-BF0-CG22_20260331_112755_9.jpg"
+        },
+        {
+            "id": 10,
+            "fk_item": "12478616813",
+            "anexo": "12101-BF0-CG22_20260331_112755_10.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "12478616822",
+            "anexo": "81110-DF0-NM01_20260331_105539_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "12478616823",
+            "anexo": "36100-BF0-CG16_20260331_105252_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "12478616825",
+            "anexo": "81110-BF0-CG13_20260331_104940_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "12478616827",
+            "anexo": "35100-DF0-TD01_20260331_103742_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "12478616830",
+            "anexo": "37410-DB0-CB02_20260331_103209_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "12478616831",
+            "anexo": "45112-DF0-BR01_20260331_102857_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "12478616833",
+            "anexo": "31200-DB0-FZ01_20260331_102608_1.jpeg"
+        }
+    ]
+}

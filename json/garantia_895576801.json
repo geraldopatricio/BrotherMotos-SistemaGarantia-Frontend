@@ -1,0 +1,56 @@
+{
+    "garantia": {
+        "id": 895576801,
+        "dt_cad": "2026-04-02T18:11:48.998Z",
+        "codcli": "46",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "antonio.sizimar"
+    },
+    "garantia_itens": [
+        {
+            "id": "8955768010",
+            "fk_garantia": 895576801,
+            "codcli": "46",
+            "codprod": "81110-BF0-CG17",
+            "codfab": "81110-BF0-CG17",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "SEM PRESS\u00c3O"
+        },
+        {
+            "id": "8955768011",
+            "fk_garantia": 895576801,
+            "codcli": "46",
+            "codprod": "37300-DB0-TD01",
+            "codfab": "37300-DB0-TD01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "SEM CORRENTE ELETRICA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "8955768010",
+            "anexo": "81110-BF0-CG17_20260402_151133_2.jfif"
+        },
+        {
+            "id": 3,
+            "fk_item": "8955768010",
+            "anexo": "81110-BF0-CG17_20260402_151133_3.jfif"
+        },
+        {
+            "id": 4,
+            "fk_item": "8955768010",
+            "anexo": "81110-BF0-CG17_20260402_151133_4.mp4"
+        },
+        {
+            "id": 1,
+            "fk_item": "8955768011",
+            "anexo": "37300-DB0-TD01_20260402_151011_1.jfif"
+        }
+    ]
+}

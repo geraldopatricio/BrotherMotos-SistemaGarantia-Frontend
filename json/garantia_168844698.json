@@ -1,0 +1,61 @@
+{
+    "garantia": {
+        "id": 168844698,
+        "dt_cad": "2026-04-20T14:56:00.828Z",
+        "codcli": "14573",
+        "codusur": "307",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "arthur"
+    },
+    "garantia_itens": [
+        {
+            "id": "1688446980",
+            "fk_garantia": 168844698,
+            "codcli": "14573",
+            "codprod": "36101-BF0-CG04",
+            "codfab": "36101-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao funcionou "
+        },
+        {
+            "id": "1688446981",
+            "fk_garantia": 168844698,
+            "codcli": "14573",
+            "codprod": "12110-DF0-FZ01",
+            "codfab": "12110-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "nao gira  "
+        },
+        {
+            "id": "1688446982",
+            "fk_garantia": 168844698,
+            "codcli": "14573",
+            "codprod": "31120-BF0-CG04",
+            "codfab": "31120-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao gera carga "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "1688446980",
+            "anexo": "36101-BF0-CG04_20260420_115559_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1688446981",
+            "anexo": "12110-DF0-FZ01_20260420_115518_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "1688446982",
+            "anexo": "31120-BF0-CG04_20260420_115415_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "garantia": {
+        "id": 812688939,
+        "dt_cad": "2026-04-07T18:51:21.410Z",
+        "codcli": "21631",
+        "codusur": "288",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "8126889390",
+            "fk_garantia": 812688939,
+            "codcli": "21631",
+            "codprod": "11500-DF0-CG03",
+            "codfab": "11500-DF0-CG03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PERDA DE PRESS\u00c3O"
+        },
+        {
+            "id": "8126889391",
+            "fk_garantia": 812688939,
+            "codcli": "21631",
+            "codprod": "11200-DF0-CG08",
+            "codfab": "11200-DF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "FUMA\u00c7OU"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "8126889390",
+            "anexo": "11500-DF0-CG03_20260407_155120_5.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8126889391",
+            "anexo": "11200-DF0-CG08_20260407_155027_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "8126889391",
+            "anexo": "11200-DF0-CG08_20260407_155027_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "8126889391",
+            "anexo": "11200-DF0-CG08_20260407_155027_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "8126889391",
+            "anexo": "11200-DF0-CG08_20260407_155027_4.jpeg"
+        }
+    ]
+}

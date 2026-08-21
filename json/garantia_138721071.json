@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 138721071,
+        "dt_cad": "2026-04-21T15:23:21.811Z",
+        "codcli": "12034",
+        "codusur": "346",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "marcelino"
+    },
+    "garantia_itens": [
+        {
+            "id": "1387210710",
+            "fk_garantia": 138721071,
+            "codcli": "12034",
+            "codprod": "37210-DB0-CG01",
+            "codfab": "37210-DB0-CG01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Chaves apresentaram problemas, liga moto por um tempo depois n\u00e3o liga mais. Cliente testou as duas unidades, cliente foi pra casa e voltou com mesmo problema "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1387210710",
+            "anexo": "37210-DB0-CG01_20260421_122314_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1387210710",
+            "anexo": "37210-DB0-CG01_20260421_122314_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1387210710",
+            "anexo": "37210-DB0-CG01_20260421_122314_3.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "1387210710",
+            "anexo": "37210-DB0-CG01_20260421_122314_4.jpg"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "garantia": {
+        "id": 664540969,
+        "dt_cad": "2026-04-22T10:39:16.710Z",
+        "codcli": "12208",
+        "codusur": "339",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "6645409690",
+            "fk_garantia": 664540969,
+            "codcli": "12208",
+            "codprod": "38100-BF0-CG07",
+            "codfab": "38100-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO ESTA EMITINDO SOM"
+        },
+        {
+            "id": "6645409691",
+            "fk_garantia": 664540969,
+            "codcli": "12208",
+            "codprod": "11200-DF0-NE02",
+            "codfab": "11200-DF0-NE02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "defeito fabrica os an\u00e9is est\u00e3o aberto ent\u00e3o fica gerando fuma\u00e7a"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "6645409690",
+            "anexo": "38100-BF0-CG07_20260422_073912_3.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "6645409691",
+            "anexo": "11200-DF0-NE02_20260422_073836_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "6645409691",
+            "anexo": "11200-DF0-NE02_20260422_073836_2.jpeg"
+        }
+    ]
+}

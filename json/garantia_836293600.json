@@ -1,0 +1,25 @@
+{
+    "garantia": {
+        "id": 836293600,
+        "dt_cad": "2026-04-16T13:45:11.938Z",
+        "codcli": "18501",
+        "codusur": "282",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "mdx.distribuidora"
+    },
+    "garantia_itens": [
+        {
+            "id": "8362936000",
+            "fk_garantia": 836293600,
+            "codcli": "18501",
+            "codprod": "11600-BF0-JE01",
+            "codfab": "11600-BF0-JE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": []
+}

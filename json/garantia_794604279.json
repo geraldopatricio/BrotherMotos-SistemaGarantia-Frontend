@@ -1,0 +1,66 @@
+{
+    "garantia": {
+        "id": 794604279,
+        "dt_cad": "2026-04-13T15:39:05.280Z",
+        "codcli": "3441",
+        "codusur": "180",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "Sistema"
+    },
+    "garantia_itens": [
+        {
+            "id": "7946042790",
+            "fk_garantia": 794604279,
+            "codcli": "3441",
+            "codprod": "41172-BF8-TD00",
+            "codfab": "41172-BF8-TD00",
+            "qtd": "1",
+            "motivo": "Falha na vulcaniza\u00e7\u00e3o",
+            "observacao": "a camara apresentou uma separa\u00e7\u00e3o linear sobre a linha de fabrica, indicando que a uni\u00e3o dos materiais falhou sob press\u00e3o normal de uso"
+        },
+        {
+            "id": "7946042791",
+            "fk_garantia": 794604279,
+            "codcli": "3441",
+            "codprod": "11600-DF0-TW01",
+            "codfab": "11600-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "falha em alta rota\u00e7\u00e3o a moto corta ou engasga "
+        },
+        {
+            "id": "7946042792",
+            "fk_garantia": 794604279,
+            "codcli": "3441",
+            "codprod": "41140-DF0-YS01",
+            "codfab": "41140-DF0-YS01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "engrenagem travou completamente causando rompimento do cabo do veloc\u00edmetro, pois o cabo tenta girar e a engrenagem est\u00e1 presa "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 4,
+            "fk_item": "7946042790",
+            "anexo": "41172-BF8-TD00_20260413_113238_4.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7946042791",
+            "anexo": "11600-DF0-TW01_20260413_112158_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7946042791",
+            "anexo": "11600-DF0-TW01_20260413_112158_3.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "7946042792",
+            "anexo": "41140-DF0-YS01_20260413_091251_1.jpeg"
+        }
+    ]
+}

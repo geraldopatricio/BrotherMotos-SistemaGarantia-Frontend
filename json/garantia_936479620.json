@@ -1,0 +1,136 @@
+{
+    "garantia": {
+        "id": 936479620,
+        "dt_cad": "2026-03-31T16:59:14.009Z",
+        "codcli": "15251",
+        "codusur": "331",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "lucas.souza"
+    },
+    "garantia_itens": [
+        {
+            "id": "9364796200",
+            "fk_garantia": 936479620,
+            "codcli": "15251",
+            "codprod": "81140-BF0-CB04",
+            "codfab": "81140-BF0-CB04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o injeta"
+        },
+        {
+            "id": "9364796201",
+            "fk_garantia": 936479620,
+            "codcli": "15251",
+            "codprod": "81140-BF0-PO02",
+            "codfab": "81140-BF0-PO02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o injeta"
+        },
+        {
+            "id": "9364796202",
+            "fk_garantia": 936479620,
+            "codcli": "15251",
+            "codprod": "81140-DF0-NE01",
+            "codfab": "81140-DF0-NE01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o injeta"
+        },
+        {
+            "id": "9364796203",
+            "fk_garantia": 936479620,
+            "codcli": "15251",
+            "codprod": "31200-DB0-FZ01",
+            "codfab": "31200-DB0-FZ01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "sem corrente"
+        },
+        {
+            "id": "9364796204",
+            "fk_garantia": 936479620,
+            "codcli": "15251",
+            "codprod": "11410-DF0-FZ01",
+            "codfab": "11410-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ta travando"
+        },
+        {
+            "id": "9364796205",
+            "fk_garantia": 936479620,
+            "codcli": "15251",
+            "codprod": "37410-DB0-FZ01",
+            "codfab": "37410-DB0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o ta dando comando"
+        },
+        {
+            "id": "9364796206",
+            "fk_garantia": 936479620,
+            "codcli": "15251",
+            "codprod": "37410-BB0-CG12",
+            "codfab": "37410-BB0-CG12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "s\u00f3 arma seta pra um lado"
+        },
+        {
+            "id": "9364796207",
+            "fk_garantia": 936479620,
+            "codcli": "15251",
+            "codprod": "31120-DF0-CB01",
+            "codfab": "31120-DF0-CB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 8,
+            "fk_item": "9364796200",
+            "anexo": "81140-BF0-CB04_20260331_135910_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "9364796201",
+            "anexo": "81140-BF0-PO02_20260331_135843_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "9364796202",
+            "anexo": "81140-DF0-NE01_20260331_135810_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "9364796203",
+            "anexo": "31200-DB0-FZ01_20260331_135712_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "9364796204",
+            "anexo": "11410-DF0-FZ01_20260331_135432_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9364796205",
+            "anexo": "37410-DB0-FZ01_20260331_134012_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9364796206",
+            "anexo": "37410-BB0-CG12_20260331_132734_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "9364796207",
+            "anexo": "31120-DF0-CB01_20260331_132546_1.jpeg"
+        }
+    ]
+}

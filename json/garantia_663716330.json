@@ -1,0 +1,51 @@
+{
+    "garantia": {
+        "id": 663716330,
+        "dt_cad": "2026-04-02T17:33:54.179Z",
+        "codcli": "376",
+        "codusur": "343",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "zr.comercio"
+    },
+    "garantia_itens": [
+        {
+            "id": "6637163300",
+            "fk_garantia": 663716330,
+            "codcli": "376",
+            "codprod": "12411-DF1-YB01",
+            "codfab": "12411-DF1-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "desgastes dos dentes"
+        },
+        {
+            "id": "6637163301",
+            "fk_garantia": 663716330,
+            "codcli": "376",
+            "codprod": "12411-DF0-YB01",
+            "codfab": "12411-DF0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "desgaste dos dentes"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "6637163301",
+            "anexo": "12411-DF0-YB01_20260402_142846_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "6637163301",
+            "anexo": "12411-DF0-YB01_20260402_142846_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "6637163301",
+            "anexo": "12411-DF0-YB01_20260402_142846_3.jpeg"
+        }
+    ]
+}

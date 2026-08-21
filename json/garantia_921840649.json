@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 921840649,
+        "dt_cad": "2026-03-27T00:52:32.255Z",
+        "codcli": "19433",
+        "codusur": "276",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "marilene"
+    },
+    "garantia_itens": [
+        {
+            "id": "9218406490",
+            "fk_garantia": 921840649,
+            "codcli": "19433",
+            "codprod": "11200-DF0-XY01",
+            "codfab": "11200-DF0-XY01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "vazando "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9218406490",
+            "anexo": "11200-DF0-XY01_20260327_215230_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9218406490",
+            "anexo": "11200-DF0-XY01_20260327_215230_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9218406490",
+            "anexo": "11200-DF0-XY01_20260327_215230_3.jpeg"
+        }
+    ]
+}

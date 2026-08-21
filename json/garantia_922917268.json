@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 922917268,
+        "dt_cad": "2026-03-27T13:48:55.174Z",
+        "codcli": "9238",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "9229172680",
+            "fk_garantia": 922917268,
+            "codcli": "9238",
+            "codprod": "11427-DF0-YB01",
+            "codfab": "11427-DF0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "QUEBRADO "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9229172680",
+            "anexo": "11427-DF0-YB01_20260327_104852_1.jpeg"
+        }
+    ]
+}

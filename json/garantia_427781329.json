@@ -1,0 +1,146 @@
+{
+    "garantia": {
+        "id": 427781329,
+        "dt_cad": "2026-04-06T19:16:45.723Z",
+        "codcli": "7715",
+        "codusur": "288",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "4277813290",
+            "fk_garantia": 427781329,
+            "codcli": "7715",
+            "codprod": "81110-DF0-BR01",
+            "codfab": "81110-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O SUPORTA A VAZ\u00c3O E EST\u00c1 DERRAMANDO COMBUSTIVEL"
+        },
+        {
+            "id": "4277813291",
+            "fk_garantia": 427781329,
+            "codcli": "7715",
+            "codprod": "31200-BB0-CG07",
+            "codfab": "31200-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PESADO"
+        },
+        {
+            "id": "4277813292",
+            "fk_garantia": 427781329,
+            "codcli": "7715",
+            "codprod": "37800-DB0-PO01",
+            "codfab": "37800-DB0-PO01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O FUNCIONOU"
+        },
+        {
+            "id": "4277813293",
+            "fk_garantia": 427781329,
+            "codcli": "7715",
+            "codprod": "36100-BF0-CG04",
+            "codfab": "36100-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "VELOCIMETRO QUEBRADO"
+        },
+        {
+            "id": "4277813294",
+            "fk_garantia": 427781329,
+            "codcli": "7715",
+            "codprod": "81110-BF0-CG08",
+            "codfab": "81110-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESS\u00c3O"
+        },
+        {
+            "id": "4277813295",
+            "fk_garantia": 427781329,
+            "codcli": "7715",
+            "codprod": "81110-BF0-CB04",
+            "codfab": "81110-BF0-CB04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O ACIONA"
+        },
+        {
+            "id": "4277813296",
+            "fk_garantia": 427781329,
+            "codcli": "7715",
+            "codprod": "81110-BF0-BR12",
+            "codfab": "81110-BF0-BR12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESS\u00c3O"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 12,
+            "fk_item": "4277813290",
+            "anexo": "81110-DF0-BR01_20260406_161644_12.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "4277813291",
+            "anexo": "31200-BB0-CG07_20260406_161541_10.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "4277813291",
+            "anexo": "31200-BB0-CG07_20260406_161541_11.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "4277813292",
+            "anexo": "37800-DB0-PO01_20260406_161426_9.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "4277813293",
+            "anexo": "36100-BF0-CG04_20260406_161355_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "4277813293",
+            "anexo": "36100-BF0-CG04_20260406_161355_8.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "4277813294",
+            "anexo": "81110-BF0-CG08_20260406_161316_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "4277813294",
+            "anexo": "81110-BF0-CG08_20260406_161316_6.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "4277813295",
+            "anexo": "81110-BF0-CB04_20260406_161235_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "4277813295",
+            "anexo": "81110-BF0-CB04_20260406_161235_4.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4277813296",
+            "anexo": "81110-BF0-BR12_20260406_161151_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4277813296",
+            "anexo": "81110-BF0-BR12_20260406_161151_2.jpeg"
+        }
+    ]
+}

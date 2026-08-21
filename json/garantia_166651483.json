@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 166651483,
+        "dt_cad": "2026-03-26T20:54:12.163Z",
+        "codcli": "222",
+        "codusur": "1",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "geraldo"
+    },
+    "garantia_itens": [
+        {
+            "id": "1666514830",
+            "fk_garantia": 166651483,
+            "codcli": "222",
+            "codprod": "61230-DC1-BZ02",
+            "codfab": "61230-DC1-BZ02",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "asdfasf"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1666514830",
+            "anexo": "61230-DC1-BZ02_20260326_175410_1.jpg"
+        }
+    ]
+}

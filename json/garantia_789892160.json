@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 789892160,
+        "dt_cad": "2026-04-13T15:14:29.804Z",
+        "codcli": "2788",
+        "codusur": "163",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "edilson.marcolino"
+    },
+    "garantia_itens": [
+        {
+            "id": "7898921600",
+            "fk_garantia": 789892160,
+            "codcli": "2788",
+            "codprod": "81140-BF0-BZ04",
+            "codfab": "81140-BF0-BZ04",
+            "qtd": "1",
+            "motivo": "N\u00e3o injeta combust\u00edvel",
+            "observacao": "travado"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7898921600",
+            "anexo": "81140-BF0-BZ04_20260413_121421_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "garantia": {
+        "id": 483070917,
+        "dt_cad": "2026-04-06T14:32:30.609Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "4830709170",
+            "fk_garantia": 483070917,
+            "codcli": "8839",
+            "codprod": "36100-DF0-BR06",
+            "codfab": "36100-DF0-BR06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Soando pelas laterais "
+        }
+    ],
+    "garantia_itens_anexos": []
+}

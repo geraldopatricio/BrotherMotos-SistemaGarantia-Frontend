@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 496819249,
+        "dt_cad": "2026-04-10T17:00:59.007Z",
+        "codcli": "13734",
+        "codusur": "341",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "extremodistribuidora"
+    },
+    "garantia_itens": [
+        {
+            "id": "4968192490",
+            "fk_garantia": 496819249,
+            "codcli": "13734",
+            "codprod": "12101-BF0-CG22",
+            "codfab": "12101-BF0-CG22",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Chegou trincado!"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "4968192490",
+            "anexo": "12101-BF0-CG22_20260410_140053_1.jpeg"
+        }
+    ]
+}

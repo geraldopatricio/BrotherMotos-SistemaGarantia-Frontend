@@ -1,0 +1,76 @@
+{
+    "garantia": {
+        "id": 382455472,
+        "dt_cad": "2026-04-06T19:31:34.418Z",
+        "codcli": "21631",
+        "codusur": "288",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "3824554720",
+            "fk_garantia": 382455472,
+            "codcli": "21631",
+            "codprod": "81110-BF0-BR12",
+            "codfab": "81110-BF0-BR12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "est\u00e1 em curto n\u00e3o aciona"
+        },
+        {
+            "id": "3824554721",
+            "fk_garantia": 382455472,
+            "codcli": "21631",
+            "codprod": "11600-BF0-PH01",
+            "codfab": "11600-BF0-PH01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "falhando"
+        },
+        {
+            "id": "3824554722",
+            "fk_garantia": 382455472,
+            "codcli": "21631",
+            "codprod": "11600-BF0-JE01",
+            "codfab": "11600-BF0-JE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "falhando"
+        },
+        {
+            "id": "3824554723",
+            "fk_garantia": 382455472,
+            "codcli": "21631",
+            "codprod": "37410-BB0-CG08",
+            "codfab": "37410-BB0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "mal contato no bot\u00e3o de farol alto, baixo"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 4,
+            "fk_item": "3824554720",
+            "anexo": "81110-BF0-BR12_20260406_163132_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3824554721",
+            "anexo": "11600-BF0-PH01_20260406_162813_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3824554722",
+            "anexo": "11600-BF0-JE01_20260406_162749_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3824554723",
+            "anexo": "37410-BB0-CG08_20260406_162725_1.jpeg"
+        }
+    ]
+}

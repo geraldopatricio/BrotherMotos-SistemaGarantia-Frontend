@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 551701903,
+        "dt_cad": "2026-04-06T13:44:09.122Z",
+        "codcli": "16871",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "5517019030",
+            "fk_garantia": 551701903,
+            "codcli": "16871",
+            "codprod": "36100-DF0-BZ06",
+            "codfab": "36100-DF0-BZ06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o funciona o veloc\u00edmetro"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5517019030",
+            "anexo": "36100-DF0-BZ06_20260406_104355_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "garantia": {
+        "id": 995868007,
+        "dt_cad": "2026-04-18T12:11:30.578Z",
+        "codcli": "376",
+        "codusur": "343",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "zr.comercio"
+    },
+    "garantia_itens": [
+        {
+            "id": "9958680070",
+            "fk_garantia": 995868007,
+            "codcli": "376",
+            "codprod": "41130-DF0-CF01",
+            "codfab": "41130-DF0-CF01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "FALTA 1 RAIO"
+        }
+    ],
+    "garantia_itens_anexos": []
+}

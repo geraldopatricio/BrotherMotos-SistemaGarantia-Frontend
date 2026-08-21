@@ -1,0 +1,51 @@
+{
+    "garantia": {
+        "id": 722341810,
+        "dt_cad": "2026-04-13T13:46:13.827Z",
+        "codcli": "16101",
+        "codusur": "268",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "gilmar"
+    },
+    "garantia_itens": [
+        {
+            "id": "7223418100",
+            "fk_garantia": 722341810,
+            "codcli": "16101",
+            "codprod": "37210-DB0-BR02",
+            "codfab": "37210-DB0-BR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o est\u00e1 marcando velocidade "
+        },
+        {
+            "id": "7223418101",
+            "fk_garantia": 722341810,
+            "codcli": "16101",
+            "codprod": "37210-DB0-BR02",
+            "codfab": "37210-DB0-BR02",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": "Mau contato"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "7223418100",
+            "anexo": "37210-DB0-BR02_20260413_104608_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7223418100",
+            "anexo": "37210-DB0-BR02_20260413_104608_3.mp4"
+        },
+        {
+            "id": 1,
+            "fk_item": "7223418101",
+            "anexo": "37210-DB0-BR02_20260413_104450_1.jpeg"
+        }
+    ]
+}

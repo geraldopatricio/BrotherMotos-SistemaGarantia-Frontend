@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 552426804,
+        "dt_cad": "2026-04-14T19:02:21.137Z",
+        "codcli": "18901",
+        "codusur": "176",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "rafael.motos"
+    },
+    "garantia_itens": [
+        {
+            "id": "5524268040",
+            "fk_garantia": 552426804,
+            "codcli": "18901",
+            "codprod": "37300-DB0-TD02",
+            "codfab": "37300-DB0-TD02",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "N\u00e3o aciona"
+        },
+        {
+            "id": "5524268041",
+            "fk_garantia": 552426804,
+            "codcli": "18901",
+            "codprod": "33300-DB0-FZ01",
+            "codfab": "33300-DB0-FZ01",
+            "qtd": "2",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "N\u00e3o d\u00e1 partida"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "5524268040",
+            "anexo": "37300-DB0-TD02_20260414_160218_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "5524268041",
+            "anexo": "33300-DB0-FZ01_20260414_160032_1.jpeg"
+        }
+    ]
+}

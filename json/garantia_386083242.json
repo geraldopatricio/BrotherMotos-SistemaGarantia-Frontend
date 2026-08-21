@@ -1,0 +1,156 @@
+{
+    "garantia": {
+        "id": 386083242,
+        "dt_cad": "2026-04-15T16:53:15.744Z",
+        "codcli": "19783",
+        "codusur": "322",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "3860832420",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "36100-DF0-CG26",
+            "codfab": "36100-DF0-CG26",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "TRAVOU VELOCIMETRO"
+        },
+        {
+            "id": "3860832421",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "36100-DF0-YB06",
+            "codfab": "36100-DF0-YB06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "TRAVOU VELOCIMETRO"
+        },
+        {
+            "id": "3860832422",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "81110-BF0-CG15",
+            "codfab": "81110-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "SEM PRESSAO"
+        },
+        {
+            "id": "3860832423",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "12101-DF0-FZ01",
+            "codfab": "12101-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PATINANDO"
+        },
+        {
+            "id": "3860832424",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "81110-BF0-CG08",
+            "codfab": "81110-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "SEM PRESSAO"
+        },
+        {
+            "id": "3860832425",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "81110-BF0-CG12",
+            "codfab": "81110-BF0-CG12",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "SEM PRESSAO"
+        },
+        {
+            "id": "3860832426",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "31120-BF0-CB03",
+            "codfab": "31120-BF0-CB03",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "NAO PASSA CARGA"
+        },
+        {
+            "id": "3860832427",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "52110-BF0-CG07",
+            "codfab": "52110-BF0-CG07",
+            "qtd": "5",
+            "motivo": "Arranhado",
+            "observacao": "ARRANHADO VAZANDO"
+        },
+        {
+            "id": "3860832428",
+            "fk_garantia": 386083242,
+            "codcli": "19783",
+            "codprod": "31200-DB0-FZ01",
+            "codfab": "31200-DB0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO GIRA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 9,
+            "fk_item": "3860832420",
+            "anexo": "36100-DF0-CG26_20260415_135038_9.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "3860832420",
+            "anexo": "36100-DF0-CG26_20260415_135038_10.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "3860832421",
+            "anexo": "36100-DF0-YB06_20260415_134941_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "3860832422",
+            "anexo": "81110-BF0-CG15_20260415_134849_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "3860832423",
+            "anexo": "12101-DF0-FZ01_20260415_134814_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "3860832424",
+            "anexo": "81110-BF0-CG08_20260415_134716_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3860832425",
+            "anexo": "81110-BF0-CG12_20260415_134636_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3860832426",
+            "anexo": "31120-BF0-CB03_20260415_134557_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3860832427",
+            "anexo": "52110-BF0-CG07_20260415_134508_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3860832428",
+            "anexo": "31200-DB0-FZ01_20260415_134416_1.jpeg"
+        }
+    ]
+}

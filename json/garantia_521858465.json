@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 521858465,
+        "dt_cad": "2026-04-20T13:29:41.178Z",
+        "codcli": "12976",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "borges.mello"
+    },
+    "garantia_itens": [
+        {
+            "id": "5218584650",
+            "fk_garantia": 521858465,
+            "codcli": "12976",
+            "codprod": "36100-BF0-CG16",
+            "codfab": "36100-BF0-CG16",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "colocamos o painel na moto com com 1 mes de uso cliente voltou e o painel quando chega 90km por hora ele trava n\u00e3o passa "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5218584650",
+            "anexo": "36100-BF0-CG16_20260420_102935_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5218584650",
+            "anexo": "36100-BF0-CG16_20260420_102935_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5218584650",
+            "anexo": "36100-BF0-CG16_20260420_102935_3.jpeg"
+        }
+    ]
+}

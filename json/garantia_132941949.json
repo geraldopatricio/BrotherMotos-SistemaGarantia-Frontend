@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 132941949,
+        "dt_cad": "2026-04-02T18:28:16.143Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "1329419490",
+            "fk_garantia": 132941949,
+            "codcli": "8839",
+            "codprod": "12110-BF0-CG08",
+            "codfab": "12110-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "folga"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1329419490",
+            "anexo": "12110-BF0-CG08_20260402_142800_1.jpeg"
+        }
+    ]
+}

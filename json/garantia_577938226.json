@@ -1,0 +1,71 @@
+{
+    "garantia": {
+        "id": 577938226,
+        "dt_cad": "2026-04-20T16:16:22.441Z",
+        "codcli": "11774",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "5779382260",
+            "fk_garantia": 577938226,
+            "codcli": "11774",
+            "codprod": "11600-BF0-JE01",
+            "codfab": "11600-BF0-JE01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        },
+        {
+            "id": "5779382261",
+            "fk_garantia": 577938226,
+            "codcli": "11774",
+            "codprod": "37210-DB0-YB01",
+            "codfab": "37210-DB0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "trincada"
+        },
+        {
+            "id": "5779382262",
+            "fk_garantia": 577938226,
+            "codcli": "11774",
+            "codprod": "52110-BF0-BR13",
+            "codfab": "52110-BF0-BR13",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "descascando cromo"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "5779382260",
+            "anexo": "11600-BF0-JE01_20260420_131611_5.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5779382261",
+            "anexo": "37210-DB0-YB01_20260420_131512_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "5779382261",
+            "anexo": "37210-DB0-YB01_20260420_131512_4.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "5779382262",
+            "anexo": "52110-BF0-BR13_20260420_131405_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5779382262",
+            "anexo": "52110-BF0-BR13_20260420_131405_2.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "garantia": {
+        "id": 720829473,
+        "dt_cad": "2026-03-27T18:44:29.025Z",
+        "codcli": "14866",
+        "codusur": "233",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "sidneyde"
+    },
+    "garantia_itens": [
+        {
+            "id": "7208294730",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "35110-DF0-XT02",
+            "codfab": "35110-DF0-XT02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "QUEBRADO"
+        },
+        {
+            "id": "7208294731",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "12101-BF0-CG22",
+            "codfab": "12101-BF0-CG22",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PATINANDO EMBREAGEM"
+        },
+        {
+            "id": "7208294732",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "36100-DF0-BZ03",
+            "codfab": "36100-DF0-BZ03",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O ACENDE O MARCADOR DE COMBUSTIVEL"
+        },
+        {
+            "id": "7208294733",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "31120-DF0-CF01",
+            "codfab": "31120-DF0-CF01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O SEGURA CARGA"
+        },
+        {
+            "id": "7208294734",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "81141-DF0-CB01",
+            "codfab": "81141-DF0-CB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PERDA DE POTENCIA"
+        },
+        {
+            "id": "7208294735",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "37800-DB0-CG01",
+            "codfab": "37800-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "FALHA DE VEDA\u00c7\u00c3O"
+        },
+        {
+            "id": "7208294736",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "81140-DF0-CG14",
+            "codfab": "81140-DF0-CG14",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESS\u00c3O"
+        },
+        {
+            "id": "7208294737",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "11600-DF0-CB02",
+            "codfab": "11600-DF0-CB02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "VAZAMENTO"
+        },
+        {
+            "id": "7208294738",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "45112-DF0-FZ01",
+            "codfab": "45112-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PERDA DE PRESS\u00c3O DE FRENAGEM"
+        },
+        {
+            "id": "7208294739",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "36100-DF0-XR03",
+            "codfab": "36100-DF0-XR03",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O ACENDE"
+        },
+        {
+            "id": "72082947310",
+            "fk_garantia": 720829473,
+            "codcli": "14866",
+            "codprod": "12130-BF0-FZ01",
+            "codfab": "12130-BF0-FZ01",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "PATINANDO EMBREAGEM"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 11,
+            "fk_item": "7208294730",
+            "anexo": "35110-DF0-XT02_20260327_154426_11.png"
+        },
+        {
+            "id": 10,
+            "fk_item": "7208294731",
+            "anexo": "12101-BF0-CG22_20260327_154407_10.png"
+        },
+        {
+            "id": 9,
+            "fk_item": "7208294732",
+            "anexo": "36100-DF0-BZ03_20260327_154350_9.png"
+        },
+        {
+            "id": 8,
+            "fk_item": "7208294733",
+            "anexo": "31120-DF0-CF01_20260327_154331_8.png"
+        },
+        {
+            "id": 7,
+            "fk_item": "7208294734",
+            "anexo": "81141-DF0-CB01_20260327_154313_7.png"
+        },
+        {
+            "id": 6,
+            "fk_item": "7208294735",
+            "anexo": "37800-DB0-CG01_20260327_154254_6.png"
+        },
+        {
+            "id": 5,
+            "fk_item": "7208294736",
+            "anexo": "81140-DF0-CG14_20260327_154234_5.png"
+        },
+        {
+            "id": 4,
+            "fk_item": "7208294737",
+            "anexo": "11600-DF0-CB02_20260327_154213_4.png"
+        },
+        {
+            "id": 3,
+            "fk_item": "7208294738",
+            "anexo": "45112-DF0-FZ01_20260327_154154_3.png"
+        },
+        {
+            "id": 2,
+            "fk_item": "7208294739",
+            "anexo": "36100-DF0-XR03_20260327_154135_2.png"
+        },
+        {
+            "id": 1,
+            "fk_item": "72082947310",
+            "anexo": "12130-BF0-FZ01_20260327_154109_1.png"
+        }
+    ]
+}

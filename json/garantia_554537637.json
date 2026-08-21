@@ -1,0 +1,96 @@
+{
+    "garantia": {
+        "id": 554537637,
+        "dt_cad": "2026-03-27T18:14:16.989Z",
+        "codcli": "17687",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "5545376370",
+            "fk_garantia": 554537637,
+            "codcli": "17687",
+            "codprod": "31120-DF0-CB04",
+            "codfab": "31120-DF0-CB04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Vieram fios desconectados"
+        },
+        {
+            "id": "5545376371",
+            "fk_garantia": 554537637,
+            "codcli": "17687",
+            "codprod": "32100-BB0-CG03",
+            "codfab": "32100-BB0-CG03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o carrega carga"
+        },
+        {
+            "id": "5545376372",
+            "fk_garantia": 554537637,
+            "codcli": "17687",
+            "codprod": "31120-BF0-CG08",
+            "codfab": "31120-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o gera carga"
+        },
+        {
+            "id": "5545376373",
+            "fk_garantia": 554537637,
+            "codcli": "17687",
+            "codprod": "12130-BF0-CG15",
+            "codfab": "12130-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Fica trepidando"
+        },
+        {
+            "id": "5545376374",
+            "fk_garantia": 554537637,
+            "codcli": "17687",
+            "codprod": "12110-DF0-CB02",
+            "codfab": "12110-DF0-CB02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Gera atrito, fica encostando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "5545376370",
+            "anexo": "31120-DF0-CB04_20260327_151412_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "5545376371",
+            "anexo": "32100-BB0-CG03_20260327_151340_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "5545376372",
+            "anexo": "31120-BF0-CG08_20260327_151227_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5545376373",
+            "anexo": "12130-BF0-CG15_20260327_151148_3.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "5545376374",
+            "anexo": "12110-DF0-CB02_20260327_150818_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5545376374",
+            "anexo": "12110-DF0-CB02_20260327_150818_2.jpeg"
+        }
+    ]
+}

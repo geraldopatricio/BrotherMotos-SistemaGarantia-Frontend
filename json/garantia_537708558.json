@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 537708558,
+        "dt_cad": "2026-04-10T14:28:01.916Z",
+        "codcli": "19418",
+        "codusur": "288",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "5377085580",
+            "fk_garantia": 537708558,
+            "codcli": "19418",
+            "codprod": "37410-BB0-CG07",
+            "codfab": "37410-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "DEFEITO NO BOT\u00c3O "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5377085580",
+            "anexo": "37410-BB0-CG07_20260410_112759_1.jpeg"
+        }
+    ]
+}

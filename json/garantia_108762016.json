@@ -1,0 +1,56 @@
+{
+    "garantia": {
+        "id": 108762016,
+        "dt_cad": "2026-04-13T12:54:43.647Z",
+        "codcli": "14412",
+        "codusur": "326",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "araujo"
+    },
+    "garantia_itens": [
+        {
+            "id": "1087620160",
+            "fk_garantia": 108762016,
+            "codcli": "14412",
+            "codprod": "37440-DB0-BZ01",
+            "codfab": "37440-DB0-BZ01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao funciona"
+        },
+        {
+            "id": "1087620161",
+            "fk_garantia": 108762016,
+            "codcli": "14412",
+            "codprod": "11300-BF0-CG08",
+            "codfab": "11300-BF0-CG08",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "1 desgaste prematuro \/ 1 biela est\u00e1 encostando na lateral do virabrequim"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 4,
+            "fk_item": "1087620160",
+            "anexo": "37440-DB0-BZ01_20260413_095441_4.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "1087620161",
+            "anexo": "11300-BF0-CG08_20260413_095347_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1087620161",
+            "anexo": "11300-BF0-CG08_20260413_095347_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1087620161",
+            "anexo": "11300-BF0-CG08_20260413_095347_3.jpeg"
+        }
+    ]
+}

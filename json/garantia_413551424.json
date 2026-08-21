@@ -1,0 +1,56 @@
+{
+    "garantia": {
+        "id": 413551424,
+        "dt_cad": "2026-04-14T20:40:45.036Z",
+        "codcli": "2138",
+        "codusur": "190",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "companny"
+    },
+    "garantia_itens": [
+        {
+            "id": "4135514240",
+            "fk_garantia": 413551424,
+            "codcli": "2138",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O DA FAISCA"
+        },
+        {
+            "id": "4135514241",
+            "fk_garantia": 413551424,
+            "codcli": "2138",
+            "codprod": "36210-DFO-CG07",
+            "codfab": "36210-DFO-CG07",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "N\u00c3O ACIONA"
+        },
+        {
+            "id": "4135514242",
+            "fk_garantia": 413551424,
+            "codcli": "2138",
+            "codprod": "37410-BB0-CG07",
+            "codfab": "37410-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NO BOTAO LUZ ALTA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "4135514241",
+            "anexo": "36210-DFO-CG07_20260414_173440_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4135514242",
+            "anexo": "37410-BB0-CG07_20260414_171516_1.jpeg"
+        }
+    ]
+}

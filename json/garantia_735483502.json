@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 735483502,
+        "dt_cad": "2026-04-06T17:51:47.311Z",
+        "codcli": "9006",
+        "codusur": "331",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "lucas.souza"
+    },
+    "garantia_itens": [
+        {
+            "id": "7354835020",
+            "fk_garantia": 735483502,
+            "codcli": "9006",
+            "codprod": "55100-DF0-FZ01",
+            "codfab": "55100-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ta mole"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7354835020",
+            "anexo": "55100-DF0-FZ01_20260406_145145_1.jpeg"
+        }
+    ]
+}

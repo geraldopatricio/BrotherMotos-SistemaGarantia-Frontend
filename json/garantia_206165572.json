@@ -1,0 +1,76 @@
+{
+    "garantia": {
+        "id": 206165572,
+        "dt_cad": "2026-04-06T12:02:23.891Z",
+        "codcli": "9913",
+        "codusur": "268",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "fsilva.dias"
+    },
+    "garantia_itens": [
+        {
+            "id": "2061655720",
+            "fk_garantia": 206165572,
+            "codcli": "9913",
+            "codprod": "81110-DF0-BZ01",
+            "codfab": "81110-DF0-BZ01",
+            "qtd": "5",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "todas o mesmo defeito"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_8.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_9.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "2061655720",
+            "anexo": "81110-DF0-BZ01_20260406_085005_10.jpeg"
+        }
+    ]
+}

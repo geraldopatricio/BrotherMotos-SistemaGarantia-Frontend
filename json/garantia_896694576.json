@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 896694576,
+        "dt_cad": "2026-04-14T12:37:41.479Z",
+        "codcli": "150",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "henrique.sergio"
+    },
+    "garantia_itens": [
+        {
+            "id": "8966945760",
+            "fk_garantia": 896694576,
+            "codcli": "150",
+            "codprod": "92100-DF0-CG03",
+            "codfab": "92100-DF0-CG03",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "arranhado e pontos amassado"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "8966945760",
+            "anexo": "92100-DF0-CG03_20260414_093716_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "8966945760",
+            "anexo": "92100-DF0-CG03_20260414_093716_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "8966945760",
+            "anexo": "92100-DF0-CG03_20260414_093716_3.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "8966945760",
+            "anexo": "92100-DF0-CG03_20260414_093716_4.jpg"
+        }
+    ]
+}

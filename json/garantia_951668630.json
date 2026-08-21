@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 951668630,
+        "dt_cad": "2026-04-06T20:21:49.477Z",
+        "codcli": "7959",
+        "codusur": "327",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "paulo.rebellato"
+    },
+    "garantia_itens": [
+        {
+            "id": "9516686300",
+            "fk_garantia": 951668630,
+            "codcli": "7959",
+            "codprod": "12101-DF0-CB02",
+            "codfab": "12101-DF0-CB02",
+            "qtd": "1",
+            "motivo": "Com ru\u00eddos",
+            "observacao": "MONTOU E FICOU CHIANDO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9516686300",
+            "anexo": "12101-DF0-CB02_20260406_172144_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9516686300",
+            "anexo": "12101-DF0-CB02_20260406_172144_2.jpeg"
+        }
+    ]
+}

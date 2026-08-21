@@ -1,0 +1,101 @@
+{
+    "garantia": {
+        "id": 425675653,
+        "dt_cad": "2026-04-10T18:25:37.187Z",
+        "codcli": "1092",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "cne.comercio"
+    },
+    "garantia_itens": [
+        {
+            "id": "4256756530",
+            "fk_garantia": 425675653,
+            "codcli": "1092",
+            "codprod": "35310-BF0-XT03",
+            "codfab": "35310-BF0-XT03",
+            "qtd": "40",
+            "motivo": "Outros",
+            "observacao": "Rachando na lateral do encaixe"
+        },
+        {
+            "id": "4256756531",
+            "fk_garantia": 425675653,
+            "codcli": "1092",
+            "codprod": "81110-BF0-CG19",
+            "codfab": "81110-BF0-CG19",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "4256756532",
+            "fk_garantia": 425675653,
+            "codcli": "1092",
+            "codprod": "81110-BF0-CG13",
+            "codfab": "81110-BF0-CG13",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "4256756533",
+            "fk_garantia": 425675653,
+            "codcli": "1092",
+            "codprod": "55100-BF0-CB03",
+            "codfab": "55100-BF0-CB03",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "4256756534",
+            "fk_garantia": 425675653,
+            "codcli": "1092",
+            "codprod": "11410-DF0-FZ01",
+            "codfab": "11410-DF0-FZ01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Comando est\u00e1 sem a rosca"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 8,
+            "fk_item": "4256756530",
+            "anexo": "35310-BF0-XT03_20260410_152154_8.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "4256756530",
+            "anexo": "35310-BF0-XT03_20260410_152154_9.mp4"
+        },
+        {
+            "id": 10,
+            "fk_item": "4256756530",
+            "anexo": "35310-BF0-XT03_20260410_152155_10.mp4"
+        },
+        {
+            "id": 4,
+            "fk_item": "4256756531",
+            "anexo": "81110-BF0-CG19_20260410_151617_4.mp4"
+        },
+        {
+            "id": 3,
+            "fk_item": "4256756532",
+            "anexo": "81110-BF0-CG13_20260410_151507_3.mp4"
+        },
+        {
+            "id": 2,
+            "fk_item": "4256756533",
+            "anexo": "55100-BF0-CB03_20260410_150653_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4256756534",
+            "anexo": "11410-DF0-FZ01_20260410_150456_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 399813887,
+        "dt_cad": "2026-04-04T14:02:59.041Z",
+        "codcli": "13903",
+        "codusur": "298",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "formosa.pneus"
+    },
+    "garantia_itens": [
+        {
+            "id": "3998138870",
+            "fk_garantia": 399813887,
+            "codcli": "13903",
+            "codprod": "44110-DF0-BZ01",
+            "codfab": "44110-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ITEM DANIFICADO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "3998138870",
+            "anexo": "44110-DF0-BZ01_20260404_110244_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3998138870",
+            "anexo": "44110-DF0-BZ01_20260404_110244_2.jpeg"
+        }
+    ]
+}

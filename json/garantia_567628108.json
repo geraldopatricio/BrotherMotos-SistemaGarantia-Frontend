@@ -1,0 +1,66 @@
+{
+    "garantia": {
+        "id": 567628108,
+        "dt_cad": "2026-04-02T13:25:11.959Z",
+        "codcli": "13734",
+        "codusur": "341",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "extremodistribuidora"
+    },
+    "garantia_itens": [
+        {
+            "id": "5676281080",
+            "fk_garantia": 567628108,
+            "codcli": "13734",
+            "codprod": "11200-BF0-PO02",
+            "codfab": "11200-BF0-PO02",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "O cliente alega que com poucos dias de uso o kit fumaceou!"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5676281080",
+            "anexo": "11200-BF0-PO02_20260402_102345_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5676281080",
+            "anexo": "11200-BF0-PO02_20260402_102345_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5676281080",
+            "anexo": "11200-BF0-PO02_20260402_102345_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "5676281080",
+            "anexo": "11200-BF0-PO02_20260402_102345_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "5676281080",
+            "anexo": "11200-BF0-PO02_20260402_102345_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "5676281080",
+            "anexo": "11200-BF0-PO02_20260402_102345_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "5676281080",
+            "anexo": "11200-BF0-PO02_20260402_102345_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "5676281080",
+            "anexo": "11200-BF0-PO02_20260402_102345_8.jpeg"
+        }
+    ]
+}

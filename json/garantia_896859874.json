@@ -1,0 +1,151 @@
+{
+    "garantia": {
+        "id": 896859874,
+        "dt_cad": "2026-04-06T15:19:00.497Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "8968598740",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "11200-BF0-CG08",
+            "codfab": "11200-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "bateu saia "
+        },
+        {
+            "id": "8968598741",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "42240-BF0-CG04",
+            "codfab": "42240-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "trincado, cliente reclamou de ser o mesmo lado os dois "
+        },
+        {
+            "id": "8968598742",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "31200-DB0-CG02",
+            "codfab": "31200-DB0-CG02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fazendo barulho estranho "
+        },
+        {
+            "id": "8968598743",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "31200-DB0-FZ01",
+            "codfab": "31200-DB0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o da partida "
+        },
+        {
+            "id": "8968598744",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "35130-BB0-BZ04",
+            "codfab": "35130-BB0-BZ04",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "8968598745",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "37210-BB0-PO02",
+            "codfab": "37210-BB0-PO02",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        },
+        {
+            "id": "8968598746",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "37800-DB0-PO01",
+            "codfab": "37800-DB0-PO01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "queimado "
+        },
+        {
+            "id": "8968598747",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "32100-BB0-BZ02",
+            "codfab": "32100-BB0-BZ02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "8968598748",
+            "fk_garantia": 896859874,
+            "codcli": "8839",
+            "codprod": "33300-BB0-YB01",
+            "codfab": "33300-BB0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "queimado"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 9,
+            "fk_item": "8968598740",
+            "anexo": "11200-BF0-CG08_20260406_111838_9.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "8968598741",
+            "anexo": "42240-BF0-CG04_20260406_111716_8.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "8968598742",
+            "anexo": "31200-DB0-CG02_20260406_110928_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "8968598743",
+            "anexo": "31200-DB0-FZ01_20260406_110718_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "8968598744",
+            "anexo": "35130-BB0-BZ04_20260406_110611_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "8968598745",
+            "anexo": "37210-BB0-PO02_20260406_110348_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "8968598746",
+            "anexo": "37800-DB0-PO01_20260406_110245_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "8968598747",
+            "anexo": "32100-BB0-BZ02_20260406_110141_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8968598748",
+            "anexo": "33300-BB0-YB01_20260406_110046_1.jpg"
+        }
+    ]
+}

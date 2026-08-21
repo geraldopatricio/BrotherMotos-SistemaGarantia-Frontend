@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 298490990,
+        "dt_cad": "2026-04-02T18:46:42.968Z",
+        "codcli": "13734",
+        "codusur": "341",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "extremodistribuidora"
+    },
+    "garantia_itens": [
+        {
+            "id": "2984909900",
+            "fk_garantia": 298490990,
+            "codcli": "13734",
+            "codprod": "37440-DB0-BZ01",
+            "codfab": "37440-DB0-BZ01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "ao instalar n\u00e3o funcionou!"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2984909900",
+            "anexo": "37440-DB0-BZ01_20260402_154636_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2984909900",
+            "anexo": "37440-DB0-BZ01_20260402_154636_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "2984909900",
+            "anexo": "37440-DB0-BZ01_20260402_154636_3.jpeg"
+        }
+    ]
+}

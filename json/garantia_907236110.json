@@ -1,0 +1,196 @@
+{
+    "garantia": {
+        "id": 907236110,
+        "dt_cad": "2026-04-08T19:05:50.606Z",
+        "codcli": "7445",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "9072361100",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "44130-BF0-CG06",
+            "codfab": "44130-BF0-CG06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Reparo do cilindro n\u00e3o retorna"
+        },
+        {
+            "id": "9072361101",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "36210-DF0-CG06",
+            "codfab": "36210-DF0-CG06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o marca combust\u00edvel"
+        },
+        {
+            "id": "9072361102",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "44110-DF0-BR01",
+            "codfab": "44110-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Descolou a pastilha"
+        },
+        {
+            "id": "9072361103",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "92540-DF0-TD02",
+            "codfab": "92540-DF0-TD02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Soltou o cabo"
+        },
+        {
+            "id": "9072361104",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "81110-BF0-CG17",
+            "codfab": "81110-BF0-CG17",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Parou de funcionar"
+        },
+        {
+            "id": "9072361105",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "81110-BF0-BR12",
+            "codfab": "81110-BF0-BR12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Sem press\u00e3o"
+        },
+        {
+            "id": "9072361106",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "81110-BF0-CB04",
+            "codfab": "81110-BF0-CB04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Sem press\u00e3o"
+        },
+        {
+            "id": "9072361107",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "81110-BF0-BR01",
+            "codfab": "81110-BF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Sem press\u00e3o"
+        },
+        {
+            "id": "9072361108",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "31200-DB0-TW01",
+            "codfab": "31200-DB0-TW01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Soltou o im\u00e3"
+        },
+        {
+            "id": "9072361109",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "31200-BB0-CG07",
+            "codfab": "31200-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o d\u00e1 partida"
+        },
+        {
+            "id": "90723611010",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "35501-BF0-CG01",
+            "codfab": "35501-BF0-CG01",
+            "qtd": "4",
+            "motivo": "Outros",
+            "observacao": "Est\u00e1 queimada, n\u00e3o acende"
+        },
+        {
+            "id": "90723611011",
+            "fk_garantia": 907236110,
+            "codcli": "7445",
+            "codprod": "36100-BF0-CG08",
+            "codfab": "36100-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Travou o veloc\u00edmetro"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 12,
+            "fk_item": "9072361100",
+            "anexo": "44130-BF0-CG06_20260408_160543_12.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "9072361101",
+            "anexo": "36210-DF0-CG06_20260408_155850_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "9072361102",
+            "anexo": "44110-DF0-BR01_20260408_155821_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "9072361103",
+            "anexo": "92540-DF0-TD02_20260408_154950_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "9072361104",
+            "anexo": "81110-BF0-CG17_20260408_154540_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "9072361105",
+            "anexo": "81110-BF0-BR12_20260408_154511_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "9072361106",
+            "anexo": "81110-BF0-CB04_20260408_154437_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "9072361107",
+            "anexo": "81110-BF0-BR01_20260408_154359_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "9072361108",
+            "anexo": "31200-DB0-TW01_20260408_154321_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9072361109",
+            "anexo": "31200-BB0-CG07_20260408_154245_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "90723611010",
+            "anexo": "35501-BF0-CG01_20260408_154205_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "90723611011",
+            "anexo": "36100-BF0-CG08_20260408_154118_1.jpeg"
+        }
+    ]
+}

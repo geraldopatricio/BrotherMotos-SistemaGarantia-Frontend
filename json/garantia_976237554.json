@@ -1,0 +1,126 @@
+{
+    "garantia": {
+        "id": 976237554,
+        "dt_cad": "2026-04-13T17:16:29.209Z",
+        "codcli": "15999",
+        "codusur": "331",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "9762375540",
+            "fk_garantia": 976237554,
+            "codcli": "15999",
+            "codprod": "12130-BF0-XR04",
+            "codfab": "12130-BF0-XR04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PATINANDO"
+        },
+        {
+            "id": "9762375541",
+            "fk_garantia": 976237554,
+            "codcli": "15999",
+            "codprod": "81110-BF0-CG15",
+            "codfab": "81110-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO ESTA INJETANDO COMBUSTIVEL"
+        },
+        {
+            "id": "9762375542",
+            "fk_garantia": 976237554,
+            "codcli": "15999",
+            "codprod": "81141-DF0-CG01",
+            "codfab": "81141-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "VAZANDO"
+        },
+        {
+            "id": "9762375543",
+            "fk_garantia": 976237554,
+            "codcli": "15999",
+            "codprod": "36100-DF0-TW01",
+            "codfab": "36100-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PAINEL NAO ACENDE"
+        },
+        {
+            "id": "9762375544",
+            "fk_garantia": 976237554,
+            "codcli": "15999",
+            "codprod": "38100-BF0-CG07",
+            "codfab": "38100-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO ESTA FUNCIONANDO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 11,
+            "fk_item": "9762375540",
+            "anexo": "12130-BF0-XR04_20260413_141622_11.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "9762375540",
+            "anexo": "12130-BF0-XR04_20260413_141622_12.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "9762375541",
+            "anexo": "81110-BF0-CG15_20260413_141510_8.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "9762375541",
+            "anexo": "81110-BF0-CG15_20260413_141510_9.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "9762375541",
+            "anexo": "81110-BF0-CG15_20260413_141510_10.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "9762375542",
+            "anexo": "81141-DF0-CG01_20260413_141349_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "9762375542",
+            "anexo": "81141-DF0-CG01_20260413_141349_7.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9762375543",
+            "anexo": "36100-DF0-TW01_20260413_141302_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "9762375543",
+            "anexo": "36100-DF0-TW01_20260413_141302_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "9762375543",
+            "anexo": "36100-DF0-TW01_20260413_141302_5.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "9762375544",
+            "anexo": "38100-BF0-CG07_20260413_141139_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9762375544",
+            "anexo": "38100-BF0-CG07_20260413_141139_2.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "garantia": {
+        "id": 528672344,
+        "dt_cad": "2026-04-10T11:12:50.850Z",
+        "codcli": "9268",
+        "codusur": "262",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "beto"
+    },
+    "garantia_itens": [
+        {
+            "id": "5286723440",
+            "fk_garantia": 528672344,
+            "codcli": "9268",
+            "codprod": "41172-BF2-TD00",
+            "codfab": "41172-BF2-TD00",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "RASGADA, E COM MARCA\u00c7\u00c3O."
+        },
+        {
+            "id": "5286723441",
+            "fk_garantia": 528672344,
+            "codcli": "9268",
+            "codprod": "11423-DF0-CG04",
+            "codfab": "11423-DF0-CG04",
+            "qtd": "1",
+            "motivo": "Com ru\u00eddos",
+            "observacao": "QUANDO LIGA A MOTO DA BARULHO NO COMANDO."
+        },
+        {
+            "id": "5286723442",
+            "fk_garantia": 528672344,
+            "codcli": "9268",
+            "codprod": "35501-BF0-CG01",
+            "codfab": "35501-BF0-CG01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O ACENDE"
+        },
+        {
+            "id": "5286723443",
+            "fk_garantia": 528672344,
+            "codcli": "9268",
+            "codprod": "81141-DF0-CB01",
+            "codfab": "81141-DF0-CB01",
+            "qtd": "2",
+            "motivo": "Travando",
+            "observacao": "N\u00c3O DA PASSAGEM DE COMBUSTIVEL, EMTUPIDO."
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 4,
+            "fk_item": "5286723440",
+            "anexo": "41172-BF2-TD00_20260410_081244_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "5286723440",
+            "anexo": "41172-BF2-TD00_20260410_081244_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "5286723440",
+            "anexo": "41172-BF2-TD00_20260410_081244_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "5286723440",
+            "anexo": "41172-BF2-TD00_20260410_081244_7.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5286723441",
+            "anexo": "11423-DF0-CG04_20260410_081130_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5286723442",
+            "anexo": "35501-BF0-CG01_20260410_080727_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "5286723443",
+            "anexo": "81141-DF0-CB01_20260410_080633_1.jpeg"
+        }
+    ]
+}

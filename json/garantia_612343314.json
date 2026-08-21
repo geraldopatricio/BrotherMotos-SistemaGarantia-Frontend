@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 612343314,
+        "dt_cad": "2026-03-27T18:11:53.517Z",
+        "codcli": "6284",
+        "codusur": "176",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "sinalverde"
+    },
+    "garantia_itens": [
+        {
+            "id": "6123433140",
+            "fk_garantia": 612343314,
+            "codcli": "6284",
+            "codprod": "11491-DF0-CG01",
+            "codfab": "11491-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PLASTICO ESTA FOGADO NO FERRO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "6123433140",
+            "anexo": "11491-DF0-CG01_20260327_151149_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,766 @@
+{
+    "garantia": {
+        "id": 978588449,
+        "dt_cad": "2026-04-06T19:37:26.745Z",
+        "codcli": "7423",
+        "codusur": "326",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "araujo"
+    },
+    "garantia_itens": [
+        {
+            "id": "9785884490",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "12101-BF0-CG08",
+            "codfab": "12101-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "excesso folga"
+        },
+        {
+            "id": "9785884491",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "45111-DF0-CG02",
+            "codfab": "45111-DF0-CG02",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        },
+        {
+            "id": "9785884492",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "41120-BF1-CG04",
+            "codfab": "41120-BF1-CG04",
+            "qtd": "1",
+            "motivo": "Descentralizado",
+            "observacao": "desalinhado"
+        },
+        {
+            "id": "9785884493",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "12101-DF0-CG01",
+            "codfab": "12101-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ruido ao funcionar"
+        },
+        {
+            "id": "9785884494",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "12130-BF0-CB03",
+            "codfab": "12130-BF0-CB03",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": "patinando"
+        },
+        {
+            "id": "9785884495",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "12111-BF0-BZ08",
+            "codfab": "12111-BF0-BZ08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "sem embreagem"
+        },
+        {
+            "id": "9785884496",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "12130-BF0-YB01",
+            "codfab": "12130-BF0-YB01",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": "patinando"
+        },
+        {
+            "id": "9785884497",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "12111-BF0-BZ03",
+            "codfab": "12111-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "deslizando nao da embreagem"
+        },
+        {
+            "id": "9785884498",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "11320-BF0-CG08",
+            "codfab": "11320-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "fumacando"
+        },
+        {
+            "id": "9785884499",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "11320-BF0-CG02",
+            "codfab": "11320-BF0-CG02",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "fumacando"
+        },
+        {
+            "id": "97858844910",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "11320-DF4-XR01",
+            "codfab": "11320-DF4-XR01",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "fumacando"
+        },
+        {
+            "id": "97858844911",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "41240-DF0-CG01",
+            "codfab": "41240-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "empenado nao encaixa"
+        },
+        {
+            "id": "97858844912",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "61420-DF0-BZ01",
+            "codfab": "61420-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "espanado"
+        },
+        {
+            "id": "97858844913",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "11630-BF0-BZ06",
+            "codfab": "11630-BF0-BZ06",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "nao injeta"
+        },
+        {
+            "id": "97858844914",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "38100-DF0-CB02",
+            "codfab": "38100-DF0-CB02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao buzina"
+        },
+        {
+            "id": "97858844915",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "32100-DB0-JE01",
+            "codfab": "32100-DB0-JE01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem corrente"
+        },
+        {
+            "id": "97858844916",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "31120-DF0-BZ05",
+            "codfab": "31120-DF0-BZ05",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        },
+        {
+            "id": "97858844917",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "31120-BF0-CG10",
+            "codfab": "31120-BF0-CG10",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        },
+        {
+            "id": "97858844918",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "12220-DF0-BR05",
+            "codfab": "12220-DF0-BR05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fora medida nao encaixa"
+        },
+        {
+            "id": "97858844919",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "31120-DF0-BZ01",
+            "codfab": "31120-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        },
+        {
+            "id": "97858844920",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "31120-DF0-BZ04",
+            "codfab": "31120-DF0-BZ04",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        },
+        {
+            "id": "97858844921",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "36103-BF0-CG07",
+            "codfab": "36103-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao marca velocidade"
+        },
+        {
+            "id": "97858844922",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "11460-DF0-BZ04",
+            "codfab": "11460-DF0-BZ04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ruido ao funcionar"
+        },
+        {
+            "id": "97858844923",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "12110-BF0-CG06",
+            "codfab": "12110-BF0-CG06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ruido ao funcionar"
+        },
+        {
+            "id": "97858844924",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "31120-BF0-CG04",
+            "codfab": "31120-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        },
+        {
+            "id": "97858844925",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "92600-DF2-SP01",
+            "codfab": "92600-DF2-SP01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "abriu costura"
+        },
+        {
+            "id": "97858844926",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "33200-BB0-PO01",
+            "codfab": "33200-BB0-PO01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        },
+        {
+            "id": "97858844927",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37800-DB0-CG01",
+            "codfab": "37800-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "queimado"
+        },
+        {
+            "id": "97858844928",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "33200-DB0-NE01",
+            "codfab": "33200-DB0-NE01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        },
+        {
+            "id": "97858844929",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37900-DB0-CG01",
+            "codfab": "37900-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "queimado"
+        },
+        {
+            "id": "97858844930",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37800-DB0-CG02",
+            "codfab": "37800-DB0-CG02",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "queimado"
+        },
+        {
+            "id": "97858844931",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "33300-DB0-YS01",
+            "codfab": "33300-DB0-YS01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao aciona partida"
+        },
+        {
+            "id": "97858844932",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "31210-DF0-BR01",
+            "codfab": "31210-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao encaixa"
+        },
+        {
+            "id": "97858844933",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37410-BB0-CG04",
+            "codfab": "37410-BB0-CG04",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao aciona"
+        },
+        {
+            "id": "97858844934",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "32100-BB0-CG12",
+            "codfab": "32100-BB0-CG12",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao passa corrente"
+        },
+        {
+            "id": "97858844935",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37240-BF0-CG02",
+            "codfab": "37240-BF0-CG02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "chave nao destrava a tampa"
+        },
+        {
+            "id": "97858844936",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37600-DB0-CG01",
+            "codfab": "37600-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao passa corrente"
+        },
+        {
+            "id": "97858844937",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "35130-BB0-BZ04",
+            "codfab": "35130-BB0-BZ04",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "fiacao em curto"
+        },
+        {
+            "id": "97858844938",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "35330-DF0-BR01",
+            "codfab": "35330-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "em curto"
+        },
+        {
+            "id": "97858844939",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "11471-DF0-YS01",
+            "codfab": "11471-DF0-YS01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ruido ao funcionar"
+        },
+        {
+            "id": "97858844940",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37511-DF0-XT01",
+            "codfab": "37511-DF0-XT01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao da aperto"
+        },
+        {
+            "id": "97858844941",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "81120-BF0-BZ01",
+            "codfab": "81120-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        },
+        {
+            "id": "97858844942",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37510-DF0-CG01",
+            "codfab": "37510-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao da aperto"
+        },
+        {
+            "id": "97858844943",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37210-BB0-CG10",
+            "codfab": "37210-BB0-CG10",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao aciona moto"
+        },
+        {
+            "id": "97858844944",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "55110-DF0-CG01",
+            "codfab": "55110-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "faltando pe\u00e7as"
+        },
+        {
+            "id": "97858844945",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "81120-DF0-CP01",
+            "codfab": "81120-DF0-CP01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        },
+        {
+            "id": "97858844946",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37420-BB0-CG10",
+            "codfab": "37420-BB0-CG10",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao da partida"
+        },
+        {
+            "id": "97858844947",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "37410-BB0-CG07",
+            "codfab": "37410-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao aciona farol alto"
+        },
+        {
+            "id": "97858844948",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "33300-BB0-XT06",
+            "codfab": "33300-BB0-XT06",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao da partida"
+        },
+        {
+            "id": "97858844949",
+            "fk_garantia": 978588449,
+            "codcli": "7423",
+            "codprod": "32100-BB0-CG03",
+            "codfab": "32100-BB0-CG03",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao carrrega"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 50,
+            "fk_item": "9785884490",
+            "anexo": "12101-BF0-CG08_20260406_163722_50.jpeg"
+        },
+        {
+            "id": 49,
+            "fk_item": "9785884491",
+            "anexo": "45111-DF0-CG02_20260406_163646_49.jpeg"
+        },
+        {
+            "id": 48,
+            "fk_item": "9785884492",
+            "anexo": "41120-BF1-CG04_20260406_163603_48.jpeg"
+        },
+        {
+            "id": 47,
+            "fk_item": "9785884493",
+            "anexo": "12101-DF0-CG01_20260406_163524_47.jpeg"
+        },
+        {
+            "id": 46,
+            "fk_item": "9785884494",
+            "anexo": "12130-BF0-CB03_20260406_163440_46.jpeg"
+        },
+        {
+            "id": 45,
+            "fk_item": "9785884495",
+            "anexo": "12111-BF0-BZ08_20260406_163410_45.jpeg"
+        },
+        {
+            "id": 44,
+            "fk_item": "9785884496",
+            "anexo": "12130-BF0-YB01_20260406_163306_44.jpeg"
+        },
+        {
+            "id": 43,
+            "fk_item": "9785884497",
+            "anexo": "12111-BF0-BZ03_20260406_163234_43.jpeg"
+        },
+        {
+            "id": 42,
+            "fk_item": "9785884498",
+            "anexo": "11320-BF0-CG08_20260406_163156_42.jpeg"
+        },
+        {
+            "id": 41,
+            "fk_item": "9785884499",
+            "anexo": "11320-BF0-CG02_20260406_163121_41.jpeg"
+        },
+        {
+            "id": 40,
+            "fk_item": "97858844910",
+            "anexo": "11320-DF4-XR01_20260406_163044_40.jpeg"
+        },
+        {
+            "id": 39,
+            "fk_item": "97858844911",
+            "anexo": "41240-DF0-CG01_20260406_163004_39.jpeg"
+        },
+        {
+            "id": 38,
+            "fk_item": "97858844912",
+            "anexo": "61420-DF0-BZ01_20260406_162925_38.jpeg"
+        },
+        {
+            "id": 37,
+            "fk_item": "97858844913",
+            "anexo": "11630-BF0-BZ06_20260406_162849_37.jpeg"
+        },
+        {
+            "id": 36,
+            "fk_item": "97858844914",
+            "anexo": "38100-DF0-CB02_20260406_162812_36.jpeg"
+        },
+        {
+            "id": 35,
+            "fk_item": "97858844915",
+            "anexo": "32100-DB0-JE01_20260406_162735_35.jpeg"
+        },
+        {
+            "id": 34,
+            "fk_item": "97858844916",
+            "anexo": "31120-DF0-BZ05_20260406_162702_34.jpeg"
+        },
+        {
+            "id": 33,
+            "fk_item": "97858844917",
+            "anexo": "31120-BF0-CG10_20260406_162638_33.jpeg"
+        },
+        {
+            "id": 32,
+            "fk_item": "97858844918",
+            "anexo": "12220-DF0-BR05_20260406_162611_32.jpeg"
+        },
+        {
+            "id": 31,
+            "fk_item": "97858844919",
+            "anexo": "31120-DF0-BZ01_20260406_162532_31.jpeg"
+        },
+        {
+            "id": 30,
+            "fk_item": "97858844920",
+            "anexo": "31120-DF0-BZ04_20260406_162505_30.jpeg"
+        },
+        {
+            "id": 29,
+            "fk_item": "97858844921",
+            "anexo": "36103-BF0-CG07_20260406_162439_29.jpeg"
+        },
+        {
+            "id": 28,
+            "fk_item": "97858844922",
+            "anexo": "11460-DF0-BZ04_20260406_162403_28.jpeg"
+        },
+        {
+            "id": 27,
+            "fk_item": "97858844923",
+            "anexo": "12110-BF0-CG06_20260406_162327_27.jpeg"
+        },
+        {
+            "id": 26,
+            "fk_item": "97858844924",
+            "anexo": "31120-BF0-CG04_20260406_162244_26.jpeg"
+        },
+        {
+            "id": 25,
+            "fk_item": "97858844925",
+            "anexo": "92600-DF2-SP01_20260406_162212_25.jpeg"
+        },
+        {
+            "id": 24,
+            "fk_item": "97858844926",
+            "anexo": "33200-BB0-PO01_20260406_162055_24.jpeg"
+        },
+        {
+            "id": 23,
+            "fk_item": "97858844927",
+            "anexo": "37800-DB0-CG01_20260406_162025_23.jpeg"
+        },
+        {
+            "id": 22,
+            "fk_item": "97858844928",
+            "anexo": "33200-DB0-NE01_20260406_161954_22.jpeg"
+        },
+        {
+            "id": 21,
+            "fk_item": "97858844929",
+            "anexo": "37900-DB0-CG01_20260406_161930_21.jpeg"
+        },
+        {
+            "id": 20,
+            "fk_item": "97858844930",
+            "anexo": "37800-DB0-CG02_20260406_161903_20.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "97858844931",
+            "anexo": "33300-DB0-YS01_20260406_161832_19.jpeg"
+        },
+        {
+            "id": 18,
+            "fk_item": "97858844932",
+            "anexo": "31210-DF0-BR01_20260406_161800_18.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "97858844933",
+            "anexo": "37410-BB0-CG04_20260406_161725_17.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "97858844934",
+            "anexo": "32100-BB0-CG12_20260406_161650_16.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "97858844935",
+            "anexo": "37240-BF0-CG02_20260406_161612_15.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "97858844936",
+            "anexo": "37600-DB0-CG01_20260406_161529_14.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "97858844937",
+            "anexo": "35130-BB0-BZ04_20260406_161452_13.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "97858844938",
+            "anexo": "35330-DF0-BR01_20260406_161414_12.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "97858844939",
+            "anexo": "11471-DF0-YS01_20260406_161327_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "97858844940",
+            "anexo": "37511-DF0-XT01_20260406_161253_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "97858844941",
+            "anexo": "81120-BF0-BZ01_20260406_161210_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "97858844942",
+            "anexo": "37510-DF0-CG01_20260406_161138_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "97858844943",
+            "anexo": "37210-BB0-CG10_20260406_160939_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "97858844944",
+            "anexo": "55110-DF0-CG01_20260406_160908_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "97858844945",
+            "anexo": "81120-DF0-CP01_20260406_160821_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "97858844946",
+            "anexo": "37420-BB0-CG10_20260406_160752_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "97858844947",
+            "anexo": "37410-BB0-CG07_20260406_160720_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "97858844948",
+            "anexo": "33300-BB0-XT06_20260406_160632_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "97858844949",
+            "anexo": "32100-BB0-CG03_20260406_160601_1.jpeg"
+        }
+    ]
+}

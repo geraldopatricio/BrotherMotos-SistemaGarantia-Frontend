@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 452570305,
+        "dt_cad": "2026-04-16T18:24:37.212Z",
+        "codcli": "11173",
+        "codusur": "307",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "arthur"
+    },
+    "garantia_itens": [
+        {
+            "id": "4525703050",
+            "fk_garantia": 452570305,
+            "codcli": "11173",
+            "codprod": "12210-DF0-CG01",
+            "codfab": "12210-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Com ru\u00eddos",
+            "observacao": "barulho "
+        },
+        {
+            "id": "4525703051",
+            "fk_garantia": 452570305,
+            "codcli": "11173",
+            "codprod": "11600-DF0-YS02",
+            "codfab": "11600-DF0-YS02",
+            "qtd": "1",
+            "motivo": "Falha na acelera\u00e7\u00e3o",
+            "observacao": "falhando "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "4525703050",
+            "anexo": "12210-DF0-CG01_20260416_152434_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4525703051",
+            "anexo": "11600-DF0-YS02_20260416_152339_1.jpeg"
+        }
+    ]
+}

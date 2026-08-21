@@ -1,0 +1,81 @@
+{
+    "garantia": {
+        "id": 764651900,
+        "dt_cad": "2026-03-28T21:03:26.916Z",
+        "codcli": "10910",
+        "codusur": "251",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "joao.branco"
+    },
+    "garantia_itens": [
+        {
+            "id": "7646519000",
+            "fk_garantia": 764651900,
+            "codcli": "10910",
+            "codprod": "81140-DF0-CB02",
+            "codfab": "81140-DF0-CB02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "FALHANDO"
+        },
+        {
+            "id": "7646519001",
+            "fk_garantia": 764651900,
+            "codcli": "10910",
+            "codprod": "81110-DF0-BZ01",
+            "codfab": "81110-DF0-BZ01",
+            "qtd": "2",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "N\u00c3O  ACIONA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 8,
+            "fk_item": "7646519000",
+            "anexo": "81140-DF0-CB02_20260328_170312_8.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "7646519000",
+            "anexo": "81140-DF0-CB02_20260328_170312_9.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "7646519001",
+            "anexo": "81110-DF0-BZ01_20260328_165756_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7646519001",
+            "anexo": "81110-DF0-BZ01_20260328_165756_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7646519001",
+            "anexo": "81110-DF0-BZ01_20260328_165756_3.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "7646519001",
+            "anexo": "81110-DF0-BZ01_20260328_165756_4.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "7646519001",
+            "anexo": "81110-DF0-BZ01_20260328_165756_5.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "7646519001",
+            "anexo": "81110-DF0-BZ01_20260328_165756_6.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "7646519001",
+            "anexo": "81110-DF0-BZ01_20260328_165756_7.jpg"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 585578947,
+        "dt_cad": "2026-03-30T13:06:04.915Z",
+        "codcli": "19684",
+        "codusur": "296",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jivago.fernando"
+    },
+    "garantia_itens": [
+        {
+            "id": "5855789470",
+            "fk_garantia": 585578947,
+            "codcli": "19684",
+            "codprod": "41100-DF0-BR03",
+            "codfab": "41100-DF0-BR03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "saiu a tinta da roda traseira na primeira lavagem "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5855789470",
+            "anexo": "41100-DF0-BR03_20260330_100557_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5855789470",
+            "anexo": "41100-DF0-BR03_20260330_100557_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5855789470",
+            "anexo": "41100-DF0-BR03_20260330_100557_3.jpeg"
+        }
+    ]
+}

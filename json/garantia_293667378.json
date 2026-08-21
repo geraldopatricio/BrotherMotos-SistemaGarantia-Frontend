@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 293667378,
+        "dt_cad": "2026-03-30T18:35:51.621Z",
+        "codcli": "22041",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "geraldo"
+    },
+    "garantia_itens": [
+        {
+            "id": "2936673780",
+            "fk_garantia": 293667378,
+            "codcli": "22041",
+            "codprod": "81110-BF0-BR12",
+            "codfab": "81110-BF0-BR12",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "uma esta sem pressao outra com muita pressao"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2936673780",
+            "anexo": "81110-BF0-BR12_20260330_153548_1.png"
+        }
+    ]
+}

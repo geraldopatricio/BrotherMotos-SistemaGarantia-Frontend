@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 795931558,
+        "dt_cad": "2026-04-14T16:13:55.093Z",
+        "codcli": "10224",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "7959315580",
+            "fk_garantia": 795931558,
+            "codcli": "10224",
+            "codprod": "31200-DB0-XR01",
+            "codfab": "31200-DB0-XR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Funcionou somente duas semanas e parou completamente"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7959315580",
+            "anexo": "31200-DB0-XR01_20260414_131349_1.jpeg"
+        }
+    ]
+}

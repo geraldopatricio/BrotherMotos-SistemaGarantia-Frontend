@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 310819852,
+        "dt_cad": "2026-04-14T14:56:58.646Z",
+        "codcli": "5057",
+        "codusur": "218",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "ciclomotos"
+    },
+    "garantia_itens": [
+        {
+            "id": "3108198520",
+            "fk_garantia": 310819852,
+            "codcli": "5057",
+            "codprod": "12210-DF0-CG04",
+            "codfab": "12210-DF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "engrenagem n\u00e3o esta encaixando, gerando barulho"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "3108198520",
+            "anexo": "12210-DF0-CG04_20260414_115648_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3108198520",
+            "anexo": "12210-DF0-CG04_20260414_115648_2.jpeg"
+        }
+    ]
+}

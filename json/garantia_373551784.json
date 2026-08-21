@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 373551784,
+        "dt_cad": "2026-04-09T13:03:05.998Z",
+        "codcli": "19949",
+        "codusur": "327",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "paulo.rebellato"
+    },
+    "garantia_itens": [
+        {
+            "id": "3735517840",
+            "fk_garantia": 373551784,
+            "codcli": "19949",
+            "codprod": "37600-DB0-CB01",
+            "codfab": "37600-DB0-CB01",
+            "qtd": "1",
+            "motivo": "Falha na acelera\u00e7\u00e3o",
+            "observacao": "nao esta funcionando na marcha lenta ( curto\/falha leitura) lenta da moto oscila e aponta erro no scanner"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "3735517840",
+            "anexo": "37600-DB0-CB01_20260409_100301_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3735517840",
+            "anexo": "37600-DB0-CB01_20260409_100301_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3735517840",
+            "anexo": "37600-DB0-CB01_20260409_100301_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3735517840",
+            "anexo": "37600-DB0-CB01_20260409_100301_4.jpeg"
+        }
+    ]
+}

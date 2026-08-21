@@ -1,0 +1,141 @@
+{
+    "garantia": {
+        "id": 427441918,
+        "dt_cad": "2026-04-16T18:17:49.546Z",
+        "codcli": "11173",
+        "codusur": "307",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "arthur"
+    },
+    "garantia_itens": [
+        {
+            "id": "4274419180",
+            "fk_garantia": 427441918,
+            "codcli": "11173",
+            "codprod": "31120-DF0-FZ01",
+            "codfab": "31120-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao carrega moto "
+        },
+        {
+            "id": "4274419181",
+            "fk_garantia": 427441918,
+            "codcli": "11173",
+            "codprod": "31120-BF0-PO01",
+            "codfab": "31120-BF0-PO01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao carrega "
+        },
+        {
+            "id": "4274419182",
+            "fk_garantia": 427441918,
+            "codcli": "11173",
+            "codprod": "11471-BF0-CG07",
+            "codfab": "11471-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "nao trava "
+        },
+        {
+            "id": "4274419183",
+            "fk_garantia": 427441918,
+            "codcli": "11173",
+            "codprod": "37210-DB0-CG01",
+            "codfab": "37210-DB0-CG01",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao funcionou"
+        },
+        {
+            "id": "4274419184",
+            "fk_garantia": 427441918,
+            "codcli": "11173",
+            "codprod": "45112-DF0-BR01",
+            "codfab": "45112-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "nao empuurra oleo "
+        },
+        {
+            "id": "4274419185",
+            "fk_garantia": 427441918,
+            "codcli": "11173",
+            "codprod": "11600-DF0-YS01",
+            "codfab": "11600-DF0-YS01",
+            "qtd": "1",
+            "motivo": "Falha na acelera\u00e7\u00e3o",
+            "observacao": "falhando "
+        },
+        {
+            "id": "4274419186",
+            "fk_garantia": 427441918,
+            "codcli": "11173",
+            "codprod": "11600-BF0-YB01",
+            "codfab": "11600-BF0-YB01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "falahando"
+        },
+        {
+            "id": "4274419187",
+            "fk_garantia": 427441918,
+            "codcli": "11173",
+            "codprod": "55100-BF0-BR01",
+            "codfab": "55100-BF0-BR01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "nao faz fun\u00e7ao "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 11,
+            "fk_item": "4274419180",
+            "anexo": "31120-DF0-FZ01_20260416_151741_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "4274419181",
+            "anexo": "31120-BF0-PO01_20260416_151705_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "4274419182",
+            "anexo": "11471-BF0-CG07_20260416_151610_9.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "4274419183",
+            "anexo": "37210-DB0-CG01_20260416_151520_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "4274419183",
+            "anexo": "37210-DB0-CG01_20260416_151520_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "4274419183",
+            "anexo": "37210-DB0-CG01_20260416_151520_8.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "4274419184",
+            "anexo": "45112-DF0-BR01_20260416_151058_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "4274419185",
+            "anexo": "11600-DF0-YS01_20260416_151016_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "4274419186",
+            "anexo": "11600-BF0-YB01_20260416_150832_3.jpeg"
+        }
+    ]
+}

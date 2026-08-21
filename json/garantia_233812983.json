@@ -1,0 +1,66 @@
+{
+    "garantia": {
+        "id": 233812983,
+        "dt_cad": "2026-04-06T14:50:35.554Z",
+        "codcli": "9998",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "2338129830",
+            "fk_garantia": 233812983,
+            "codcli": "9998",
+            "codprod": "81140-DF0-FZ01",
+            "codfab": "81140-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem press\u00e3o "
+        },
+        {
+            "id": "2338129831",
+            "fk_garantia": 233812983,
+            "codcli": "9998",
+            "codprod": "37420-DB1-BR02",
+            "codfab": "37420-DB1-BR02",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "Mal contato moto fica morrendo "
+        },
+        {
+            "id": "2338129832",
+            "fk_garantia": 233812983,
+            "codcli": "9998",
+            "codprod": "36100-BF0-BZ03",
+            "codfab": "36100-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o marca combust\u00edvel "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "2338129830",
+            "anexo": "81140-DF0-FZ01_20260406_115031_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "2338129830",
+            "anexo": "81140-DF0-FZ01_20260406_115031_4.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "2338129831",
+            "anexo": "37420-DB1-BR02_20260406_114927_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2338129831",
+            "anexo": "37420-DB1-BR02_20260406_114927_2.jpeg"
+        }
+    ]
+}

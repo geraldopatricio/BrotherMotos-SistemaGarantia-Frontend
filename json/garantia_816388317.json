@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 816388317,
+        "dt_cad": "2026-04-04T14:14:02.592Z",
+        "codcli": "13903",
+        "codusur": "298",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "formosa.pneus"
+    },
+    "garantia_itens": [
+        {
+            "id": "8163883170",
+            "fk_garantia": 816388317,
+            "codcli": "13903",
+            "codprod": "36100-DF0-BR07",
+            "codfab": "36100-DF0-BR07",
+            "qtd": "1",
+            "motivo": "Sem pulso",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "8163883170",
+            "anexo": "36100-DF0-BR07_20260404_111345_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "8163883170",
+            "anexo": "36100-DF0-BR07_20260404_111345_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "8163883170",
+            "anexo": "36100-DF0-BR07_20260404_111345_3.jpeg"
+        }
+    ]
+}

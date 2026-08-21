@@ -1,0 +1,116 @@
+{
+    "garantia": {
+        "id": 388179059,
+        "dt_cad": "2026-04-07T15:21:25.292Z",
+        "codcli": "19798",
+        "codusur": "308",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "carlos"
+    },
+    "garantia_itens": [
+        {
+            "id": "3881790590",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "61240-DC0-FZ06",
+            "codfab": "61240-DC0-FZ06",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Cabo menor, curto "
+        },
+        {
+            "id": "3881790591",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "36300-BC1-CG07",
+            "codfab": "36300-BC1-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Partiu o cabo "
+        },
+        {
+            "id": "3881790592",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "41172-BF5-TD00",
+            "codfab": "41172-BF5-TD00",
+            "qtd": "1",
+            "motivo": "Falha na vulcaniza\u00e7\u00e3o",
+            "observacao": "Rasgando no pito "
+        },
+        {
+            "id": "3881790593",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "81110-DF0-CG01",
+            "codfab": "81110-DF0-CG01",
+            "qtd": "2",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "Sem acionar "
+        },
+        {
+            "id": "3881790594",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "81140-BF0-CG19",
+            "codfab": "81140-BF0-CG19",
+            "qtd": "1",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem press\u00e3o"
+        },
+        {
+            "id": "3881790595",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "12130-BF0-XR04",
+            "codfab": "12130-BF0-XR04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Partido no encaixe do parafuso "
+        },
+        {
+            "id": "3881790596",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "81140-DF0-CB02",
+            "codfab": "81140-DF0-CB02",
+            "qtd": "2",
+            "motivo": "Press\u00e3o sem",
+            "observacao": "Sem press\u00e3o "
+        },
+        {
+            "id": "3881790597",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "36100-DF0-TW01",
+            "codfab": "36100-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": "Digital com defeito "
+        },
+        {
+            "id": "3881790598",
+            "fk_garantia": 388179059,
+            "codcli": "19798",
+            "codprod": "36100-DF0-BR07",
+            "codfab": "36100-DF0-BR07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Travado veloc\u00edmetro "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "3881790596",
+            "anexo": "81140-DF0-CB02_20260407_113828_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3881790598",
+            "anexo": "36100-DF0-BR07_20260407_113218_1.jpg"
+        }
+    ]
+}

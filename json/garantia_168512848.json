@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 168512848,
+        "dt_cad": "2026-04-20T14:30:38.617Z",
+        "codcli": "2136",
+        "codusur": "344",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "falcaodistribuidora"
+    },
+    "garantia_itens": [
+        {
+            "id": "1685128480",
+            "fk_garantia": 168512848,
+            "codcli": "2136",
+            "codprod": "11300-BF0-BZ04",
+            "codfab": "11300-BF0-BZ04",
+            "qtd": "1",
+            "motivo": "Com ru\u00eddos",
+            "observacao": "pouca cavidade "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1685128480",
+            "anexo": "11300-BF0-BZ04_20260420_113032_1.jpg"
+        }
+    ]
+}

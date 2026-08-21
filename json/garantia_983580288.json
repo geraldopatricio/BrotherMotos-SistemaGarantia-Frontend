@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 983580288,
+        "dt_cad": "2026-03-31T13:13:45.209Z",
+        "codcli": "7849",
+        "codusur": "244",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mota"
+    },
+    "garantia_itens": [
+        {
+            "id": "9835802880",
+            "fk_garantia": 983580288,
+            "codcli": "7849",
+            "codprod": "11310-BF0-YB01",
+            "codfab": "11310-BF0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Aperta gaiola"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9835802880",
+            "anexo": "11310-BF0-YB01_20260331_101317_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9835802880",
+            "anexo": "11310-BF0-YB01_20260331_101317_2.jpeg"
+        }
+    ]
+}

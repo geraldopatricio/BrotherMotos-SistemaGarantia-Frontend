@@ -1,0 +1,71 @@
+{
+    "garantia": {
+        "id": 404461748,
+        "dt_cad": "2026-04-08T11:59:50.527Z",
+        "codcli": "18932",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "4044617480",
+            "fk_garantia": 404461748,
+            "codcli": "18932",
+            "codprod": "31120-DF0-BZ01",
+            "codfab": "31120-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Bobina de for\u00e7a queimada"
+        },
+        {
+            "id": "4044617481",
+            "fk_garantia": 404461748,
+            "codcli": "18932",
+            "codprod": "37210-DB0-YB01",
+            "codfab": "37210-DB0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Chegou trincada"
+        },
+        {
+            "id": "4044617482",
+            "fk_garantia": 404461748,
+            "codcli": "18932",
+            "codprod": "81140-BF0-BZ06",
+            "codfab": "81140-BF0-BZ06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Veio travada, liga na moto ela n\u00e3o aciona"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "4044617480",
+            "anexo": "31120-DF0-BZ01_20260408_085937_5.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4044617481",
+            "anexo": "37210-DB0-YB01_20260408_085852_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "4044617481",
+            "anexo": "37210-DB0-YB01_20260408_085852_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "4044617481",
+            "anexo": "37210-DB0-YB01_20260408_085852_4.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4044617482",
+            "anexo": "81140-BF0-BZ06_20260408_085741_1.jpeg"
+        }
+    ]
+}

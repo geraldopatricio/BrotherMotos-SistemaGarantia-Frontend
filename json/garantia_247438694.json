@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 247438694,
+        "dt_cad": "2026-04-06T14:44:07.991Z",
+        "codcli": "13657",
+        "codusur": "176",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mario"
+    },
+    "garantia_itens": [
+        {
+            "id": "2474386940",
+            "fk_garantia": 247438694,
+            "codcli": "13657",
+            "codprod": "81110-BF0-CG15",
+            "codfab": "81110-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "Bomba Combustivel Titan 160 vazando e sem press\u00e3o"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2474386940",
+            "anexo": "81110-BF0-CG15_20260406_114405_1.jpeg"
+        }
+    ]
+}

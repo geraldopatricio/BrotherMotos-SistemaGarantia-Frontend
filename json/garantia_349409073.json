@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 349409073,
+        "dt_cad": "2026-03-31T13:18:17.758Z",
+        "codcli": "18435",
+        "codusur": "258",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "moreira"
+    },
+    "garantia_itens": [
+        {
+            "id": "3494090730",
+            "fk_garantia": 349409073,
+            "codcli": "18435",
+            "codprod": "11510-DF0-FZ01",
+            "codfab": "11510-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "O FILTRO DESMANCHOU"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "3494090730",
+            "anexo": "11510-DF0-FZ01_20260331_101638_1.mp4"
+        }
+    ]
+}

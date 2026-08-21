@@ -1,0 +1,91 @@
+{
+    "garantia": {
+        "id": 436386090,
+        "dt_cad": "2026-04-16T19:34:36.490Z",
+        "codcli": "20661",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "4363860900",
+            "fk_garantia": 436386090,
+            "codcli": "20661",
+            "codprod": "45112-DF0-CB01",
+            "codfab": "45112-DF0-CB01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "Est\u00e1 vazando \u00f3leo."
+        },
+        {
+            "id": "4363860901",
+            "fk_garantia": 436386090,
+            "codcli": "20661",
+            "codprod": "52000-DF0-PH01",
+            "codfab": "52000-DF0-PH01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "Est\u00e1 vazando \u00f3leo"
+        },
+        {
+            "id": "4363860902",
+            "fk_garantia": 436386090,
+            "codcli": "20661",
+            "codprod": "37280-DF0-XR04",
+            "codfab": "37280-DF0-XR04",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "Problema na igni\u00e7\u00e3o"
+        },
+        {
+            "id": "4363860903",
+            "fk_garantia": 436386090,
+            "codcli": "20661",
+            "codprod": "92100-DF0-TW01",
+            "codfab": "92100-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Arranhado",
+            "observacao": "O produto est\u00e1 arranhado e amassado. "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 8,
+            "fk_item": "4363860901",
+            "anexo": "52000-DF0-PH01_20260416_163247_8.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "4363860901",
+            "anexo": "52000-DF0-PH01_20260416_163247_9.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "4363860902",
+            "anexo": "37280-DF0-XR04_20260416_163058_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "4363860902",
+            "anexo": "37280-DF0-XR04_20260416_163058_7.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4363860903",
+            "anexo": "92100-DF0-TW01_20260416_154228_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4363860903",
+            "anexo": "92100-DF0-TW01_20260416_154228_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "4363860903",
+            "anexo": "92100-DF0-TW01_20260416_154228_3.jpeg"
+        }
+    ]
+}

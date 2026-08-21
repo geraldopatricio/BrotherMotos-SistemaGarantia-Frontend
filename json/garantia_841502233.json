@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 841502233,
+        "dt_cad": "2026-04-01T18:07:32.051Z",
+        "codcli": "22304",
+        "codusur": "334",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "erik"
+    },
+    "garantia_itens": [
+        {
+            "id": "8415022330",
+            "fk_garantia": 841502233,
+            "codcli": "22304",
+            "codprod": "41300-DF1-CG15",
+            "codfab": "41300-DF1-CG15",
+            "qtd": "6",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "furo nao enquadrado"
+        },
+        {
+            "id": "8415022331",
+            "fk_garantia": 841502233,
+            "codcli": "22304",
+            "codprod": "41240-DF1-CG01",
+            "codfab": "41240-DF1-CG01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "sem press\u00e3o"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "8415022330",
+            "anexo": "41300-DF1-CG15_20260401_150728_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8415022331",
+            "anexo": "41240-DF1-CG01_20260401_150639_1.jpeg"
+        }
+    ]
+}

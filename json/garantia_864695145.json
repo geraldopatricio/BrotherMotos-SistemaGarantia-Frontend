@@ -1,0 +1,241 @@
+{
+    "garantia": {
+        "id": 864695145,
+        "dt_cad": "2026-04-11T15:15:49.105Z",
+        "codcli": "9870",
+        "codusur": "264",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "valdereis.coutinho"
+    },
+    "garantia_itens": [
+        {
+            "id": "8646951450",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "37440-DB0-CG01",
+            "codfab": "37440-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "MAL CONTATO"
+        },
+        {
+            "id": "8646951451",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "37800-DB0-FZ01",
+            "codfab": "37800-DB0-FZ01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "8646951452",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "37450-DB0-TD01",
+            "codfab": "37450-DB0-TD01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "MAL CONTATO"
+        },
+        {
+            "id": "8646951453",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "11500-BF0-PH02",
+            "codfab": "11500-BF0-PH02",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "NAO LUBRIFICA"
+        },
+        {
+            "id": "8646951454",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "12330-DF0-XT01",
+            "codfab": "12330-DF0-XT01",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": "NAO ENCAIXA PERFEITAMENTE"
+        },
+        {
+            "id": "8646951455",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "12340-DF0-YB01",
+            "codfab": "12340-DF0-YB01",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "QUEBROU "
+        },
+        {
+            "id": "8646951456",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "81140-DF0-CG14",
+            "codfab": "81140-DF0-CG14",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "8646951457",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "36100-BF0-BZ01",
+            "codfab": "36100-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "NAO MARCA CORRETAMENTE"
+        },
+        {
+            "id": "8646951458",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "36100-BF0-YB03",
+            "codfab": "36100-BF0-YB03",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "NAO MARCA CORRETAMENTE"
+        },
+        {
+            "id": "8646951459",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "12110-BF0-CG06",
+            "codfab": "12110-BF0-CG06",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": null
+        },
+        {
+            "id": "86469514510",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "82101-DF0-CG04",
+            "codfab": "82101-DF0-CG04",
+            "qtd": "1",
+            "motivo": "Descentralizado",
+            "observacao": "NAO ENCAIXA"
+        },
+        {
+            "id": "86469514511",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "36101-BF0-CG03",
+            "codfab": "36101-BF0-CG03",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "NAO MARCA CORRETAMENTE"
+        },
+        {
+            "id": "86469514512",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "82101-DF0-CG01",
+            "codfab": "82101-DF0-CG01",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "SOLTOU SOLDA"
+        },
+        {
+            "id": "86469514513",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "81140-BF0-CG17",
+            "codfab": "81140-BF0-CG17",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "86469514514",
+            "fk_garantia": 864695145,
+            "codcli": "9870",
+            "codprod": "35130-BB0-BZ03",
+            "codfab": "35130-BB0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "FIO SOLTO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 15,
+            "fk_item": "8646951450",
+            "anexo": "37440-DB0-CG01_20260411_121446_15.pdf"
+        },
+        {
+            "id": 14,
+            "fk_item": "8646951451",
+            "anexo": "37800-DB0-FZ01_20260411_121205_14.pdf"
+        },
+        {
+            "id": 13,
+            "fk_item": "8646951452",
+            "anexo": "37450-DB0-TD01_20260411_121029_13.pdf"
+        },
+        {
+            "id": 12,
+            "fk_item": "8646951453",
+            "anexo": "11500-BF0-PH02_20260411_120713_12.pdf"
+        },
+        {
+            "id": 11,
+            "fk_item": "8646951454",
+            "anexo": "12330-DF0-XT01_20260411_120436_11.pdf"
+        },
+        {
+            "id": 10,
+            "fk_item": "8646951455",
+            "anexo": "12340-DF0-YB01_20260411_115953_10.pdf"
+        },
+        {
+            "id": 9,
+            "fk_item": "8646951456",
+            "anexo": "81140-DF0-CG14_20260411_115708_9.pdf"
+        },
+        {
+            "id": 8,
+            "fk_item": "8646951457",
+            "anexo": "36100-BF0-BZ01_20260411_115244_8.pdf"
+        },
+        {
+            "id": 7,
+            "fk_item": "8646951458",
+            "anexo": "36100-BF0-YB03_20260411_114945_7.pdf"
+        },
+        {
+            "id": 6,
+            "fk_item": "8646951459",
+            "anexo": "12110-BF0-CG06_20260411_114610_6.pdf"
+        },
+        {
+            "id": 5,
+            "fk_item": "86469514510",
+            "anexo": "82101-DF0-CG04_20260411_112741_5.pdf"
+        },
+        {
+            "id": 4,
+            "fk_item": "86469514511",
+            "anexo": "36101-BF0-CG03_20260411_112348_4.pdf"
+        },
+        {
+            "id": 3,
+            "fk_item": "86469514512",
+            "anexo": "82101-DF0-CG01_20260411_111847_3.pdf"
+        },
+        {
+            "id": 2,
+            "fk_item": "86469514513",
+            "anexo": "81140-BF0-CG17_20260411_111512_2.pdf"
+        },
+        {
+            "id": 1,
+            "fk_item": "86469514514",
+            "anexo": "35130-BB0-BZ03_20260411_111226_1.pdf"
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "garantia": {
+        "id": 252278864,
+        "dt_cad": "2026-04-15T12:08:07.492Z",
+        "codcli": "15473",
+        "codusur": "286",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "2522788640",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "11600-BF0-BZ03",
+            "codfab": "11600-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando combustivel"
+        },
+        {
+            "id": "2522788641",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "33200-BB0-CG05",
+            "codfab": "33200-BB0-CG05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao ta dando sinal "
+        },
+        {
+            "id": "2522788642",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "11600-BF0-YB01",
+            "codfab": "11600-BF0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "vazando combustivel"
+        },
+        {
+            "id": "2522788643",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "41130-DF1-BR01",
+            "codfab": "41130-DF1-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "foi faltando 1 raio"
+        },
+        {
+            "id": "2522788644",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "41130-DF0-CG07",
+            "codfab": "41130-DF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao esta pegando aperto"
+        },
+        {
+            "id": "2522788645",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "81110-BF0-CG15",
+            "codfab": "81110-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao aciona"
+        },
+        {
+            "id": "2522788646",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "31200-DB0-FZ01",
+            "codfab": "31200-DB0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao gira"
+        },
+        {
+            "id": "2522788647",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "33200-DB0-FT01",
+            "codfab": "33200-DB0-FT01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao esta funcionando"
+        },
+        {
+            "id": "2522788648",
+            "fk_garantia": 252278864,
+            "codcli": "15473",
+            "codprod": "36100-DF0-CG24",
+            "codfab": "36100-DF0-CG24",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "travou velocimetro e estourando cabo"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 22,
+            "fk_item": "2522788640",
+            "anexo": "11600-BF0-BZ03_20260415_090755_22.jpeg"
+        },
+        {
+            "id": 23,
+            "fk_item": "2522788640",
+            "anexo": "11600-BF0-BZ03_20260415_090755_23.jpeg"
+        },
+        {
+            "id": 20,
+            "fk_item": "2522788641",
+            "anexo": "33200-BB0-CG05_20260415_090703_20.jpeg"
+        },
+        {
+            "id": 21,
+            "fk_item": "2522788641",
+            "anexo": "33200-BB0-CG05_20260415_090703_21.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "2522788642",
+            "anexo": "11600-BF0-YB01_20260415_090429_19.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "2522788643",
+            "anexo": "41130-DF1-BR01_20260415_090307_17.jpeg"
+        },
+        {
+            "id": 18,
+            "fk_item": "2522788643",
+            "anexo": "41130-DF1-BR01_20260415_090307_18.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "2522788644",
+            "anexo": "41130-DF0-CG07_20260415_090221_16.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "2522788645",
+            "anexo": "81110-BF0-CG15_20260415_090128_13.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "2522788645",
+            "anexo": "81110-BF0-CG15_20260415_090128_14.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "2522788645",
+            "anexo": "81110-BF0-CG15_20260415_090128_15.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "2522788646",
+            "anexo": "31200-DB0-FZ01_20260415_090004_10.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "2522788646",
+            "anexo": "31200-DB0-FZ01_20260415_090004_11.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "2522788646",
+            "anexo": "31200-DB0-FZ01_20260415_090004_12.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "2522788647",
+            "anexo": "33200-DB0-FT01_20260415_085853_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "2522788647",
+            "anexo": "33200-DB0-FT01_20260415_085853_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "2522788647",
+            "anexo": "33200-DB0-FT01_20260415_085853_7.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "2522788648",
+            "anexo": "36100-DF0-CG24_20260415_085759_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2522788648",
+            "anexo": "36100-DF0-CG24_20260415_085759_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "2522788648",
+            "anexo": "36100-DF0-CG24_20260415_085759_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "2522788648",
+            "anexo": "36100-DF0-CG24_20260415_085759_4.jpeg"
+        }
+    ]
+}

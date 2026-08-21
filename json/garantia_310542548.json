@@ -1,0 +1,101 @@
+{
+    "garantia": {
+        "id": 310542548,
+        "dt_cad": "2026-04-16T02:58:34.349Z",
+        "codcli": "12979",
+        "codusur": "251",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "joao.branco"
+    },
+    "garantia_itens": [
+        {
+            "id": "3105425480",
+            "fk_garantia": 310542548,
+            "codcli": "12979",
+            "codprod": "81140-DF0-CB02",
+            "codfab": "81140-DF0-CB02",
+            "qtd": "5",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "N\u00e3o tem press\u00e3o"
+        },
+        {
+            "id": "3105425481",
+            "fk_garantia": 310542548,
+            "codcli": "12979",
+            "codprod": "81140-DF0-CG14",
+            "codfab": "81140-DF0-CG14",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "travada"
+        },
+        {
+            "id": "3105425482",
+            "fk_garantia": 310542548,
+            "codcli": "12979",
+            "codprod": "81140-BF0-CG17",
+            "codfab": "81140-BF0-CG17",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "n\u00e3o aciona, travada"
+        },
+        {
+            "id": "3105425483",
+            "fk_garantia": 310542548,
+            "codcli": "12979",
+            "codprod": "81140-DF0-FZ01",
+            "codfab": "81140-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "TRAVADA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 10,
+            "fk_item": "3105425480",
+            "anexo": "81140-DF0-CB02_20260416_225356_10.jpg"
+        },
+        {
+            "id": 11,
+            "fk_item": "3105425480",
+            "anexo": "81140-DF0-CB02_20260416_225356_11.jpg"
+        },
+        {
+            "id": 12,
+            "fk_item": "3105425480",
+            "anexo": "81140-DF0-CB02_20260416_225356_12.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "3105425481",
+            "anexo": "81140-DF0-CG14_20260416_225242_8.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "3105425481",
+            "anexo": "81140-DF0-CG14_20260416_225242_9.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "3105425482",
+            "anexo": "81140-BF0-CG17_20260416_225024_6.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "3105425482",
+            "anexo": "81140-BF0-CG17_20260416_225024_7.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3105425483",
+            "anexo": "81140-DF0-FZ01_20260416_224500_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3105425483",
+            "anexo": "81140-DF0-FZ01_20260416_224500_2.jpg"
+        }
+    ]
+}

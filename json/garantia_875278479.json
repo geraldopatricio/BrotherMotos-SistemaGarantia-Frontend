@@ -1,0 +1,431 @@
+{
+    "garantia": {
+        "id": 875278479,
+        "dt_cad": "2026-04-15T16:41:00.452Z",
+        "codcli": "19215",
+        "codusur": "339",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "8752784790",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "VAZANDO"
+        },
+        {
+            "id": "8752784791",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "37410-DB0-FZ02",
+            "codfab": "37410-DB0-FZ02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "BOTAO ESTA TRAVANDO"
+        },
+        {
+            "id": "8752784792",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "81140-BF0-CG08",
+            "codfab": "81140-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO FUNCIONA"
+        },
+        {
+            "id": "8752784793",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "81110-DF0-CB01",
+            "codfab": "81110-DF0-CB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESSAO"
+        },
+        {
+            "id": "8752784794",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "11600-DF0-CB02",
+            "codfab": "11600-DF0-CB02",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "VAZANDO"
+        },
+        {
+            "id": "8752784795",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "36100-DF0-CG27",
+            "codfab": "36100-DF0-CG27",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "VELOCIMETRO NAO ESTA FUNCIONANDO"
+        },
+        {
+            "id": "8752784796",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "35310-BF1-XT03",
+            "codfab": "35310-BF1-XT03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "VEIO COM FIO SOLTO"
+        },
+        {
+            "id": "8752784797",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "37700-DB0-TW01",
+            "codfab": "37700-DB0-TW01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ESTA COM BUG DESPARANDO "
+        },
+        {
+            "id": "8752784798",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "81110-DF0-FZ03",
+            "codfab": "81110-DF0-FZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESSAO"
+        },
+        {
+            "id": "8752784799",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "36100-DF0-YS01",
+            "codfab": "36100-DF0-YS01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PONTEIRO TRAVADO"
+        },
+        {
+            "id": "87527847910",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "32100-DB0-XR01",
+            "codfab": "32100-DB0-XR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO CARREGA"
+        },
+        {
+            "id": "87527847911",
+            "fk_garantia": 875278479,
+            "codcli": "19215",
+            "codprod": "55100-BF0-CG08",
+            "codfab": "55100-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "BATENDO SECO "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 54,
+            "fk_item": "8752784790",
+            "anexo": "11600-BF0-CG08_20260415_134048_54.jpeg"
+        },
+        {
+            "id": 55,
+            "fk_item": "8752784790",
+            "anexo": "11600-BF0-CG08_20260415_134048_55.jpeg"
+        },
+        {
+            "id": 56,
+            "fk_item": "8752784790",
+            "anexo": "11600-BF0-CG08_20260415_134048_56.jpeg"
+        },
+        {
+            "id": 57,
+            "fk_item": "8752784790",
+            "anexo": "11600-BF0-CG08_20260415_134048_57.jpeg"
+        },
+        {
+            "id": 58,
+            "fk_item": "8752784790",
+            "anexo": "11600-BF0-CG08_20260415_134048_58.jpeg"
+        },
+        {
+            "id": 59,
+            "fk_item": "8752784790",
+            "anexo": "11600-BF0-CG08_20260415_134048_59.jpeg"
+        },
+        {
+            "id": 50,
+            "fk_item": "8752784791",
+            "anexo": "37410-DB0-FZ02_20260415_133945_50.jpeg"
+        },
+        {
+            "id": 51,
+            "fk_item": "8752784791",
+            "anexo": "37410-DB0-FZ02_20260415_133945_51.jpeg"
+        },
+        {
+            "id": 52,
+            "fk_item": "8752784791",
+            "anexo": "37410-DB0-FZ02_20260415_133945_52.jpeg"
+        },
+        {
+            "id": 53,
+            "fk_item": "8752784791",
+            "anexo": "37410-DB0-FZ02_20260415_133945_53.jpeg"
+        },
+        {
+            "id": 46,
+            "fk_item": "8752784792",
+            "anexo": "81140-BF0-CG08_20260415_133807_46.jpeg"
+        },
+        {
+            "id": 47,
+            "fk_item": "8752784792",
+            "anexo": "81140-BF0-CG08_20260415_133807_47.jpeg"
+        },
+        {
+            "id": 48,
+            "fk_item": "8752784792",
+            "anexo": "81140-BF0-CG08_20260415_133807_48.jpeg"
+        },
+        {
+            "id": 49,
+            "fk_item": "8752784792",
+            "anexo": "81140-BF0-CG08_20260415_133807_49.jpeg"
+        },
+        {
+            "id": 42,
+            "fk_item": "8752784793",
+            "anexo": "81110-DF0-CB01_20260415_133704_42.jpeg"
+        },
+        {
+            "id": 43,
+            "fk_item": "8752784793",
+            "anexo": "81110-DF0-CB01_20260415_133704_43.jpeg"
+        },
+        {
+            "id": 44,
+            "fk_item": "8752784793",
+            "anexo": "81110-DF0-CB01_20260415_133704_44.jpeg"
+        },
+        {
+            "id": 45,
+            "fk_item": "8752784793",
+            "anexo": "81110-DF0-CB01_20260415_133704_45.jpeg"
+        },
+        {
+            "id": 38,
+            "fk_item": "8752784794",
+            "anexo": "11600-DF0-CB02_20260415_133550_38.jpeg"
+        },
+        {
+            "id": 39,
+            "fk_item": "8752784794",
+            "anexo": "11600-DF0-CB02_20260415_133550_39.jpeg"
+        },
+        {
+            "id": 40,
+            "fk_item": "8752784794",
+            "anexo": "11600-DF0-CB02_20260415_133550_40.jpeg"
+        },
+        {
+            "id": 41,
+            "fk_item": "8752784794",
+            "anexo": "11600-DF0-CB02_20260415_133550_41.jpeg"
+        },
+        {
+            "id": 33,
+            "fk_item": "8752784795",
+            "anexo": "36100-DF0-CG27_20260415_133440_33.jpeg"
+        },
+        {
+            "id": 34,
+            "fk_item": "8752784795",
+            "anexo": "36100-DF0-CG27_20260415_133440_34.jpeg"
+        },
+        {
+            "id": 35,
+            "fk_item": "8752784795",
+            "anexo": "36100-DF0-CG27_20260415_133440_35.jpeg"
+        },
+        {
+            "id": 36,
+            "fk_item": "8752784795",
+            "anexo": "36100-DF0-CG27_20260415_133440_36.jpeg"
+        },
+        {
+            "id": 37,
+            "fk_item": "8752784795",
+            "anexo": "36100-DF0-CG27_20260415_133440_37.jpeg"
+        },
+        {
+            "id": 29,
+            "fk_item": "8752784796",
+            "anexo": "35310-BF1-XT03_20260415_133148_29.jpeg"
+        },
+        {
+            "id": 30,
+            "fk_item": "8752784796",
+            "anexo": "35310-BF1-XT03_20260415_133148_30.jpeg"
+        },
+        {
+            "id": 31,
+            "fk_item": "8752784796",
+            "anexo": "35310-BF1-XT03_20260415_133148_31.jpeg"
+        },
+        {
+            "id": 32,
+            "fk_item": "8752784796",
+            "anexo": "35310-BF1-XT03_20260415_133148_32.jpeg"
+        },
+        {
+            "id": 24,
+            "fk_item": "8752784797",
+            "anexo": "37700-DB0-TW01_20260415_132938_24.jpeg"
+        },
+        {
+            "id": 25,
+            "fk_item": "8752784797",
+            "anexo": "37700-DB0-TW01_20260415_132938_25.jpeg"
+        },
+        {
+            "id": 26,
+            "fk_item": "8752784797",
+            "anexo": "37700-DB0-TW01_20260415_132938_26.jpeg"
+        },
+        {
+            "id": 27,
+            "fk_item": "8752784797",
+            "anexo": "37700-DB0-TW01_20260415_132938_27.jpeg"
+        },
+        {
+            "id": 28,
+            "fk_item": "8752784797",
+            "anexo": "37700-DB0-TW01_20260415_132938_28.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "8752784798",
+            "anexo": "81110-DF0-FZ03_20260415_132813_19.jpeg"
+        },
+        {
+            "id": 20,
+            "fk_item": "8752784798",
+            "anexo": "81110-DF0-FZ03_20260415_132813_20.jpeg"
+        },
+        {
+            "id": 21,
+            "fk_item": "8752784798",
+            "anexo": "81110-DF0-FZ03_20260415_132813_21.jpeg"
+        },
+        {
+            "id": 22,
+            "fk_item": "8752784798",
+            "anexo": "81110-DF0-FZ03_20260415_132813_22.jpeg"
+        },
+        {
+            "id": 23,
+            "fk_item": "8752784798",
+            "anexo": "81110-DF0-FZ03_20260415_132813_23.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "8752784799",
+            "anexo": "36100-DF0-YS01_20260415_132723_12.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "8752784799",
+            "anexo": "36100-DF0-YS01_20260415_132723_13.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "8752784799",
+            "anexo": "36100-DF0-YS01_20260415_132723_14.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "8752784799",
+            "anexo": "36100-DF0-YS01_20260415_132723_15.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "8752784799",
+            "anexo": "36100-DF0-YS01_20260415_132723_16.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "8752784799",
+            "anexo": "36100-DF0-YS01_20260415_132723_17.jpeg"
+        },
+        {
+            "id": 18,
+            "fk_item": "8752784799",
+            "anexo": "36100-DF0-YS01_20260415_132723_18.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "87527847910",
+            "anexo": "32100-DB0-XR01_20260415_132535_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "87527847910",
+            "anexo": "32100-DB0-XR01_20260415_132535_8.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "87527847910",
+            "anexo": "32100-DB0-XR01_20260415_132535_9.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "87527847910",
+            "anexo": "32100-DB0-XR01_20260415_132535_10.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "87527847910",
+            "anexo": "32100-DB0-XR01_20260415_132535_11.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "87527847911",
+            "anexo": "55100-BF0-CG08_20260415_132409_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "87527847911",
+            "anexo": "55100-BF0-CG08_20260415_132409_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "87527847911",
+            "anexo": "55100-BF0-CG08_20260415_132409_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "87527847911",
+            "anexo": "55100-BF0-CG08_20260415_132409_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "87527847911",
+            "anexo": "55100-BF0-CG08_20260415_132409_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "87527847911",
+            "anexo": "55100-BF0-CG08_20260415_132409_6.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "garantia": {
+        "id": 747546593,
+        "dt_cad": "2026-04-10T11:39:35.681Z",
+        "codcli": "13742",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "7475465930",
+            "fk_garantia": 747546593,
+            "codcli": "13742",
+            "codprod": "31120-DF0-FC02",
+            "codfab": "31120-DF0-FC02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o gera energia"
+        },
+        {
+            "id": "7475465931",
+            "fk_garantia": 747546593,
+            "codcli": "13742",
+            "codprod": "31200-DB0-CG02",
+            "codfab": "31200-DB0-CG02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Gira fraco"
+        },
+        {
+            "id": "7475465932",
+            "fk_garantia": 747546593,
+            "codcli": "13742",
+            "codprod": "38100-DF0-CB02",
+            "codfab": "38100-DF0-CB02",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Som fraco"
+        },
+        {
+            "id": "7475465933",
+            "fk_garantia": 747546593,
+            "codcli": "13742",
+            "codprod": "33300-BB0-NX02",
+            "codfab": "33300-BB0-NX02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o passa sinal"
+        },
+        {
+            "id": "7475465934",
+            "fk_garantia": 747546593,
+            "codcli": "13742",
+            "codprod": "89200-DF0-BW02",
+            "codfab": "89200-DF0-BW02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Articula\u00e7\u00e3o fraca"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "7475465930",
+            "anexo": "31120-DF0-FC02_20260410_083929_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "7475465931",
+            "anexo": "31200-DB0-CG02_20260410_083900_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7475465932",
+            "anexo": "38100-DF0-CB02_20260410_083819_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7475465933",
+            "anexo": "33300-BB0-NX02_20260410_083743_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "7475465934",
+            "anexo": "89200-DF0-BW02_20260410_083718_1.jpeg"
+        }
+    ]
+}

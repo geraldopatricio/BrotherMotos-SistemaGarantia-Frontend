@@ -1,0 +1,71 @@
+{
+    "garantia": {
+        "id": 878428065,
+        "dt_cad": "2026-04-20T17:19:05.851Z",
+        "codcli": "11255",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "8784280650",
+            "fk_garantia": 878428065,
+            "codcli": "11255",
+            "codprod": "37410-BB0-CG04",
+            "codfab": "37410-BB0-CG04",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "boato seta nao funciona"
+        },
+        {
+            "id": "8784280651",
+            "fk_garantia": 878428065,
+            "codcli": "11255",
+            "codprod": "32100-BB0-CG03",
+            "codfab": "32100-BB0-CG03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "passando muita voltagem"
+        },
+        {
+            "id": "8784280652",
+            "fk_garantia": 878428065,
+            "codcli": "11255",
+            "codprod": "81140-BF0-CG01",
+            "codfab": "81140-BF0-CG01",
+            "qtd": "23",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "8784280650",
+            "anexo": "37410-BB0-CG04_20260420_141851_5.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "8784280651",
+            "anexo": "32100-BB0-CG03_20260420_141628_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "8784280651",
+            "anexo": "32100-BB0-CG03_20260420_141628_4.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8784280652",
+            "anexo": "81140-BF0-CG01_20260420_141348_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "8784280652",
+            "anexo": "81140-BF0-CG01_20260420_141348_2.jpeg"
+        }
+    ]
+}

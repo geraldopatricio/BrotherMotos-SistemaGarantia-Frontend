@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 870575621,
+        "dt_cad": "2026-04-07T14:16:38.964Z",
+        "codcli": "10997",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "nordeste.acessorios"
+    },
+    "garantia_itens": [
+        {
+            "id": "8705756210",
+            "fk_garantia": 870575621,
+            "codcli": "10997",
+            "codprod": "52465-DF0-BR01",
+            "codfab": "52465-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "faltando eixo"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "8705756210",
+            "anexo": "52465-DF0-BR01_20260407_111344_1.jpeg"
+        }
+    ]
+}

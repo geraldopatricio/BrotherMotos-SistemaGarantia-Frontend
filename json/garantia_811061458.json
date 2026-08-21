@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 811061458,
+        "dt_cad": "2026-04-09T19:37:48.044Z",
+        "codcli": "15906",
+        "codusur": "244",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mota"
+    },
+    "garantia_itens": [
+        {
+            "id": "8110614580",
+            "fk_garantia": 811061458,
+            "codcli": "15906",
+            "codprod": "91911-DF0-BR01",
+            "codfab": "91911-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ABRIU NOS GOMOS NA PRIMEIRA SEMANA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "8110614580",
+            "anexo": "91911-DF0-BR01_20260409_163744_1.jpeg"
+        }
+    ]
+}

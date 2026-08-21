@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 776848170,
+        "dt_cad": "2026-04-17T14:13:58.627Z",
+        "codcli": "14495",
+        "codusur": "326",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "flex.ltda"
+    },
+    "garantia_itens": [
+        {
+            "id": "7768481700",
+            "fk_garantia": 776848170,
+            "codcli": "14495",
+            "codprod": "35110-DF0-BZ03",
+            "codfab": "35110-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "bloco optico esta com encaixe da lampada derretendo "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7768481700",
+            "anexo": "35110-DF0-BZ03_20260417_101356_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7768481700",
+            "anexo": "35110-DF0-BZ03_20260417_101356_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7768481700",
+            "anexo": "35110-DF0-BZ03_20260417_101356_3.jpeg"
+        }
+    ]
+}

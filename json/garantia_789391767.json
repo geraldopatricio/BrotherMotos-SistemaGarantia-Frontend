@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 789391767,
+        "dt_cad": "2026-04-20T18:39:29.766Z",
+        "codcli": "14323",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "amotocenter"
+    },
+    "garantia_itens": [
+        {
+            "id": "7893917670",
+            "fk_garantia": 789391767,
+            "codcli": "14323",
+            "codprod": "12210-DF0-CG06",
+            "codfab": "12210-DF0-CG06",
+            "qtd": "1",
+            "motivo": "Com ru\u00eddos",
+            "observacao": "ficou roncando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7893917670",
+            "anexo": "12210-DF0-CG06_20260420_153911_1.jpeg"
+        }
+    ]
+}

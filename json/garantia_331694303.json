@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 331694303,
+        "dt_cad": "2026-04-13T13:42:53.731Z",
+        "codcli": "16101",
+        "codusur": "268",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "gilmar"
+    },
+    "garantia_itens": [
+        {
+            "id": "3316943030",
+            "fk_garantia": 331694303,
+            "codcli": "16101",
+            "codprod": "37210-DB0-BR02",
+            "codfab": "37210-DB0-BR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Mau contato "
+        },
+        {
+            "id": "3316943031",
+            "fk_garantia": 331694303,
+            "codcli": "16101",
+            "codprod": "36100-DF0-CG34",
+            "codfab": "36100-DF0-CG34",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o est\u00e1 marcando a velocidade "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "3316943031",
+            "anexo": "36100-DF0-CG34_20260413_103853_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3316943031",
+            "anexo": "36100-DF0-CG34_20260413_103853_2.mp4"
+        }
+    ]
+}

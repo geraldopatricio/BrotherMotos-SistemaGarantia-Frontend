@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 863593312,
+        "dt_cad": "2026-04-07T13:20:23.187Z",
+        "codcli": "16067",
+        "codusur": "327",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "paulo.rebellato"
+    },
+    "garantia_itens": [
+        {
+            "id": "8635933120",
+            "fk_garantia": 863593312,
+            "codcli": "16067",
+            "codprod": "37300-DB0-CG04",
+            "codfab": "37300-DB0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O FUCIONA"
+        },
+        {
+            "id": "8635933121",
+            "fk_garantia": 863593312,
+            "codcli": "16067",
+            "codprod": "33200-BB0-CG08",
+            "codfab": "33200-BB0-CG08",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "N\u00c3O GERA FA\u00cdSCA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "8635933120",
+            "anexo": "37300-DB0-CG04_20260407_102020_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8635933121",
+            "anexo": "33200-BB0-CG08_20260407_101919_1.jpeg"
+        }
+    ]
+}

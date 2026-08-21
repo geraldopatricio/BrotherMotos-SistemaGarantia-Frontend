@@ -1,0 +1,221 @@
+{
+    "garantia": {
+        "id": 615059185,
+        "dt_cad": "2026-04-08T13:01:11.253Z",
+        "codcli": "16948",
+        "codusur": "341",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "moto.preco"
+    },
+    "garantia_itens": [
+        {
+            "id": "6150591850",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "33300-BB0-XR04",
+            "codfab": "33300-BB0-XR04",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "FALHANDO"
+        },
+        {
+            "id": "6150591851",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "34100-DB0-CG03",
+            "codfab": "34100-DB0-CG03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "EM CURTO"
+        },
+        {
+            "id": "6150591852",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "12330-DF0-XT01",
+            "codfab": "12330-DF0-XT01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PULANDO"
+        },
+        {
+            "id": "6150591853",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "36100-DF0-BR07",
+            "codfab": "36100-DF0-BR07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O ESTA MARCANDO"
+        },
+        {
+            "id": "6150591854",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "81110-BF0-CG19",
+            "codfab": "81110-BF0-CG19",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "FALHANDO"
+        },
+        {
+            "id": "6150591855",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "94100-DF0-PC01",
+            "codfab": "94100-DF0-PC01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "VAZANDO OLEO"
+        },
+        {
+            "id": "6150591856",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "45112-DF0-CB01",
+            "codfab": "45112-DF0-CB01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "VAZANDO"
+        },
+        {
+            "id": "6150591857",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "33300-DB0-BZ03",
+            "codfab": "33300-DB0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "EM CURTO"
+        },
+        {
+            "id": "6150591858",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "81140-DF0-FZ01",
+            "codfab": "81140-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "SEM PRESSAO"
+        },
+        {
+            "id": "6150591859",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "81140-DF0-CG01",
+            "codfab": "81140-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "SEM PRESSAO"
+        },
+        {
+            "id": "61505918510",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "31200-DB0-FZ01",
+            "codfab": "31200-DB0-FZ01",
+            "qtd": "3",
+            "motivo": "Travando",
+            "observacao": "N\u00c3O ESTA DANDO PARTIDA"
+        },
+        {
+            "id": "61505918511",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "81140-DF0-CB02",
+            "codfab": "81140-DF0-CB02",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "SEM PRESSAO"
+        },
+        {
+            "id": "61505918512",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "31120-BF0-CG10",
+            "codfab": "31120-BF0-CG10",
+            "qtd": "1",
+            "motivo": "N\u00e3o regula",
+            "observacao": "N\u00c3O ESTA GERANDO"
+        },
+        {
+            "id": "61505918513",
+            "fk_garantia": 615059185,
+            "codcli": "16948",
+            "codprod": "37410-BB0-CG13",
+            "codfab": "37410-BB0-CG13",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "N\u00c3O ESTA DANDO SETA "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 14,
+            "fk_item": "6150591850",
+            "anexo": "33300-BB0-XR04_20260408_100021_14.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "6150591851",
+            "anexo": "34100-DB0-CG03_20260408_095922_13.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "6150591852",
+            "anexo": "12330-DF0-XT01_20260408_095816_12.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "6150591853",
+            "anexo": "36100-DF0-BR07_20260408_095707_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "6150591854",
+            "anexo": "81110-BF0-CG19_20260408_095546_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "6150591855",
+            "anexo": "94100-DF0-PC01_20260408_095449_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "6150591856",
+            "anexo": "45112-DF0-CB01_20260408_095321_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "6150591857",
+            "anexo": "33300-DB0-BZ03_20260408_095150_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "6150591858",
+            "anexo": "81140-DF0-FZ01_20260408_095031_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "6150591859",
+            "anexo": "81140-DF0-CG01_20260408_094923_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "61505918510",
+            "anexo": "31200-DB0-FZ01_20260408_094820_4.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "61505918512",
+            "anexo": "31120-BF0-CG10_20260408_094428_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "61505918513",
+            "anexo": "37410-BB0-CG13_20260408_094329_1.jpeg"
+        }
+    ]
+}

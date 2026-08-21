@@ -1,0 +1,81 @@
+{
+    "garantia": {
+        "id": 596194474,
+        "dt_cad": "2026-03-26T23:48:26.635Z",
+        "codcli": "3855",
+        "codusur": "300",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "marilene"
+    },
+    "garantia_itens": [
+        {
+            "id": "5961944740",
+            "fk_garantia": 596194474,
+            "codcli": "3855",
+            "codprod": "81140-BF0-CB04",
+            "codfab": "81140-BF0-CB04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao puxa combustivel "
+        },
+        {
+            "id": "5961944741",
+            "fk_garantia": 596194474,
+            "codcli": "3855",
+            "codprod": "81120-DF0-CG01",
+            "codfab": "81120-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao trava gasolina "
+        },
+        {
+            "id": "5961944742",
+            "fk_garantia": 596194474,
+            "codcli": "3855",
+            "codprod": "11500-DF0-CG02",
+            "codfab": "11500-DF0-CG02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao funciona"
+        },
+        {
+            "id": "5961944743",
+            "fk_garantia": 596194474,
+            "codcli": "3855",
+            "codprod": "37410-DB0-TW02",
+            "codfab": "37410-DB0-TW02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao funciona"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "5961944740",
+            "anexo": "81140-BF0-CB04_20260326_204814_5.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5961944741",
+            "anexo": "81120-DF0-CG01_20260326_204650_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "5961944741",
+            "anexo": "81120-DF0-CG01_20260326_204650_4.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5961944742",
+            "anexo": "11500-DF0-CG02_20260326_204517_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "5961944743",
+            "anexo": "37410-DB0-TW02_20260326_204432_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "garantia": {
+        "id": 405937445,
+        "dt_cad": "2026-04-08T18:44:00.453Z",
+        "codcli": "14647",
+        "codusur": "315",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "isnael"
+    },
+    "garantia_itens": [
+        {
+            "id": "4059374450",
+            "fk_garantia": 405937445,
+            "codcli": "14647",
+            "codprod": "35351-DF0-CG02",
+            "codfab": "35351-DF0-CG02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Suporte veio menor que o modelo original "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "4059374450",
+            "anexo": "35351-DF0-CG02_20260408_144358_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4059374450",
+            "anexo": "35351-DF0-CG02_20260408_144358_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "4059374450",
+            "anexo": "35351-DF0-CG02_20260408_144358_3.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "4059374450",
+            "anexo": "35351-DF0-CG02_20260408_144358_4.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "4059374450",
+            "anexo": "35351-DF0-CG02_20260408_144358_5.jpg"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "garantia": {
+        "id": 240548959,
+        "dt_cad": "2026-03-30T12:12:23.688Z",
+        "codcli": "19684",
+        "codusur": "296",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jivago.fernando"
+    },
+    "garantia_itens": [
+        {
+            "id": "2405489590",
+            "fk_garantia": 240548959,
+            "codcli": "19684",
+            "codprod": "41250-BF2-CG04",
+            "codfab": "41250-BF2-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao veio raios de fora ,vieram todos iguais"
+        },
+        {
+            "id": "2405489591",
+            "fk_garantia": 240548959,
+            "codcli": "19684",
+            "codprod": "44111-DF0-BR01",
+            "codfab": "44111-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "as duas pe\u00e7as vieram iguais"
+        },
+        {
+            "id": "2405489592",
+            "fk_garantia": 240548959,
+            "codcli": "19684",
+            "codprod": "11630-DF0-FZ03",
+            "codfab": "11630-DF0-FZ03",
+            "qtd": "1",
+            "motivo": "N\u00e3o injeta combust\u00edvel",
+            "observacao": "injeta puoco combustivel"
+        },
+        {
+            "id": "2405489593",
+            "fk_garantia": 240548959,
+            "codcli": "19684",
+            "codprod": "12420-BF0-CG04",
+            "codfab": "12420-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem pressao "
+        },
+        {
+            "id": "2405489594",
+            "fk_garantia": 240548959,
+            "codcli": "19684",
+            "codprod": "54310-BF0-CG06",
+            "codfab": "54310-BF0-CG06",
+            "qtd": "4",
+            "motivo": "Outros",
+            "observacao": "pino veio curto"
+        },
+        {
+            "id": "2405489595",
+            "fk_garantia": 240548959,
+            "codcli": "19684",
+            "codprod": "37210-DB0-BZ01",
+            "codfab": "37210-DB0-BZ01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "chave garrando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "2405489590",
+            "anexo": "41250-BF2-CG04_20260330_091151_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "2405489591",
+            "anexo": "44111-DF0-BR01_20260330_090945_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "2405489592",
+            "anexo": "11630-DF0-FZ03_20260330_090802_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "2405489593",
+            "anexo": "12420-BF0-CG04_20260330_090309_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2405489594",
+            "anexo": "54310-BF0-CG06_20260330_090128_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "2405489595",
+            "anexo": "37210-DB0-BZ01_20260330_090001_1.jpeg"
+        }
+    ]
+}

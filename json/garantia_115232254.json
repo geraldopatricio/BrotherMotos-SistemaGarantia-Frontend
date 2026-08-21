@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 115232254,
+        "dt_cad": "2026-04-08T01:17:13.760Z",
+        "codcli": "20571",
+        "codusur": "321",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "fernandoa"
+    },
+    "garantia_itens": [
+        {
+            "id": "1152322540",
+            "fk_garantia": 115232254,
+            "codcli": "20571",
+            "codprod": "12101-BF0-CG08",
+            "codfab": "12101-BF0-CG08",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "DENTES DA CARCACA FORA DO PADR\u00c3O E N\u00c3O ENCAIXA NA EMBREAGEM"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1152322540",
+            "anexo": "12101-BF0-CG08_20260408_221705_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1152322540",
+            "anexo": "12101-BF0-CG08_20260408_221705_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1152322540",
+            "anexo": "12101-BF0-CG08_20260408_221705_3.mp4"
+        }
+    ]
+}

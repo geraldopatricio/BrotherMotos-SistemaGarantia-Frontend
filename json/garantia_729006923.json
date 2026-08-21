@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 729006923,
+        "dt_cad": "2026-04-20T12:58:30.950Z",
+        "codcli": "11066",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "7290069230",
+            "fk_garantia": 729006923,
+            "codcli": "11066",
+            "codprod": "11600-BF0-YB01",
+            "codfab": "11600-BF0-YB01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7290069230",
+            "anexo": "11600-BF0-YB01_20260420_095828_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7290069230",
+            "anexo": "11600-BF0-YB01_20260420_095828_2.jpg"
+        }
+    ]
+}

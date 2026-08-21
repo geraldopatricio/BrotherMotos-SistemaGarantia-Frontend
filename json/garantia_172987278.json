@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 172987278,
+        "dt_cad": "2026-04-09T18:49:31.093Z",
+        "codcli": "8126",
+        "codusur": "297",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "formulah"
+    },
+    "garantia_itens": [
+        {
+            "id": "1729872780",
+            "fk_garantia": 172987278,
+            "codcli": "8126",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "APRESENTOU VAZAMENTO "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1729872780",
+            "anexo": "11600-BF0-CG08_20260409_154853_1.jpeg"
+        }
+    ]
+}

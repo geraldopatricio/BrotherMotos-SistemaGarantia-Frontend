@@ -1,0 +1,376 @@
+{
+    "garantia": {
+        "id": 875802610,
+        "dt_cad": "2026-04-07T18:04:18.376Z",
+        "codcli": "7423",
+        "codusur": "326",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "araujo"
+    },
+    "garantia_itens": [
+        {
+            "id": "8758026100",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "35320-DF0-BZ03",
+            "codfab": "35320-DF0-BZ03",
+            "qtd": "2",
+            "motivo": "Arranhado",
+            "observacao": "defeito no acrilico"
+        },
+        {
+            "id": "8758026101",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "35200-DF0-BZ01",
+            "codfab": "35200-DF0-BZ01",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "fiacao nao passa corrente"
+        },
+        {
+            "id": "8758026102",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "81110-BF0-CG15",
+            "codfab": "81110-BF0-CG15",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem pressao"
+        },
+        {
+            "id": "8758026103",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "36100-DF0-CG24",
+            "codfab": "36100-DF0-CG24",
+            "qtd": "2",
+            "motivo": "Travando",
+            "observacao": "velocimetro travado"
+        },
+        {
+            "id": "8758026104",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "81140-BF0-CG19",
+            "codfab": "81140-BF0-CG19",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem pressao"
+        },
+        {
+            "id": "8758026105",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "81140-BF0-CG17",
+            "codfab": "81140-BF0-CG17",
+            "qtd": "2",
+            "motivo": "Travando",
+            "observacao": "travado, nao aciona"
+        },
+        {
+            "id": "8758026106",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "81140-BF0-PO02",
+            "codfab": "81140-BF0-PO02",
+            "qtd": "5",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem pressao"
+        },
+        {
+            "id": "8758026107",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "81140-BF0-CB04",
+            "codfab": "81140-BF0-CB04",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem pressao"
+        },
+        {
+            "id": "8758026108",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "11320-BF0-CG07",
+            "codfab": "11320-BF0-CG07",
+            "qtd": "2",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "fumando"
+        },
+        {
+            "id": "8758026109",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "45112-DF0-BR01",
+            "codfab": "45112-DF0-BR01",
+            "qtd": "3",
+            "motivo": "Vazando",
+            "observacao": "vazando, nao da freio"
+        },
+        {
+            "id": "87580261010",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "45110-DF0-XR01",
+            "codfab": "45110-DF0-XR01",
+            "qtd": "2",
+            "motivo": "Vazando",
+            "observacao": "vazando, nao da freio"
+        },
+        {
+            "id": "87580261011",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "12130-BF0-FZ01",
+            "codfab": "12130-BF0-FZ01",
+            "qtd": "2",
+            "motivo": "Deslizando",
+            "observacao": "patinando"
+        },
+        {
+            "id": "87580261012",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "12130-BF0-BZ03",
+            "codfab": "12130-BF0-BZ03",
+            "qtd": "2",
+            "motivo": "Deslizando",
+            "observacao": "patinando"
+        },
+        {
+            "id": "87580261013",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "12130-BF0-XR04",
+            "codfab": "12130-BF0-XR04",
+            "qtd": "2",
+            "motivo": "Deslizando",
+            "observacao": "deslizando, nao da embreagem"
+        },
+        {
+            "id": "87580261014",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "37300-DB0-TD01",
+            "codfab": "37300-DB0-TD01",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao funciona"
+        },
+        {
+            "id": "87580261015",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "11630-BF0-PO02",
+            "codfab": "11630-BF0-PO02",
+            "qtd": "2",
+            "motivo": "Travando",
+            "observacao": "nao inejta"
+        },
+        {
+            "id": "87580261016",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "33200-DB0-BZ01",
+            "codfab": "33200-DB0-BZ01",
+            "qtd": "5",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "sem faisca"
+        },
+        {
+            "id": "87580261017",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "37410-BB0-CG12",
+            "codfab": "37410-BB0-CG12",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao funciona"
+        },
+        {
+            "id": "87580261018",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "54310-BF0-BR01",
+            "codfab": "54310-BF0-BR01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "nao encaixa"
+        },
+        {
+            "id": "87580261019",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "35130-BB0-BZ03",
+            "codfab": "35130-BB0-BZ03",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao funciona"
+        },
+        {
+            "id": "87580261020",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "32100-BB0-YB01",
+            "codfab": "32100-BB0-YB01",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao carrega"
+        },
+        {
+            "id": "87580261021",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "35501-BF0-CG01",
+            "codfab": "35501-BF0-CG01",
+            "qtd": "3",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "queimada"
+        },
+        {
+            "id": "87580261022",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "37410-BB0-CG08",
+            "codfab": "37410-BB0-CG08",
+            "qtd": "2",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "nao funciona"
+        },
+        {
+            "id": "87580261023",
+            "fk_garantia": 875802610,
+            "codcli": "7423",
+            "codprod": "37300-BB0-CG06",
+            "codfab": "37300-BB0-CG06",
+            "qtd": "5",
+            "motivo": "Outros",
+            "observacao": "nao pisca"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 24,
+            "fk_item": "8758026100",
+            "anexo": "35320-DF0-BZ03_20260407_150415_24.jpeg"
+        },
+        {
+            "id": 23,
+            "fk_item": "8758026101",
+            "anexo": "35200-DF0-BZ01_20260407_150303_23.jpeg"
+        },
+        {
+            "id": 22,
+            "fk_item": "8758026102",
+            "anexo": "81110-BF0-CG15_20260407_150216_22.jpeg"
+        },
+        {
+            "id": 21,
+            "fk_item": "8758026103",
+            "anexo": "36100-DF0-CG24_20260407_150138_21.jpeg"
+        },
+        {
+            "id": 20,
+            "fk_item": "8758026104",
+            "anexo": "81140-BF0-CG19_20260407_150032_20.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "8758026105",
+            "anexo": "81140-BF0-CG17_20260407_150001_19.jpeg"
+        },
+        {
+            "id": 18,
+            "fk_item": "8758026106",
+            "anexo": "81140-BF0-PO02_20260407_145914_18.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "8758026107",
+            "anexo": "81140-BF0-CB04_20260407_145842_17.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "8758026108",
+            "anexo": "11320-BF0-CG07_20260407_145751_16.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "8758026109",
+            "anexo": "45112-DF0-BR01_20260407_145710_15.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "87580261010",
+            "anexo": "45110-DF0-XR01_20260407_145624_14.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "87580261011",
+            "anexo": "12130-BF0-FZ01_20260407_145552_13.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "87580261012",
+            "anexo": "12130-BF0-BZ03_20260407_145519_12.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "87580261013",
+            "anexo": "12130-BF0-XR04_20260407_145431_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "87580261014",
+            "anexo": "37300-DB0-TD01_20260407_145347_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "87580261015",
+            "anexo": "11630-BF0-PO02_20260407_145307_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "87580261016",
+            "anexo": "33200-DB0-BZ01_20260407_145238_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "87580261017",
+            "anexo": "37410-BB0-CG12_20260407_145148_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "87580261018",
+            "anexo": "54310-BF0-BR01_20260407_145112_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "87580261019",
+            "anexo": "35130-BB0-BZ03_20260407_144944_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "87580261020",
+            "anexo": "32100-BB0-YB01_20260407_144855_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "87580261021",
+            "anexo": "35501-BF0-CG01_20260407_144819_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "87580261022",
+            "anexo": "37410-BB0-CG08_20260407_144747_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "87580261023",
+            "anexo": "37300-BB0-CG06_20260407_144645_1.jpeg"
+        }
+    ]
+}

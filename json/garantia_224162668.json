@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 224162668,
+        "dt_cad": "2026-04-04T13:51:20.592Z",
+        "codcli": "13903",
+        "codusur": "298",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "formosa.pneus"
+    },
+    "garantia_itens": [
+        {
+            "id": "2241626680",
+            "fk_garantia": 224162668,
+            "codcli": "13903",
+            "codprod": "36103-BF0-CG07",
+            "codfab": "36103-BF0-CG07",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "FALTANDO PE\u00c7A"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2241626680",
+            "anexo": "36103-BF0-CG07_20260404_105021_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2241626680",
+            "anexo": "36103-BF0-CG07_20260404_105021_2.jpeg"
+        }
+    ]
+}

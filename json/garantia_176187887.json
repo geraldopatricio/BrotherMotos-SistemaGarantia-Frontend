@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 176187887,
+        "dt_cad": "2026-04-20T17:40:49.378Z",
+        "codcli": "9913",
+        "codusur": "268",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "fsilva.dias"
+    },
+    "garantia_itens": [
+        {
+            "id": "1761878870",
+            "fk_garantia": 176187887,
+            "codcli": "9913",
+            "codprod": "81110-DF0-CG01",
+            "codfab": "81110-DF0-CG01",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "\u00d1 aciona a Bomba"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "1761878870",
+            "anexo": "81110-DF0-CG01_20260420_144040_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1761878870",
+            "anexo": "81110-DF0-CG01_20260420_144040_3.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "garantia": {
+        "id": 804448206,
+        "dt_cad": "2026-04-15T17:30:16.781Z",
+        "codcli": "18712",
+        "codusur": "286",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "8044482060",
+            "fk_garantia": 804448206,
+            "codcli": "18712",
+            "codprod": "81140-BF0-CG19",
+            "codfab": "81140-BF0-CG19",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "NAO FUNCIONA"
+        },
+        {
+            "id": "8044482061",
+            "fk_garantia": 804448206,
+            "codcli": "18712",
+            "codprod": "11200-DF0-FZ02",
+            "codfab": "11200-DF0-FZ02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "VEIO COM DEFEITO NA CAMISA PISTAO COM MUITA FOLGA"
+        },
+        {
+            "id": "8044482062",
+            "fk_garantia": 804448206,
+            "codcli": "18712",
+            "codprod": "31200-BB0-CG07",
+            "codfab": "31200-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO GIRA"
+        },
+        {
+            "id": "8044482063",
+            "fk_garantia": 804448206,
+            "codcli": "18712",
+            "codprod": "11600-DF0-TW01",
+            "codfab": "11600-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "VAZANDO"
+        },
+        {
+            "id": "8044482064",
+            "fk_garantia": 804448206,
+            "codcli": "18712",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "2",
+            "motivo": "Vazando",
+            "observacao": "VAZANDO"
+        },
+        {
+            "id": "8044482065",
+            "fk_garantia": 804448206,
+            "codcli": "18712",
+            "codprod": "52110-BF0-CG07",
+            "codfab": "52110-BF0-CG07",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "ARRANHADO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "8044482060",
+            "anexo": "81140-BF0-CG19_20260415_142804_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "8044482061",
+            "anexo": "11200-DF0-FZ02_20260415_142729_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "8044482062",
+            "anexo": "31200-BB0-CG07_20260415_142642_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "8044482063",
+            "anexo": "11600-DF0-TW01_20260415_142608_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "8044482064",
+            "anexo": "11600-BF0-CG08_20260415_142529_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8044482065",
+            "anexo": "52110-BF0-CG07_20260415_142449_1.jpeg"
+        }
+    ]
+}

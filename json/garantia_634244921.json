@@ -1,0 +1,251 @@
+{
+    "garantia": {
+        "id": 634244921,
+        "dt_cad": "2026-04-15T16:17:59.584Z",
+        "codcli": "16027",
+        "codusur": "331",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "6342449210",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "11600-BF0-BZ01",
+            "codfab": "11600-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "VAZANDO"
+        },
+        {
+            "id": "6342449211",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "37210-BB0-YB08",
+            "codfab": "37210-BB0-YB08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "CHAVE TRAVA DENTRO DO TAMBOR"
+        },
+        {
+            "id": "6342449212",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "11600-DF0-FL01",
+            "codfab": "11600-DF0-FL01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "AGARRANDO ACELERADOR"
+        },
+        {
+            "id": "6342449213",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "11600-DF0-YS02",
+            "codfab": "11600-DF0-YS02",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "VAZANDO"
+        },
+        {
+            "id": "6342449214",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "11471-BF0-CG07",
+            "codfab": "11471-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "TRAVADO"
+        },
+        {
+            "id": "6342449215",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "81140-DF0-CG14",
+            "codfab": "81140-DF0-CG14",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO FUNCIONA"
+        },
+        {
+            "id": "6342449216",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "11486-BF0-CG04",
+            "codfab": "11486-BF0-CG04",
+            "qtd": "20",
+            "motivo": "Outros",
+            "observacao": "COM FOLGA"
+        },
+        {
+            "id": "6342449217",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "EM CURTO"
+        },
+        {
+            "id": "6342449218",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "55100-DF0-FZ01",
+            "codfab": "55100-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SOCANDO BATENDO SECO"
+        },
+        {
+            "id": "6342449219",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "31200-DB0-YS01",
+            "codfab": "31200-DB0-YS01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO GIRA"
+        },
+        {
+            "id": "63424492110",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "81110-BF0-BR01",
+            "codfab": "81110-BF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO ESTA FUNCIONANDO"
+        },
+        {
+            "id": "63424492111",
+            "fk_garantia": 634244921,
+            "codcli": "16027",
+            "codprod": "33200-BB0-CG05",
+            "codfab": "33200-BB0-CG05",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "NAO DA SINAL"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 23,
+            "fk_item": "6342449210",
+            "anexo": "11600-BF0-BZ01_20260415_131729_23.jpeg"
+        },
+        {
+            "id": 21,
+            "fk_item": "6342449211",
+            "anexo": "37210-BB0-YB08_20260415_131625_21.jpeg"
+        },
+        {
+            "id": 22,
+            "fk_item": "6342449211",
+            "anexo": "37210-BB0-YB08_20260415_131625_22.jpeg"
+        },
+        {
+            "id": 20,
+            "fk_item": "6342449212",
+            "anexo": "11600-DF0-FL01_20260415_131454_20.jpeg"
+        },
+        {
+            "id": 18,
+            "fk_item": "6342449213",
+            "anexo": "11600-DF0-YS02_20260415_131359_18.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "6342449213",
+            "anexo": "11600-DF0-YS02_20260415_131359_19.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "6342449214",
+            "anexo": "11471-BF0-CG07_20260415_131218_15.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "6342449214",
+            "anexo": "11471-BF0-CG07_20260415_131218_16.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "6342449214",
+            "anexo": "11471-BF0-CG07_20260415_131218_17.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "6342449215",
+            "anexo": "81140-DF0-CG14_20260415_131141_13.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "6342449215",
+            "anexo": "81140-DF0-CG14_20260415_131141_14.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "6342449216",
+            "anexo": "11486-BF0-CG04_20260415_131029_9.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "6342449216",
+            "anexo": "11486-BF0-CG04_20260415_131029_10.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "6342449216",
+            "anexo": "11486-BF0-CG04_20260415_131029_11.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "6342449216",
+            "anexo": "11486-BF0-CG04_20260415_131029_12.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "6342449217",
+            "anexo": "33200-BB0-JL01_20260415_130629_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "6342449217",
+            "anexo": "33200-BB0-JL01_20260415_130629_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "6342449217",
+            "anexo": "33200-BB0-JL01_20260415_130629_8.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "6342449218",
+            "anexo": "55100-DF0-FZ01_20260415_130524_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "6342449219",
+            "anexo": "31200-DB0-YS01_20260415_130438_4.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "63424492110",
+            "anexo": "81110-BF0-BR01_20260415_130402_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "63424492110",
+            "anexo": "81110-BF0-BR01_20260415_130402_3.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "63424492111",
+            "anexo": "33200-BB0-CG05_20260415_130122_1.jpeg"
+        }
+    ]
+}

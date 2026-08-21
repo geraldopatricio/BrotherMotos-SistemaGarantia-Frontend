@@ -1,0 +1,151 @@
+{
+    "garantia": {
+        "id": 106165173,
+        "dt_cad": "2026-04-06T14:04:43.310Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "Sistema"
+    },
+    "garantia_itens": [
+        {
+            "id": "1061651730",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "36100-DF0-CG32",
+            "codfab": "36100-DF0-CG32",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        },
+        {
+            "id": "1061651731",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "11200-DF0-FZ01",
+            "codfab": "11200-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "bateu saia"
+        },
+        {
+            "id": "1061651732",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "11200-BF0-CG08",
+            "codfab": "11200-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "bateu saia "
+        },
+        {
+            "id": "1061651733",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "11600-BF0-CP01",
+            "codfab": "11600-BF0-CP01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "vazando"
+        },
+        {
+            "id": "1061651734",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "41212-BF0-BR01",
+            "codfab": "41212-BF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "amassado, desgate na l\u00edngua "
+        },
+        {
+            "id": "1061651735",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "81110-DF0-XR01",
+            "codfab": "81110-DF0-XR01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem press\u00e3o "
+        },
+        {
+            "id": "1061651736",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "55100-DF0-XT02",
+            "codfab": "55100-DF0-XT02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "mola sem press\u00e3o "
+        },
+        {
+            "id": "1061651737",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "36100-BF0-CG16",
+            "codfab": "36100-BF0-CG16",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "painel travado"
+        },
+        {
+            "id": "1061651738",
+            "fk_garantia": 106165173,
+            "codcli": "8839",
+            "codprod": "11200-BF0-CG08",
+            "codfab": "11200-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "bateu saia "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 9,
+            "fk_item": "1061651730",
+            "anexo": "36100-DF0-CG32_20260406_100428_9.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "1061651731",
+            "anexo": "11200-DF0-FZ01_20260406_100235_8.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "1061651732",
+            "anexo": "11200-BF0-CG08_20260406_100035_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "1061651733",
+            "anexo": "11600-BF0-CP01_20260406_095846_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "1061651734",
+            "anexo": "41212-BF0-BR01_20260406_095601_5.mov"
+        },
+        {
+            "id": 4,
+            "fk_item": "1061651735",
+            "anexo": "81110-DF0-XR01_20260406_095248_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1061651736",
+            "anexo": "55100-DF0-XT02_20260406_094929_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1061651737",
+            "anexo": "36100-BF0-CG16_20260406_094627_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "1061651738",
+            "anexo": "11200-BF0-CG08_20260406_094516_1.jpg"
+        }
+    ]
+}

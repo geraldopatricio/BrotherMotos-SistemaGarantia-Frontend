@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 437169439,
+        "dt_cad": "2026-04-22T17:09:44.023Z",
+        "codcli": "12208",
+        "codusur": "339",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "4371694390",
+            "fk_garantia": 437169439,
+            "codcli": "12208",
+            "codprod": "11410-BF0-YB04",
+            "codfab": "11410-BF0-YB04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "esta girando e quebrando as engrenagens"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "4371694390",
+            "anexo": "11410-BF0-YB04_20260422_140939_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4371694390",
+            "anexo": "11410-BF0-YB04_20260422_140939_2.mp4"
+        }
+    ]
+}

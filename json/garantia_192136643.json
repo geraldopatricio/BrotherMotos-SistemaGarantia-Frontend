@@ -1,0 +1,106 @@
+{
+    "garantia": {
+        "id": 192136643,
+        "dt_cad": "2026-04-06T19:00:23.664Z",
+        "codcli": "19573",
+        "codusur": "326",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "araujo"
+    },
+    "garantia_itens": [
+        {
+            "id": "1921366430",
+            "fk_garantia": 192136643,
+            "codcli": "19573",
+            "codprod": "81140-DF0-CG01",
+            "codfab": "81140-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem pressao"
+        },
+        {
+            "id": "1921366431",
+            "fk_garantia": 192136643,
+            "codcli": "19573",
+            "codprod": "81140-BF0-CG01",
+            "codfab": "81140-BF0-CG01",
+            "qtd": "3",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        },
+        {
+            "id": "1921366432",
+            "fk_garantia": 192136643,
+            "codcli": "19573",
+            "codprod": "44130-DF0-BZ01",
+            "codfab": "44130-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando fluido"
+        },
+        {
+            "id": "1921366433",
+            "fk_garantia": 192136643,
+            "codcli": "19573",
+            "codprod": "37210-DB0-BR02",
+            "codfab": "37210-DB0-BR02",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "mal contato"
+        },
+        {
+            "id": "1921366434",
+            "fk_garantia": 192136643,
+            "codcli": "19573",
+            "codprod": "12420-BF0-CG04",
+            "codfab": "12420-BF0-CG04",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "espanou a rosca"
+        },
+        {
+            "id": "1921366435",
+            "fk_garantia": 192136643,
+            "codcli": "19573",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "1921366430",
+            "anexo": "81140-DF0-CG01_20260406_160020_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "1921366431",
+            "anexo": "81140-BF0-CG01_20260406_160001_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "1921366432",
+            "anexo": "44130-DF0-BZ01_20260406_155945_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1921366433",
+            "anexo": "37210-DB0-BR02_20260406_155929_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1921366434",
+            "anexo": "12420-BF0-CG04_20260406_155913_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "1921366435",
+            "anexo": "11600-BF0-CG08_20260406_155847_1.jpeg"
+        }
+    ]
+}

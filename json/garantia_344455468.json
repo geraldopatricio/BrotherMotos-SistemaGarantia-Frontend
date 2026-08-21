@@ -1,0 +1,196 @@
+{
+    "garantia": {
+        "id": 344455468,
+        "dt_cad": "2026-04-06T18:00:46.138Z",
+        "codcli": "5429",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "soro.motos"
+    },
+    "garantia_itens": [
+        {
+            "id": "3444554680",
+            "fk_garantia": 344455468,
+            "codcli": "5429",
+            "codprod": "37410-BB0-CG07",
+            "codfab": "37410-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "N\u00c3O EST\u00c1 DANDO CONTATO"
+        },
+        {
+            "id": "3444554681",
+            "fk_garantia": 344455468,
+            "codcli": "5429",
+            "codprod": "31120-DF0-FZ02",
+            "codfab": "31120-DF0-FZ02",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "N\u00c3O EST\u00c1 GERANDO"
+        },
+        {
+            "id": "3444554682",
+            "fk_garantia": 344455468,
+            "codcli": "5429",
+            "codprod": "31120-DF0-BZ04",
+            "codfab": "31120-DF0-BZ04",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "N\u00c3O EST\u00c1 GERANDO"
+        },
+        {
+            "id": "3444554683",
+            "fk_garantia": 344455468,
+            "codcli": "5429",
+            "codprod": "31120-BF0-XY01",
+            "codfab": "31120-BF0-XY01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "N\u00c3O EST\u00c1 GERANDO"
+        },
+        {
+            "id": "3444554684",
+            "fk_garantia": 344455468,
+            "codcli": "5429",
+            "codprod": "12520-DF0-NE01",
+            "codfab": "12520-DF0-NE01",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "N\u00c3O ENCAIXA AONDE VAI O ROLETE"
+        },
+        {
+            "id": "3444554685",
+            "fk_garantia": 344455468,
+            "codcli": "5429",
+            "codprod": "92540-BF0-CG01",
+            "codfab": "92540-BF0-CG01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O EST\u00c3O TRAVANDO"
+        },
+        {
+            "id": "3444554686",
+            "fk_garantia": 344455468,
+            "codcli": "5429",
+            "codprod": "12130-BF0-FZ01",
+            "codfab": "12130-BF0-FZ01",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": "DESLIZANDO DISCO"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 20,
+            "fk_item": "3444554680",
+            "anexo": "37410-BB0-CG07_20260406_150001_20.jpeg"
+        },
+        {
+            "id": 21,
+            "fk_item": "3444554680",
+            "anexo": "37410-BB0-CG07_20260406_150001_21.jpeg"
+        },
+        {
+            "id": 22,
+            "fk_item": "3444554680",
+            "anexo": "37410-BB0-CG07_20260406_150001_22.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "3444554681",
+            "anexo": "31120-DF0-FZ02_20260406_145904_17.jpeg"
+        },
+        {
+            "id": 18,
+            "fk_item": "3444554681",
+            "anexo": "31120-DF0-FZ02_20260406_145904_18.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "3444554681",
+            "anexo": "31120-DF0-FZ02_20260406_145904_19.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "3444554682",
+            "anexo": "31120-DF0-BZ04_20260406_145822_14.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "3444554682",
+            "anexo": "31120-DF0-BZ04_20260406_145822_15.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "3444554682",
+            "anexo": "31120-DF0-BZ04_20260406_145822_16.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "3444554683",
+            "anexo": "31120-BF0-XY01_20260406_145744_11.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "3444554683",
+            "anexo": "31120-BF0-XY01_20260406_145744_12.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "3444554683",
+            "anexo": "31120-BF0-XY01_20260406_145744_13.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "3444554684",
+            "anexo": "12520-DF0-NE01_20260406_145635_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "3444554684",
+            "anexo": "12520-DF0-NE01_20260406_145635_8.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "3444554684",
+            "anexo": "12520-DF0-NE01_20260406_145635_9.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "3444554684",
+            "anexo": "12520-DF0-NE01_20260406_145635_10.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3444554685",
+            "anexo": "92540-BF0-CG01_20260406_145511_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "3444554685",
+            "anexo": "92540-BF0-CG01_20260406_145511_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "3444554685",
+            "anexo": "92540-BF0-CG01_20260406_145511_6.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3444554686",
+            "anexo": "12130-BF0-FZ01_20260406_145354_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3444554686",
+            "anexo": "12130-BF0-FZ01_20260406_145354_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3444554686",
+            "anexo": "12130-BF0-FZ01_20260406_145354_3.jpeg"
+        }
+    ]
+}

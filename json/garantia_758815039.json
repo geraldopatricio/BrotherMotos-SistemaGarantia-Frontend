@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 758815039,
+        "dt_cad": "2026-04-07T18:02:29.841Z",
+        "codcli": "21901",
+        "codusur": "164",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "7588150390",
+            "fk_garantia": 758815039,
+            "codcli": "21901",
+            "codprod": "92100-DF0-FZ04",
+            "codfab": "92100-DF0-FZ04",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "CLIENTE RECEBEU AS PE\u00c7AS COM AVARIA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7588150390",
+            "anexo": "92100-DF0-FZ04_20260407_150227_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7588150390",
+            "anexo": "92100-DF0-FZ04_20260407_150227_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7588150390",
+            "anexo": "92100-DF0-FZ04_20260407_150227_3.jpeg"
+        }
+    ]
+}

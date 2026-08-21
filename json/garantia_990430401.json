@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 990430401,
+        "dt_cad": "2026-04-10T13:10:52.947Z",
+        "codcli": "19418",
+        "codusur": "288",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "9904304010",
+            "fk_garantia": 990430401,
+            "codcli": "19418",
+            "codprod": "16710-DF0-CG09",
+            "codfab": "16710-DF0-CG09",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "sem press\u00e3o"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9904304010",
+            "anexo": "16710-DF0-CG09_20260410_101051_1.jpeg"
+        }
+    ]
+}

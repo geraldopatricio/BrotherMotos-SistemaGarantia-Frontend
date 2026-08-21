@@ -1,0 +1,146 @@
+{
+    "garantia": {
+        "id": 743399930,
+        "dt_cad": "2026-04-08T11:51:26.393Z",
+        "codcli": "9963",
+        "codusur": "215",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jaime.zapelini"
+    },
+    "garantia_itens": [
+        {
+            "id": "7433999300",
+            "fk_garantia": 743399930,
+            "codcli": "9963",
+            "codprod": "31120-DF0-BZ01",
+            "codfab": "31120-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Bobina de for\u00e7a queimada"
+        },
+        {
+            "id": "7433999301",
+            "fk_garantia": 743399930,
+            "codcli": "9963",
+            "codprod": "31120-BF0-CB01",
+            "codfab": "31120-BF0-CB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Bobina de for\u00e7a queimada"
+        },
+        {
+            "id": "7433999302",
+            "fk_garantia": 743399930,
+            "codcli": "9963",
+            "codprod": "37410-BB0-CG08",
+            "codfab": "37410-BB0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Bot\u00e3o da buzina n\u00e3o funciona"
+        },
+        {
+            "id": "7433999303",
+            "fk_garantia": 743399930,
+            "codcli": "9963",
+            "codprod": "37210-DB0-YB01",
+            "codfab": "37210-DB0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Chegou trincada"
+        },
+        {
+            "id": "7433999304",
+            "fk_garantia": 743399930,
+            "codcli": "9963",
+            "codprod": "11600-BF0-BZ03",
+            "codfab": "11600-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Est\u00e1 com excesso de combust\u00edvel e vazamento"
+        },
+        {
+            "id": "7433999305",
+            "fk_garantia": 743399930,
+            "codcli": "9963",
+            "codprod": "31120-BF0-CG08",
+            "codfab": "31120-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o passa corrente"
+        },
+        {
+            "id": "7433999306",
+            "fk_garantia": 743399930,
+            "codcli": "9963",
+            "codprod": "31120-DF0-BZ05",
+            "codfab": "31120-DF0-BZ05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o carrega, n\u00e3o passa corrente"
+        },
+        {
+            "id": "7433999307",
+            "fk_garantia": 743399930,
+            "codcli": "9963",
+            "codprod": "81140-BF0-BZ06",
+            "codfab": "81140-BF0-BZ06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Veio travada, liga na moto ela n\u00e3o aciona"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 10,
+            "fk_item": "7433999300",
+            "anexo": "31120-DF0-BZ01_20260408_085055_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "7433999301",
+            "anexo": "31120-BF0-CB01_20260408_085019_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "7433999302",
+            "anexo": "37410-BB0-CG08_20260408_084938_8.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "7433999303",
+            "anexo": "37210-DB0-YB01_20260408_084849_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "7433999303",
+            "anexo": "37210-DB0-YB01_20260408_084849_6.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "7433999303",
+            "anexo": "37210-DB0-YB01_20260408_084849_7.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "7433999304",
+            "anexo": "11600-BF0-BZ03_20260408_084751_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7433999305",
+            "anexo": "31120-BF0-CG08_20260408_084714_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7433999306",
+            "anexo": "31120-DF0-BZ05_20260408_084641_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "7433999307",
+            "anexo": "81140-BF0-BZ06_20260408_084535_1.jpeg"
+        }
+    ]
+}

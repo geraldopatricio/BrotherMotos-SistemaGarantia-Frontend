@@ -1,0 +1,136 @@
+{
+    "garantia": {
+        "id": 974651668,
+        "dt_cad": "2026-03-30T14:36:08.338Z",
+        "codcli": "4749",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "motobox.pecas"
+    },
+    "garantia_itens": [
+        {
+            "id": "9746516680",
+            "fk_garantia": 974651668,
+            "codcli": "4749",
+            "codprod": "41172-BF0-TD00",
+            "codfab": "41172-BF0-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "furada"
+        },
+        {
+            "id": "9746516681",
+            "fk_garantia": 974651668,
+            "codcli": "4749",
+            "codprod": "41172-BF2-TD00",
+            "codfab": "41172-BF2-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "furada"
+        },
+        {
+            "id": "9746516682",
+            "fk_garantia": 974651668,
+            "codcli": "4749",
+            "codprod": "12130-BF0-PO01",
+            "codfab": "12130-BF0-PO01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "empenado"
+        },
+        {
+            "id": "9746516683",
+            "fk_garantia": 974651668,
+            "codcli": "4749",
+            "codprod": "37300-BB0-CG07",
+            "codfab": "37300-BB0-CG07",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "nao aciona"
+        },
+        {
+            "id": "9746516684",
+            "fk_garantia": 974651668,
+            "codcli": "4749",
+            "codprod": "33300-BB0-XR04",
+            "codfab": "33300-BB0-XR04",
+            "qtd": "1",
+            "motivo": "N\u00e3o regula",
+            "observacao": "acionado direto"
+        },
+        {
+            "id": "9746516685",
+            "fk_garantia": 974651668,
+            "codcli": "4749",
+            "codprod": "37300-BB0-CG01",
+            "codfab": "37300-BB0-CG01",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "nao aciona"
+        },
+        {
+            "id": "9746516686",
+            "fk_garantia": 974651668,
+            "codcli": "4749",
+            "codprod": "11471-BF1-CG07",
+            "codfab": "11471-BF1-CG07",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "travando"
+        },
+        {
+            "id": "9746516687",
+            "fk_garantia": 974651668,
+            "codcli": "4749",
+            "codprod": "33300-BB0-CG10",
+            "codfab": "33300-BB0-CG10",
+            "qtd": "1",
+            "motivo": "N\u00e3o regula",
+            "observacao": "acionando direto"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 8,
+            "fk_item": "9746516680",
+            "anexo": "41172-BF0-TD00_20260330_113242_8.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "9746516681",
+            "anexo": "41172-BF2-TD00_20260330_113203_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "9746516682",
+            "anexo": "12130-BF0-PO01_20260330_112953_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "9746516683",
+            "anexo": "37300-BB0-CG07_20260330_112848_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "9746516684",
+            "anexo": "33300-BB0-XR04_20260330_112743_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9746516685",
+            "anexo": "37300-BB0-CG01_20260330_112652_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9746516686",
+            "anexo": "11471-BF1-CG07_20260330_112557_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "9746516687",
+            "anexo": "33300-BB0-CG10_20260330_112453_1.jpg"
+        }
+    ]
+}

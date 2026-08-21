@@ -1,0 +1,86 @@
+{
+    "garantia": {
+        "id": 281962921,
+        "dt_cad": "2026-04-22T12:30:48.611Z",
+        "codcli": "12976",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "borges.mello"
+    },
+    "garantia_itens": [
+        {
+            "id": "2819629210",
+            "fk_garantia": 281962921,
+            "codcli": "12976",
+            "codprod": "35130-BB0-CG19",
+            "codfab": "35130-BB0-CG19",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "veio com o fio quebrado como pode ver na foto"
+        },
+        {
+            "id": "2819629211",
+            "fk_garantia": 281962921,
+            "codcli": "12976",
+            "codprod": "33300-BB0-NX02",
+            "codfab": "33300-BB0-NX02",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "n\u00e3o fuciona colocou na moto e n\u00e3o passa energia para virar a moto foi colocado outro da mesmo marca e fucionou certinho"
+        },
+        {
+            "id": "2819629212",
+            "fk_garantia": 281962921,
+            "codcli": "12976",
+            "codprod": "11471-DF0-FZ01",
+            "codfab": "11471-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "foi colocado na moto e n\u00e3o fuciona n\u00e3oi tenciona a corrente "
+        },
+        {
+            "id": "2819629213",
+            "fk_garantia": 281962921,
+            "codcli": "12976",
+            "codprod": "41150-BF0-CG08",
+            "codfab": "41150-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "engrenagem travada mecanico pegou para colocar na moto cliente ela n\u00e3o roda "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "2819629210",
+            "anexo": "35130-BB0-CG19_20260422_093023_6.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "2819629211",
+            "anexo": "33300-BB0-NX02_20260422_092903_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "2819629211",
+            "anexo": "33300-BB0-NX02_20260422_092903_5.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "2819629212",
+            "anexo": "11471-DF0-FZ01_20260422_092633_3.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "2819629213",
+            "anexo": "41150-BF0-CG08_20260422_092459_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2819629213",
+            "anexo": "41150-BF0-CG08_20260422_092459_2.jpeg"
+        }
+    ]
+}

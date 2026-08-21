@@ -1,0 +1,81 @@
+{
+    "garantia": {
+        "id": 544467930,
+        "dt_cad": "2026-03-28T20:08:08.950Z",
+        "codcli": "18178",
+        "codusur": "251",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "joao.branco"
+    },
+    "garantia_itens": [
+        {
+            "id": "5444679300",
+            "fk_garantia": 544467930,
+            "codcli": "18178",
+            "codprod": "36100-DF0-BZ06",
+            "codfab": "36100-DF0-BZ06",
+            "qtd": "5",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "Veloc\u00edmetro n\u00e3o funciona"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_3.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_4.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_5.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_6.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_7.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_8.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_9.jpg"
+        },
+        {
+            "id": 10,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_10.jpg"
+        },
+        {
+            "id": 11,
+            "fk_item": "5444679300",
+            "anexo": "36100-DF0-BZ06_20260328_160758_11.jpg"
+        }
+    ]
+}

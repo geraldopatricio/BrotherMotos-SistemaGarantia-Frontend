@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 707003357,
+        "dt_cad": "2026-04-08T14:09:26.602Z",
+        "codcli": "148",
+        "codusur": "161",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "duasrodas.comercio"
+    },
+    "garantia_itens": [
+        {
+            "id": "7070033570",
+            "fk_garantia": 707003357,
+            "codcli": "148",
+            "codprod": "42100-DF0-CG08",
+            "codfab": "42100-DF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "empenado "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7070033570",
+            "anexo": "42100-DF0-CG08_20260408_110854_1.jpeg"
+        }
+    ]
+}

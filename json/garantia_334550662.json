@@ -1,0 +1,301 @@
+{
+    "garantia": {
+        "id": 334550662,
+        "dt_cad": "2026-04-07T20:54:04.865Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "3345506620",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "36100-BF0-BZ03",
+            "codfab": "36100-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Painel trincado "
+        },
+        {
+            "id": "3345506621",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "37210-BB0-YB08",
+            "codfab": "37210-BB0-YB08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o funcionou "
+        },
+        {
+            "id": "3345506622",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "41172-BF4-TD00",
+            "codfab": "41172-BF4-TD00",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Rasgo na emenda "
+        },
+        {
+            "id": "3345506623",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "31120-BF0-CG10",
+            "codfab": "31120-BF0-CG10",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o d\u00e1 a voltagem correta "
+        },
+        {
+            "id": "3345506624",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "37600-DB0-CB01",
+            "codfab": "37600-DB0-CB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Cortando "
+        },
+        {
+            "id": "3345506625",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "37700-DB0-CB03",
+            "codfab": "37700-DB0-CB03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o funcionou "
+        },
+        {
+            "id": "3345506626",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "31120-BF0-CG10",
+            "codfab": "31120-BF0-CG10",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o d\u00e1 a voltagem correta "
+        },
+        {
+            "id": "3345506627",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "31120-BF0-CG10",
+            "codfab": "31120-BF0-CG10",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o d\u00e1 voltagem correta "
+        },
+        {
+            "id": "3345506628",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "33300-BB0-XR04",
+            "codfab": "33300-BB0-XR04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Queimado "
+        },
+        {
+            "id": "3345506629",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "45110-DF0-XR01",
+            "codfab": "45110-DF0-XR01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "33455066210",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "81110-BF0-CG15",
+            "codfab": "81110-BF0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Sem press\u00e3o "
+        },
+        {
+            "id": "33455066211",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "33400-BF0-CG08",
+            "codfab": "33400-BF0-CG08",
+            "qtd": "4",
+            "motivo": "Outros",
+            "observacao": "Queimada"
+        },
+        {
+            "id": "33455066212",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "32100-BB0-CG12",
+            "codfab": "32100-BB0-CG12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Em curto "
+        },
+        {
+            "id": "33455066213",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "42240-BF0-CG04",
+            "codfab": "42240-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Patim colado errado "
+        },
+        {
+            "id": "33455066214",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "33100-DB0-YE01",
+            "codfab": "33100-DB0-YE01",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": null
+        },
+        {
+            "id": "33455066215",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "91909-DF0-XR01",
+            "codfab": "91909-DF0-XR01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "Danificado "
+        },
+        {
+            "id": "33455066216",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "44131-DF0-CG06",
+            "codfab": "44131-DF0-CG06",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        },
+        {
+            "id": "33455066217",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "32100-DB0-YS01",
+            "codfab": "32100-DB0-YS01",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "Em curto "
+        },
+        {
+            "id": "33455066218",
+            "fk_garantia": 334550662,
+            "codcli": "8839",
+            "codprod": "33300-DB0-YS01",
+            "codfab": "33300-DB0-YS01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o funcionou "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 20,
+            "fk_item": "3345506620",
+            "anexo": "36100-BF0-BZ03_20260407_165352_20.jpg"
+        },
+        {
+            "id": 19,
+            "fk_item": "3345506621",
+            "anexo": "37210-BB0-YB08_20260407_165219_19.jpg"
+        },
+        {
+            "id": 18,
+            "fk_item": "3345506622",
+            "anexo": "41172-BF4-TD00_20260407_165055_18.jpg"
+        },
+        {
+            "id": 17,
+            "fk_item": "3345506623",
+            "anexo": "31120-BF0-CG10_20260407_164817_17.jpg"
+        },
+        {
+            "id": 16,
+            "fk_item": "3345506624",
+            "anexo": "37600-DB0-CB01_20260407_164556_16.jpg"
+        },
+        {
+            "id": 15,
+            "fk_item": "3345506625",
+            "anexo": "37700-DB0-CB03_20260407_164451_15.jpg"
+        },
+        {
+            "id": 14,
+            "fk_item": "3345506626",
+            "anexo": "31120-BF0-CG10_20260407_164219_14.jpg"
+        },
+        {
+            "id": 13,
+            "fk_item": "3345506627",
+            "anexo": "31120-BF0-CG10_20260407_164045_13.jpg"
+        },
+        {
+            "id": 12,
+            "fk_item": "3345506628",
+            "anexo": "33300-BB0-XR04_20260407_163916_12.jpg"
+        },
+        {
+            "id": 11,
+            "fk_item": "3345506629",
+            "anexo": "45110-DF0-XR01_20260407_163749_11.jpg"
+        },
+        {
+            "id": 10,
+            "fk_item": "33455066210",
+            "anexo": "81110-BF0-CG15_20260407_163551_10.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "33455066211",
+            "anexo": "33400-BF0-CG08_20260407_163417_9.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "33455066212",
+            "anexo": "32100-BB0-CG12_20260407_163146_8.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "33455066213",
+            "anexo": "42240-BF0-CG04_20260407_162949_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "33455066214",
+            "anexo": "33100-DB0-YE01_20260407_162804_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "33455066215",
+            "anexo": "91909-DF0-XR01_20260407_162630_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "33455066216",
+            "anexo": "44131-DF0-CG06_20260407_162501_4.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "33455066217",
+            "anexo": "32100-DB0-YS01_20260407_162138_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "33455066218",
+            "anexo": "33300-DB0-YS01_20260407_161751_1.jpg"
+        }
+    ]
+}

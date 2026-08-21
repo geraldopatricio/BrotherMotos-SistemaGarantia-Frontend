@@ -1,0 +1,76 @@
+{
+    "garantia": {
+        "id": 953595764,
+        "dt_cad": "2026-04-02T11:46:36.988Z",
+        "codcli": "13913",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "realmotos"
+    },
+    "garantia_itens": [
+        {
+            "id": "9535957640",
+            "fk_garantia": 953595764,
+            "codcli": "13913",
+            "codprod": "31120-DF0-XY01",
+            "codfab": "31120-DF0-XY01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o passa fogo"
+        },
+        {
+            "id": "9535957641",
+            "fk_garantia": 953595764,
+            "codcli": "13913",
+            "codprod": "36210-DF0-CG04",
+            "codfab": "36210-DF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o marca"
+        },
+        {
+            "id": "9535957642",
+            "fk_garantia": 953595764,
+            "codcli": "13913",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "alguns est\u00e3o em curto e outros n\u00e3o passa corrente "
+        },
+        {
+            "id": "9535957643",
+            "fk_garantia": 953595764,
+            "codcli": "13913",
+            "codprod": "55100-BF0-YB01",
+            "codfab": "55100-BF0-YB01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "dando fim de curso "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 4,
+            "fk_item": "9535957640",
+            "anexo": "31120-DF0-XY01_20260402_084344_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9535957641",
+            "anexo": "36210-DF0-CG04_20260402_084033_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9535957642",
+            "anexo": "33200-BB0-JL01_20260402_083735_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "9535957643",
+            "anexo": "55100-BF0-YB01_20260402_083022_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 814351962,
+        "dt_cad": "2026-04-10T13:07:06.593Z",
+        "codcli": "4749",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "motobox.pecas"
+    },
+    "garantia_itens": [
+        {
+            "id": "8143519620",
+            "fk_garantia": 814351962,
+            "codcli": "4749",
+            "codprod": "11600-DF0-TR01",
+            "codfab": "11600-DF0-TR01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "nao pega regulagem"
+        },
+        {
+            "id": "8143519621",
+            "fk_garantia": 814351962,
+            "codcli": "4749",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "2",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "8143519620",
+            "anexo": "11600-DF0-TR01_20260410_100701_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8143519621",
+            "anexo": "11600-BF0-CG08_20260410_100550_1.jpg"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "garantia": {
+        "id": 324257922,
+        "dt_cad": "2026-03-31T19:11:30.028Z",
+        "codcli": "150",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "henrique.sergio"
+    },
+    "garantia_itens": [
+        {
+            "id": "3242579220",
+            "fk_garantia": 324257922,
+            "codcli": "150",
+            "codprod": "35503-BF0-CG04",
+            "codfab": "35503-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO ACENDE"
+        },
+        {
+            "id": "3242579221",
+            "fk_garantia": 324257922,
+            "codcli": "150",
+            "codprod": "35503-BF0-CG01",
+            "codfab": "35503-BF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO ACENDE"
+        },
+        {
+            "id": "3242579222",
+            "fk_garantia": 324257922,
+            "codcli": "150",
+            "codprod": "35503-BF0-PH01",
+            "codfab": "35503-BF0-PH01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO ACENDE"
+        },
+        {
+            "id": "3242579223",
+            "fk_garantia": 324257922,
+            "codcli": "150",
+            "codprod": "33300-BB0-NX02",
+            "codfab": "33300-BB0-NX02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O FUNCIONOU"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "3242579220",
+            "anexo": "35503-BF0-CG04_20260331_161120_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3242579221",
+            "anexo": "35503-BF0-CG01_20260331_161041_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3242579222",
+            "anexo": "35503-BF0-PH01_20260331_160940_3.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3242579223",
+            "anexo": "33300-BB0-NX02_20260331_160820_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3242579223",
+            "anexo": "33300-BB0-NX02_20260331_160820_2.jpg"
+        }
+    ]
+}

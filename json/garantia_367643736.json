@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 367643736,
+        "dt_cad": "2026-04-01T13:08:44.030Z",
+        "codcli": "12315",
+        "codusur": "276",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "ramires"
+    },
+    "garantia_itens": [
+        {
+            "id": "3676437360",
+            "fk_garantia": 367643736,
+            "codcli": "12315",
+            "codprod": "12210-DF0-CG03",
+            "codfab": "12210-DF0-CG03",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "3676437360",
+            "anexo": "12210-DF0-CG03_20260401_100817_3.png"
+        },
+        {
+            "id": 4,
+            "fk_item": "3676437360",
+            "anexo": "12210-DF0-CG03_20260401_100817_4.png"
+        }
+    ]
+}

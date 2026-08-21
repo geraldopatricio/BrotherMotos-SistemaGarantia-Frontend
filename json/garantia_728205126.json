@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 728205126,
+        "dt_cad": "2026-03-30T13:40:34.296Z",
+        "codcli": "6657",
+        "codusur": "346",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "Sistema"
+    },
+    "garantia_itens": [
+        {
+            "id": "7282051260",
+            "fk_garantia": 728205126,
+            "codcli": "6657",
+            "codprod": "12210-DF0-CG06",
+            "codfab": "12210-DF0-CG06",
+            "qtd": "1",
+            "motivo": "Com ru\u00eddos",
+            "observacao": "Barulhos na segunda marcha."
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "7282051260",
+            "anexo": "12210-DF0-CG06_20260330_104004_2.jpeg"
+        }
+    ]
+}

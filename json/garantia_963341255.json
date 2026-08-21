@@ -1,0 +1,311 @@
+{
+    "garantia": {
+        "id": 963341255,
+        "dt_cad": "2026-03-30T21:48:57.742Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "9633412550",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "33200-DB0-BZ01",
+            "codfab": "33200-DB0-BZ01",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "N\u00c3O ACIONA"
+        },
+        {
+            "id": "9633412551",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "81110-BF0-PO02",
+            "codfab": "81110-BF0-PO02",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "N\u00c3O PASSA GASOLINA"
+        },
+        {
+            "id": "9633412552",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "37210-DB0-BR03",
+            "codfab": "37210-DB0-BR03",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "N\u00c3O LIGA A MOTO"
+        },
+        {
+            "id": "9633412553",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "11200-BF0-CG10",
+            "codfab": "11200-BF0-CG10",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "MOTOR QUEIMADO"
+        },
+        {
+            "id": "9633412554",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "31120-BF0-CG10",
+            "codfab": "31120-BF0-CG10",
+            "qtd": "3",
+            "motivo": "Falhando",
+            "observacao": "bobina queimadas"
+        },
+        {
+            "id": "9633412555",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "81110-BF0-CG08",
+            "codfab": "81110-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando gasolina"
+        },
+        {
+            "id": "9633412556",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "11200-BF0-BZ01",
+            "codfab": "11200-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "queimado"
+        },
+        {
+            "id": "9633412557",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "44110-DF0-CG02",
+            "codfab": "44110-DF0-CG02",
+            "qtd": "1",
+            "motivo": "Arranhado",
+            "observacao": "com desgaste anormal na pe\u00e7a antes de sequer sair da loja"
+        },
+        {
+            "id": "9633412558",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "41172-BF2-TD00",
+            "codfab": "41172-BF2-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "bico quebrou"
+        },
+        {
+            "id": "9633412559",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "81110-DF0-CG01",
+            "codfab": "81110-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "baixa press\u00e3o"
+        },
+        {
+            "id": "96334125510",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "36103-BF0-BZ01",
+            "codfab": "36103-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "n\u00e3o roda o velocimetro"
+        },
+        {
+            "id": "96334125511",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "37300-BB0-CG07",
+            "codfab": "37300-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "pisca fica continuo"
+        },
+        {
+            "id": "96334125512",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "12340-BF0-DR01",
+            "codfab": "12340-BF0-DR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "a solda quebrou"
+        },
+        {
+            "id": "96334125513",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "41172-BF1-TD00",
+            "codfab": "41172-BF1-TD00",
+            "qtd": "5",
+            "motivo": "Outros",
+            "observacao": "cameras furadas, bicos arrancados"
+        },
+        {
+            "id": "96334125514",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "11471-BF0-BZ03",
+            "codfab": "11471-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "Arranhado",
+            "observacao": "n\u00e3o aciona a corrente de comando, travas quebradas"
+        },
+        {
+            "id": "96334125515",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "33300-DB0-BZ03",
+            "codfab": "33300-DB0-BZ03",
+            "qtd": "2",
+            "motivo": "Falha na acelera\u00e7\u00e3o",
+            "observacao": "n\u00e3o d\u00e1 partida"
+        },
+        {
+            "id": "96334125516",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "37300-BB0-CG01",
+            "codfab": "37300-BB0-CG01",
+            "qtd": "5",
+            "motivo": "Falhando",
+            "observacao": "pisca fica continuo"
+        },
+        {
+            "id": "96334125517",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "32100-BB0-CG12",
+            "codfab": "32100-BB0-CG12",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": "vezes aciona, vezes n\u00e3o"
+        },
+        {
+            "id": "96334125518",
+            "fk_garantia": 963341255,
+            "codcli": "8839",
+            "codprod": "32100-BB0-BZ02",
+            "codfab": "32100-BB0-BZ02",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": "oscilando a carga, vezes aciona, vezes n\u00e3o"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 23,
+            "fk_item": "9633412550",
+            "anexo": "33200-DB0-BZ01_20260330_174607_23.jpeg"
+        },
+        {
+            "id": 22,
+            "fk_item": "9633412551",
+            "anexo": "81110-BF0-PO02_20260330_172214_22.mp4"
+        },
+        {
+            "id": 21,
+            "fk_item": "9633412552",
+            "anexo": "37210-DB0-BR03_20260330_171833_21.mp4"
+        },
+        {
+            "id": 20,
+            "fk_item": "9633412553",
+            "anexo": "11200-BF0-CG10_20260330_171045_20.mp4"
+        },
+        {
+            "id": 19,
+            "fk_item": "9633412554",
+            "anexo": "31120-BF0-CG10_20260330_170806_19.mp4"
+        },
+        {
+            "id": 18,
+            "fk_item": "9633412555",
+            "anexo": "81110-BF0-CG08_20260330_170527_18.mp4"
+        },
+        {
+            "id": 17,
+            "fk_item": "9633412556",
+            "anexo": "11200-BF0-BZ01_20260330_170355_17.mp4"
+        },
+        {
+            "id": 16,
+            "fk_item": "9633412557",
+            "anexo": "44110-DF0-CG02_20260330_165529_16.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "9633412558",
+            "anexo": "41172-BF2-TD00_20260330_165410_14.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "9633412558",
+            "anexo": "41172-BF2-TD00_20260330_165410_15.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "9633412559",
+            "anexo": "81110-DF0-CG01_20260330_164642_12.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "9633412559",
+            "anexo": "81110-DF0-CG01_20260330_164642_13.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "96334125510",
+            "anexo": "36103-BF0-BZ01_20260330_162926_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "96334125511",
+            "anexo": "37300-BB0-CG07_20260330_160636_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "96334125512",
+            "anexo": "12340-BF0-DR01_20260330_160555_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "96334125513",
+            "anexo": "41172-BF1-TD00_20260330_154459_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "96334125514",
+            "anexo": "11471-BF0-BZ03_20260330_154358_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "96334125515",
+            "anexo": "33300-DB0-BZ03_20260330_153216_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "96334125516",
+            "anexo": "37300-BB0-CG01_20260330_143851_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "96334125517",
+            "anexo": "32100-BB0-CG12_20260330_143549_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "96334125518",
+            "anexo": "32100-BB0-BZ02_20260330_143350_3.jpeg"
+        }
+    ]
+}

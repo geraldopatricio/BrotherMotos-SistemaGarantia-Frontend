@@ -1,0 +1,181 @@
+{
+    "garantia": {
+        "id": 411716532,
+        "dt_cad": "2026-04-06T15:25:29.865Z",
+        "codcli": "19778",
+        "codusur": "340",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "lobato"
+    },
+    "garantia_itens": [
+        {
+            "id": "4117165320",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "31120-DF0-FZ02",
+            "codfab": "31120-DF0-FZ02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o carrega"
+        },
+        {
+            "id": "4117165321",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "41100-DF0-CG01",
+            "codfab": "41100-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Empenada"
+        },
+        {
+            "id": "4117165322",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Funcionamento irregular"
+        },
+        {
+            "id": "4117165323",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "33300-BB0-CG10",
+            "codfab": "33300-BB0-CG10",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "Falha no auxilio da partida"
+        },
+        {
+            "id": "4117165324",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "33300-DB0-XT01",
+            "codfab": "33300-DB0-XT01",
+            "qtd": "10",
+            "motivo": "Outros",
+            "observacao": "O produto dentro da caixinha n\u00e3o \u00e9 rele de partida"
+        },
+        {
+            "id": "4117165325",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "41100-DF1-CG11",
+            "codfab": "41100-DF1-CG11",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Empenado"
+        },
+        {
+            "id": "4117165326",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "11600-DF0-FC01",
+            "codfab": "11600-DF0-FC01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "Vazando"
+        },
+        {
+            "id": "4117165327",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "11471-BF0-CG07",
+            "codfab": "11471-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Corrente batendo"
+        },
+        {
+            "id": "4117165328",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "32100-DB0-YB02",
+            "codfab": "32100-DB0-YB02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Sem sinal"
+        },
+        {
+            "id": "4117165329",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "81140-DF0-NE01",
+            "codfab": "81140-DF0-NE01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "Sem press\u00e3o"
+        },
+        {
+            "id": "41171653210",
+            "fk_garantia": 411716532,
+            "codcli": "19778",
+            "codprod": "33300-BB0-PH02",
+            "codfab": "33300-BB0-PH02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "Falha no aux\u00edlio da partida"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 11,
+            "fk_item": "4117165320",
+            "anexo": "31120-DF0-FZ02_20260406_122527_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "4117165321",
+            "anexo": "41100-DF0-CG01_20260406_122454_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "4117165322",
+            "anexo": "33200-BB0-JL01_20260406_122428_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "4117165323",
+            "anexo": "33300-BB0-CG10_20260406_122356_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "4117165324",
+            "anexo": "33300-DB0-XT01_20260406_122301_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "4117165325",
+            "anexo": "41100-DF1-CG11_20260406_122100_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "4117165326",
+            "anexo": "11600-DF0-FC01_20260406_121152_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "4117165327",
+            "anexo": "11471-BF0-CG07_20260406_121123_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "4117165328",
+            "anexo": "32100-DB0-YB02_20260406_121053_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4117165329",
+            "anexo": "81140-DF0-NE01_20260406_121016_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "41171653210",
+            "anexo": "33300-BB0-PH02_20260406_120923_1.jpeg"
+        }
+    ]
+}

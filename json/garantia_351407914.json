@@ -1,0 +1,81 @@
+{
+    "garantia": {
+        "id": 351407914,
+        "dt_cad": "2026-04-07T16:23:19.110Z",
+        "codcli": "9365",
+        "codusur": "315",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "isnael"
+    },
+    "garantia_itens": [
+        {
+            "id": "3514079140",
+            "fk_garantia": 351407914,
+            "codcli": "9365",
+            "codprod": "11471-DF0-FZ01",
+            "codfab": "11471-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": "Acionador desliza e n\u00e3o segura "
+        },
+        {
+            "id": "3514079141",
+            "fk_garantia": 351407914,
+            "codcli": "9365",
+            "codprod": "36210-DF0-BZ03",
+            "codfab": "36210-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "N\u00e3o mede o combust\u00edvel "
+        },
+        {
+            "id": "3514079142",
+            "fk_garantia": 351407914,
+            "codcli": "9365",
+            "codprod": "11310-BF0-BZ01",
+            "codfab": "11310-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Pino da biela maior que o padr\u00e3o original "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 7,
+            "fk_item": "3514079140",
+            "anexo": "11471-DF0-FZ01_20260407_122315_7.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3514079141",
+            "anexo": "36210-DF0-BZ03_20260407_122207_4.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "3514079141",
+            "anexo": "36210-DF0-BZ03_20260407_122207_5.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "3514079141",
+            "anexo": "36210-DF0-BZ03_20260407_122207_6.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3514079142",
+            "anexo": "11310-BF0-BZ01_20260407_122026_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3514079142",
+            "anexo": "11310-BF0-BZ01_20260407_122026_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3514079142",
+            "anexo": "11310-BF0-BZ01_20260407_122026_3.mp4"
+        }
+    ]
+}

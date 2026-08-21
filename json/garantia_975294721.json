@@ -1,0 +1,66 @@
+{
+    "garantia": {
+        "id": 975294721,
+        "dt_cad": "2026-04-07T10:02:54.676Z",
+        "codcli": "19433",
+        "codusur": "276",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "marilene"
+    },
+    "garantia_itens": [
+        {
+            "id": "9752947210",
+            "fk_garantia": 975294721,
+            "codcli": "19433",
+            "codprod": "11200-DF0-XY01",
+            "codfab": "11200-DF0-XY01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "vazando "
+        },
+        {
+            "id": "9752947211",
+            "fk_garantia": 975294721,
+            "codcli": "19433",
+            "codprod": "11200-DF0-XY01",
+            "codfab": "11200-DF0-XY01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "vazando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 7,
+            "fk_item": "9752947210",
+            "anexo": "11200-DF0-XY01_20260407_070245_7.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "9752947210",
+            "anexo": "11200-DF0-XY01_20260407_070245_8.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "9752947210",
+            "anexo": "11200-DF0-XY01_20260407_070245_9.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "9752947211",
+            "anexo": "11200-DF0-XY01_20260407_065752_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9752947211",
+            "anexo": "11200-DF0-XY01_20260407_065752_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9752947211",
+            "anexo": "11200-DF0-XY01_20260407_065752_3.jpeg"
+        }
+    ]
+}

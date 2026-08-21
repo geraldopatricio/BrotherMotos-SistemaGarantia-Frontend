@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 920079538,
+        "dt_cad": "2026-04-08T11:57:31.962Z",
+        "codcli": "13903",
+        "codusur": "298",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "formosa.pneus"
+    },
+    "garantia_itens": [
+        {
+            "id": "9200795380",
+            "fk_garantia": 920079538,
+            "codcli": "13903",
+            "codprod": "11600-DF0-TW01",
+            "codfab": "11600-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "carburador esta afogado"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "9200795380",
+            "anexo": "11600-DF0-TW01_20260408_085710_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "9200795380",
+            "anexo": "11600-DF0-TW01_20260408_085710_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "9200795380",
+            "anexo": "11600-DF0-TW01_20260408_085710_3.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 565999908,
+        "dt_cad": "2026-04-16T13:13:47.279Z",
+        "codcli": "15999",
+        "codusur": "331",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "5659999080",
+            "fk_garantia": 565999908,
+            "codcli": "15999",
+            "codprod": "11200-BF0-CG08",
+            "codfab": "11200-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "camisa fora de medida pistao esta com folga"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5659999080",
+            "anexo": "11200-BF0-CG08_20260416_101345_1.mp4"
+        },
+        {
+            "id": 2,
+            "fk_item": "5659999080",
+            "anexo": "11200-BF0-CG08_20260416_101345_2.jpeg"
+        }
+    ]
+}

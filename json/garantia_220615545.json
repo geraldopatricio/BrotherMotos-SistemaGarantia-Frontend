@@ -1,0 +1,56 @@
+{
+    "garantia": {
+        "id": 220615545,
+        "dt_cad": "2026-03-30T13:08:03.291Z",
+        "codcli": "20255",
+        "codusur": "321",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "fernandoa"
+    },
+    "garantia_itens": [
+        {
+            "id": "2206155450",
+            "fk_garantia": 220615545,
+            "codcli": "20255",
+            "codprod": "11510-DF0-FZ01",
+            "codfab": "11510-DF0-FZ01",
+            "qtd": "16",
+            "motivo": "Falha na vulcaniza\u00e7\u00e3o",
+            "observacao": "Filtro \u00f3leo se desmanchou, obstruindo a passagem de \u00f3leo, bloqueando a passagem e circula\u00e7\u00e3o do lubrificante, por consequencia Atropelou valvulas, Travamento do comando, falta total de lubrifica\u00e7\u00e3o na parte superior do motor, danificou valvulas, pist\u00e3o, aneis, retentor valvula, kit juntas. Segue anexo fotos e or\u00e7amento R$ 1.545,00"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2206155450",
+            "anexo": "11510-DF0-FZ01_20260330_100035_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2206155450",
+            "anexo": "11510-DF0-FZ01_20260330_100035_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "2206155450",
+            "anexo": "11510-DF0-FZ01_20260330_100035_3.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "2206155450",
+            "anexo": "11510-DF0-FZ01_20260330_100035_4.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "2206155450",
+            "anexo": "11510-DF0-FZ01_20260330_100035_5.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "2206155450",
+            "anexo": "11510-DF0-FZ01_20260330_100035_6.mp4"
+        }
+    ]
+}

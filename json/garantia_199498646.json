@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 199498646,
+        "dt_cad": "2026-04-02T16:32:36.311Z",
+        "codcli": "12976",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "borges.mello"
+    },
+    "garantia_itens": [
+        {
+            "id": "1994986460",
+            "fk_garantia": 199498646,
+            "codcli": "12976",
+            "codprod": "11471-DF0-FZ02",
+            "codfab": "11471-DF0-FZ02",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "n\u00e3o fuciona colocaou nao moto e nao resolve"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1994986460",
+            "anexo": "11471-DF0-FZ02_20260402_133234_1.jpeg"
+        }
+    ]
+}

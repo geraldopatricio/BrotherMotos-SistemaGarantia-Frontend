@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /garantia-new-version/frontend/
+
+# Se a requisição não for para arquivo ou diretório existente
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redireciona tudo para index.php, mantendo o path "amigável"
+RewriteRule ^(.*)$ index.php?page=$1 [QSA,L]

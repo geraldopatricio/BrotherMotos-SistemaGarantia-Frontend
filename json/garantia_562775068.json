@@ -1,0 +1,391 @@
+{
+    "garantia": {
+        "id": 562775068,
+        "dt_cad": "2026-04-10T15:06:38.452Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "5627750680",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "33200-DB0-YS01",
+            "codfab": "33200-DB0-YS01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Queimado "
+        },
+        {
+            "id": "5627750681",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "31120-DF0-FZ01",
+            "codfab": "31120-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o passa centelha "
+        },
+        {
+            "id": "5627750682",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "37420-BB0-XR04",
+            "codfab": "37420-BB0-XR04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o d\u00e1 partida "
+        },
+        {
+            "id": "5627750683",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "33300-BB0-XR04",
+            "codfab": "33300-BB0-XR04",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": null
+        },
+        {
+            "id": "5627750684",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "81141-DF0-XT01",
+            "codfab": "81141-DF0-XT01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": null
+        },
+        {
+            "id": "5627750685",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "12461-DF0-CG03",
+            "codfab": "12461-DF0-CG03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Esticado "
+        },
+        {
+            "id": "5627750686",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "41220-BF1-BR01",
+            "codfab": "41220-BF1-BR01",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": null
+        },
+        {
+            "id": "5627750687",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "41220-BF1-BR01",
+            "codfab": "41220-BF1-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Torto "
+        },
+        {
+            "id": "5627750688",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "31201-BF0-BZ03",
+            "codfab": "31201-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": null
+        },
+        {
+            "id": "5627750689",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "35130-BB0-BZ03",
+            "codfab": "35130-BB0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Terminal solto "
+        },
+        {
+            "id": "56277506810",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "37210-DB0-YB02",
+            "codfab": "37210-DB0-YB02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "56277506811",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "81140-DF0-CB02",
+            "codfab": "81140-DF0-CB02",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "56277506812",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "33400-BF0-BZ01",
+            "codfab": "33400-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Queimado "
+        },
+        {
+            "id": "56277506813",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "81110-BF0-BR01",
+            "codfab": "81110-BF0-BR01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": null
+        },
+        {
+            "id": "56277506814",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "31200-DB0-XR01",
+            "codfab": "31200-DB0-XR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o d\u00e1 partida "
+        },
+        {
+            "id": "56277506815",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "12130-DF0-BZ03",
+            "codfab": "12130-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Patinando. "
+        },
+        {
+            "id": "56277506816",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "71160-BF2-TD00",
+            "codfab": "71160-BF2-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Rasgado "
+        },
+        {
+            "id": "56277506817",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "12220-BF0-CG10",
+            "codfab": "12220-BF0-CG10",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        },
+        {
+            "id": "56277506818",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "12130-BF0-FZ01",
+            "codfab": "12130-BF0-FZ01",
+            "qtd": "1",
+            "motivo": "N\u00e3o regula",
+            "observacao": null
+        },
+        {
+            "id": "56277506819",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "11310-BF0-PH01",
+            "codfab": "11310-BF0-PH01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o funciona "
+        },
+        {
+            "id": "56277506820",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "37210-DB0-YB02",
+            "codfab": "37210-DB0-YB02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "56277506821",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "37240-DF0-FZ01",
+            "codfab": "37240-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Faltando a tampa do tanque "
+        },
+        {
+            "id": "56277506822",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "38100-BF0-CG07",
+            "codfab": "38100-BF0-CG07",
+            "qtd": "1",
+            "motivo": "N\u00e3o regula",
+            "observacao": null
+        },
+        {
+            "id": "56277506823",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "11471-BF0-CG07",
+            "codfab": "11471-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Retornando "
+        },
+        {
+            "id": "56277506824",
+            "fk_garantia": 562775068,
+            "codcli": "8839",
+            "codprod": "11630-BF0-CG19",
+            "codfab": "11630-BF0-CG19",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 25,
+            "fk_item": "5627750680",
+            "anexo": "33200-DB0-YS01_20260410_110421_25.jpg"
+        },
+        {
+            "id": 24,
+            "fk_item": "5627750681",
+            "anexo": "31120-DF0-FZ01_20260410_110128_24.jpg"
+        },
+        {
+            "id": 23,
+            "fk_item": "5627750682",
+            "anexo": "37420-BB0-XR04_20260410_105925_23.jpg"
+        },
+        {
+            "id": 22,
+            "fk_item": "5627750683",
+            "anexo": "33300-BB0-XR04_20260410_105555_22.jpg"
+        },
+        {
+            "id": 21,
+            "fk_item": "5627750684",
+            "anexo": "81141-DF0-XT01_20260410_105441_21.jpg"
+        },
+        {
+            "id": 20,
+            "fk_item": "5627750685",
+            "anexo": "12461-DF0-CG03_20260410_105305_20.jpg"
+        },
+        {
+            "id": 19,
+            "fk_item": "5627750686",
+            "anexo": "41220-BF1-BR01_20260410_105129_19.jpg"
+        },
+        {
+            "id": 18,
+            "fk_item": "5627750687",
+            "anexo": "41220-BF1-BR01_20260410_105016_18.jpg"
+        },
+        {
+            "id": 17,
+            "fk_item": "5627750688",
+            "anexo": "31201-BF0-BZ03_20260410_104551_17.jpg"
+        },
+        {
+            "id": 16,
+            "fk_item": "5627750689",
+            "anexo": "35130-BB0-BZ03_20260410_104352_16.jpg"
+        },
+        {
+            "id": 15,
+            "fk_item": "56277506810",
+            "anexo": "37210-DB0-YB02_20260410_104232_15.jpg"
+        },
+        {
+            "id": 14,
+            "fk_item": "56277506811",
+            "anexo": "81140-DF0-CB02_20260410_104130_14.jpg"
+        },
+        {
+            "id": 13,
+            "fk_item": "56277506812",
+            "anexo": "33400-BF0-BZ01_20260410_104004_13.jpg"
+        },
+        {
+            "id": 12,
+            "fk_item": "56277506813",
+            "anexo": "81110-BF0-BR01_20260410_103910_12.jpg"
+        },
+        {
+            "id": 11,
+            "fk_item": "56277506814",
+            "anexo": "31200-DB0-XR01_20260410_103758_11.jpg"
+        },
+        {
+            "id": 10,
+            "fk_item": "56277506815",
+            "anexo": "12130-DF0-BZ03_20260410_103625_10.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "56277506816",
+            "anexo": "71160-BF2-TD00_20260410_102933_9.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "56277506817",
+            "anexo": "12220-BF0-CG10_20260410_102347_8.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "56277506818",
+            "anexo": "12130-BF0-FZ01_20260410_102238_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "56277506819",
+            "anexo": "11310-BF0-PH01_20260410_102109_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "56277506820",
+            "anexo": "37210-DB0-YB02_20260410_101632_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "56277506821",
+            "anexo": "37240-DF0-FZ01_20260410_101450_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "56277506822",
+            "anexo": "38100-BF0-CG07_20260410_100540_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "56277506823",
+            "anexo": "11471-BF0-CG07_20260410_100425_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "56277506824",
+            "anexo": "11630-BF0-CG19_20260410_100324_1.jpg"
+        }
+    ]
+}

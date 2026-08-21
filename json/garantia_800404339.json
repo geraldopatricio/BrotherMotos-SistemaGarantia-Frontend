@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 800404339,
+        "dt_cad": "2026-04-20T17:55:14.374Z",
+        "codcli": "14800",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "8004043390",
+            "fk_garantia": 800404339,
+            "codcli": "14800",
+            "codprod": "37300-BB0-CG01",
+            "codfab": "37300-BB0-CG01",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "nao pisca "
+        },
+        {
+            "id": "8004043391",
+            "fk_garantia": 800404339,
+            "codcli": "14800",
+            "codprod": "33200-DB0-BZ01",
+            "codfab": "33200-DB0-BZ01",
+            "qtd": "2",
+            "motivo": "Falhando",
+            "observacao": "fica falhando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "8004043390",
+            "anexo": "37300-BB0-CG01_20260420_145508_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "8004043391",
+            "anexo": "33200-DB0-BZ01_20260420_145408_1.jpeg"
+        }
+    ]
+}

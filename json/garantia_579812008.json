@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 579812008,
+        "dt_cad": "2026-03-27T14:10:13.190Z",
+        "codcli": "6657",
+        "codusur": "346",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "ge.comercio"
+    },
+    "garantia_itens": [
+        {
+            "id": "5798120080",
+            "fk_garantia": 579812008,
+            "codcli": "6657",
+            "codprod": "11600-BF0-CG01",
+            "codfab": "11600-BF0-CG01",
+            "qtd": "1",
+            "motivo": "Falha na acelera\u00e7\u00e3o",
+            "observacao": "Carburador apresentando falha no funcionamento"
+        },
+        {
+            "id": "5798120081",
+            "fk_garantia": 579812008,
+            "codcli": "6657",
+            "codprod": "33300-BB0-CG10",
+            "codfab": "33300-BB0-CG10",
+            "qtd": "1",
+            "motivo": "Falha na acelera\u00e7\u00e3o",
+            "observacao": "Rele apresentando falha"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "5798120080",
+            "anexo": "11600-BF0-CG01_20260327_111009_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "5798120081",
+            "anexo": "33300-BB0-CG10_20260327_110855_1.jpg"
+        }
+    ]
+}

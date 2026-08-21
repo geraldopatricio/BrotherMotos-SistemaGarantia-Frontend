@@ -1,0 +1,466 @@
+{
+    "garantia": {
+        "id": 242565302,
+        "dt_cad": "2026-04-16T19:28:00.188Z",
+        "codcli": "12737",
+        "codusur": "276",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "ramires"
+    },
+    "garantia_itens": [
+        {
+            "id": "2425653020",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "11500-DF0-CG02",
+            "codfab": "11500-DF0-CG02",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "vazando"
+        },
+        {
+            "id": "2425653021",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "36100-BF0-JE01",
+            "codfab": "36100-BF0-JE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "veloc\u00edmetro travado"
+        },
+        {
+            "id": "2425653022",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "36100-DF0-XR03",
+            "codfab": "36100-DF0-XR03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "veloc\u00edmetro travado"
+        },
+        {
+            "id": "2425653023",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "36100-DF0-BR05",
+            "codfab": "36100-DF0-BR05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "veloc\u00edmetro travado"
+        },
+        {
+            "id": "2425653024",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "36100-DF0-CG28",
+            "codfab": "36100-DF0-CG28",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "veloc\u00edmetro travado"
+        },
+        {
+            "id": "2425653025",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "35200-DF0-BZ03",
+            "codfab": "35200-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "queimado"
+        },
+        {
+            "id": "2425653026",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "35200-DF0-NX01",
+            "codfab": "35200-DF0-NX01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "quebrado"
+        },
+        {
+            "id": "2425653027",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "92100-DF0-CG01",
+            "codfab": "92100-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "amassado"
+        },
+        {
+            "id": "2425653028",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "36130-DF0-FZ03",
+            "codfab": "36130-DF0-FZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fora de medida"
+        },
+        {
+            "id": "2425653029",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "82370-DF0-AD01",
+            "codfab": "82370-DF0-AD01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "quebrado"
+        },
+        {
+            "id": "24256530210",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "34100-DB0-XR02",
+            "codfab": "34100-DB0-XR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "queimado"
+        },
+        {
+            "id": "24256530211",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "53210-DF0-XR02",
+            "codfab": "53210-DF0-XR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fora de medida"
+        },
+        {
+            "id": "24256530212",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "41250-DF0-CF01",
+            "codfab": "41250-DF0-CF01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "faltando itens "
+        },
+        {
+            "id": "24256530213",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "31210-DF0-BR01",
+            "codfab": "31210-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fora de medida"
+        },
+        {
+            "id": "24256530214",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "81142-DF0-BZ02",
+            "codfab": "81142-DF0-BZ02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o encaixa"
+        },
+        {
+            "id": "24256530215",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "41150-DF0-CG04",
+            "codfab": "41150-DF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fora de medida"
+        },
+        {
+            "id": "24256530216",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "36210-DF0-CG06",
+            "codfab": "36210-DF0-CG06",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o marca"
+        },
+        {
+            "id": "24256530217",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "11600-DF0-CG01",
+            "codfab": "11600-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "sem regulagem"
+        },
+        {
+            "id": "24256530218",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "31120-DF0-FZ02",
+            "codfab": "31120-DF0-FZ02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "queimado"
+        },
+        {
+            "id": "24256530219",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "11600-DF0-YS02",
+            "codfab": "11600-DF0-YS02",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "sem regulagem"
+        },
+        {
+            "id": "24256530220",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "37410-DB0-BR01",
+            "codfab": "37410-DB0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "queimado"
+        },
+        {
+            "id": "24256530221",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "81140-BF0-CG19",
+            "codfab": "81140-BF0-CG19",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "sem press\u00e3o"
+        },
+        {
+            "id": "24256530222",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "81140-BF0-PO02",
+            "codfab": "81140-BF0-PO02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "sem press\u00e3o"
+        },
+        {
+            "id": "24256530223",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "81140-DF0-CG14",
+            "codfab": "81140-DF0-CG14",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "sem press\u00e3o"
+        },
+        {
+            "id": "24256530224",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "11410-DF0-FZ01",
+            "codfab": "11410-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fora de medida"
+        },
+        {
+            "id": "24256530225",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "11410-DF1-TW01",
+            "codfab": "11410-DF1-TW01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fora de medida"
+        },
+        {
+            "id": "24256530226",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "12110-BF0-CG08",
+            "codfab": "12110-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "fora de medida"
+        },
+        {
+            "id": "24256530227",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "32100-DB0-JE01",
+            "codfab": "32100-DB0-JE01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "queimado"
+        },
+        {
+            "id": "24256530228",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "12110-BF0-CG06",
+            "codfab": "12110-BF0-CG06",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "fora de medida"
+        },
+        {
+            "id": "24256530229",
+            "fk_garantia": 242565302,
+            "codcli": "12737",
+            "codprod": "32100-BB0-CG12",
+            "codfab": "32100-BB0-CG12",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "queima"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 30,
+            "fk_item": "2425653020",
+            "anexo": "11500-DF0-CG02_20260416_162756_30.jpeg"
+        },
+        {
+            "id": 29,
+            "fk_item": "2425653021",
+            "anexo": "36100-BF0-JE01_20260416_162716_29.mp4"
+        },
+        {
+            "id": 28,
+            "fk_item": "2425653022",
+            "anexo": "36100-DF0-XR03_20260416_162655_28.mp4"
+        },
+        {
+            "id": 27,
+            "fk_item": "2425653023",
+            "anexo": "36100-DF0-BR05_20260416_162639_27.mp4"
+        },
+        {
+            "id": 26,
+            "fk_item": "2425653024",
+            "anexo": "36100-DF0-CG28_20260416_162624_26.mp4"
+        },
+        {
+            "id": 25,
+            "fk_item": "2425653025",
+            "anexo": "35200-DF0-BZ03_20260416_162600_25.jpeg"
+        },
+        {
+            "id": 24,
+            "fk_item": "2425653026",
+            "anexo": "35200-DF0-NX01_20260416_162326_24.mp4"
+        },
+        {
+            "id": 23,
+            "fk_item": "2425653027",
+            "anexo": "92100-DF0-CG01_20260416_162301_23.jpeg"
+        },
+        {
+            "id": 22,
+            "fk_item": "2425653028",
+            "anexo": "36130-DF0-FZ03_20260416_162225_22.mp4"
+        },
+        {
+            "id": 21,
+            "fk_item": "2425653029",
+            "anexo": "82370-DF0-AD01_20260416_162200_21.mp4"
+        },
+        {
+            "id": 20,
+            "fk_item": "24256530210",
+            "anexo": "34100-DB0-XR02_20260416_162133_20.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "24256530211",
+            "anexo": "53210-DF0-XR02_20260416_162108_19.jpeg"
+        },
+        {
+            "id": 18,
+            "fk_item": "24256530212",
+            "anexo": "41250-DF0-CF01_20260416_162047_18.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "24256530213",
+            "anexo": "31210-DF0-BR01_20260416_161859_17.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "24256530214",
+            "anexo": "81142-DF0-BZ02_20260416_161837_16.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "24256530215",
+            "anexo": "41150-DF0-CG04_20260416_161821_15.jpeg"
+        },
+        {
+            "id": 14,
+            "fk_item": "24256530216",
+            "anexo": "36210-DF0-CG06_20260416_161805_14.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "24256530217",
+            "anexo": "11600-DF0-CG01_20260416_161743_13.jpeg"
+        },
+        {
+            "id": 12,
+            "fk_item": "24256530218",
+            "anexo": "31120-DF0-FZ02_20260416_161729_12.jpeg"
+        },
+        {
+            "id": 11,
+            "fk_item": "24256530219",
+            "anexo": "11600-DF0-YS02_20260416_161702_11.jpeg"
+        },
+        {
+            "id": 10,
+            "fk_item": "24256530220",
+            "anexo": "37410-DB0-BR01_20260416_161645_10.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "24256530221",
+            "anexo": "81140-BF0-CG19_20260416_161627_9.jpeg"
+        },
+        {
+            "id": 8,
+            "fk_item": "24256530222",
+            "anexo": "81140-BF0-PO02_20260416_161604_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "24256530223",
+            "anexo": "81140-DF0-CG14_20260416_161545_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "24256530224",
+            "anexo": "11410-DF0-FZ01_20260416_161521_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "24256530225",
+            "anexo": "11410-DF1-TW01_20260416_161501_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "24256530226",
+            "anexo": "12110-BF0-CG08_20260416_161436_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "24256530227",
+            "anexo": "32100-DB0-JE01_20260416_161352_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "24256530228",
+            "anexo": "12110-BF0-CG06_20260416_161334_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "24256530229",
+            "anexo": "32100-BB0-CG12_20260416_161109_1.jpeg"
+        }
+    ]
+}

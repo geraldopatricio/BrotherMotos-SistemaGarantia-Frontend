@@ -1,0 +1,61 @@
+{
+    "garantia": {
+        "id": 296048588,
+        "dt_cad": "2026-04-01T13:21:58.491Z",
+        "codcli": "6284",
+        "codusur": "176",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "sinalverde"
+    },
+    "garantia_itens": [
+        {
+            "id": "2960485880",
+            "fk_garantia": 296048588,
+            "codcli": "6284",
+            "codprod": "45113-DF0-CG02",
+            "codfab": "45113-DF0-CG02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "vazamento "
+        },
+        {
+            "id": "2960485881",
+            "fk_garantia": 296048588,
+            "codcli": "6284",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao dar faisca"
+        },
+        {
+            "id": "2960485882",
+            "fk_garantia": 296048588,
+            "codcli": "6284",
+            "codprod": "55100-BF0-BR01",
+            "codfab": "55100-BF0-BR01",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "amortecedor mole"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "2960485880",
+            "anexo": "45113-DF0-CG02_20260401_102149_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2960485881",
+            "anexo": "33200-BB0-JL01_20260401_102105_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "2960485882",
+            "anexo": "55100-BF0-BR01_20260401_101949_1.jpeg"
+        }
+    ]
+}

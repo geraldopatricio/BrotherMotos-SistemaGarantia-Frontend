@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 113338039,
+        "dt_cad": "2026-04-16T12:29:42.251Z",
+        "codcli": "12208",
+        "codusur": "339",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "barbarap"
+    },
+    "garantia_itens": [
+        {
+            "id": "1133380390",
+            "fk_garantia": 113338039,
+            "codcli": "12208",
+            "codprod": "37210-BB0-CG15",
+            "codfab": "37210-BB0-CG15",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "nao da nem sinal"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1133380390",
+            "anexo": "37210-BB0-CG15_20260416_092939_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "garantia": {
+        "id": 598327801,
+        "dt_cad": "2026-04-17T14:03:44.461Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "5983278010",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "36100-DF0-BZ03",
+            "codfab": "36100-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e3o marca combust\u00edvel "
+        },
+        {
+            "id": "5983278011",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "11200-BF0-CG04",
+            "codfab": "11200-BF0-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Batendo saia "
+        },
+        {
+            "id": "5983278012",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "44130-BF0-CG06",
+            "codfab": "44130-BF0-CG06",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Manete quebrada "
+        },
+        {
+            "id": "5983278013",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "12140-BF0-CG01",
+            "codfab": "12140-BF0-CG01",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": null
+        },
+        {
+            "id": "5983278014",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "52110-BF0-CB03",
+            "codfab": "52110-BF0-CB03",
+            "qtd": "1",
+            "motivo": "Arranhado",
+            "observacao": null
+        },
+        {
+            "id": "5983278015",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "44130-DF0-CR01",
+            "codfab": "44130-DF0-CR01",
+            "qtd": "2",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": null
+        },
+        {
+            "id": "5983278016",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "31200-BB0-CG07",
+            "codfab": "31200-BB0-CG07",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "5983278017",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "42240-BF0-CG04",
+            "codfab": "42240-BF0-CG04",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": null
+        },
+        {
+            "id": "5983278018",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "12210-DF0-CG07",
+            "codfab": "12210-DF0-CG07",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        },
+        {
+            "id": "5983278019",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "33200-DB0-YS01",
+            "codfab": "33200-DB0-YS01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "59832780110",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "37600-DB0-CG01",
+            "codfab": "37600-DB0-CG01",
+            "qtd": "2",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "59832780111",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "37410-DB0-XT01",
+            "codfab": "37410-DB0-XT01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "59832780112",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "32100-DB0-BZ01",
+            "codfab": "32100-DB0-BZ01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "59832780113",
+            "fk_garantia": 598327801,
+            "codcli": "8839",
+            "codprod": "16710-DF0-CG09",
+            "codfab": "16710-DF0-CG09",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 14,
+            "fk_item": "5983278010",
+            "anexo": "36100-DF0-BZ03_20260417_100126_14.jpg"
+        },
+        {
+            "id": 13,
+            "fk_item": "5983278011",
+            "anexo": "11200-BF0-CG04_20260417_095914_13.jpg"
+        },
+        {
+            "id": 12,
+            "fk_item": "5983278012",
+            "anexo": "44130-BF0-CG06_20260417_095729_12.jpg"
+        },
+        {
+            "id": 11,
+            "fk_item": "5983278013",
+            "anexo": "12140-BF0-CG01_20260417_095220_11.jpg"
+        },
+        {
+            "id": 10,
+            "fk_item": "5983278014",
+            "anexo": "52110-BF0-CB03_20260417_095105_10.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "5983278015",
+            "anexo": "44130-DF0-CR01_20260417_094915_9.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "5983278016",
+            "anexo": "31200-BB0-CG07_20260417_094734_8.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "5983278017",
+            "anexo": "42240-BF0-CG04_20260417_094602_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "5983278018",
+            "anexo": "12210-DF0-CG07_20260417_094426_6.jpg"
+        },
+        {
+            "id": 5,
+            "fk_item": "5983278019",
+            "anexo": "33200-DB0-YS01_20260417_094238_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "59832780110",
+            "anexo": "37600-DB0-CG01_20260417_094138_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "59832780111",
+            "anexo": "37410-DB0-XT01_20260417_093709_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "59832780112",
+            "anexo": "32100-DB0-BZ01_20260417_093523_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "59832780113",
+            "anexo": "16710-DF0-CG09_20260417_093401_1.jpg"
+        }
+    ]
+}

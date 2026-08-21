@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 333041420,
+        "dt_cad": "2026-04-09T18:06:02.427Z",
+        "codcli": "14010",
+        "codusur": "296",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "jivago.fernando"
+    },
+    "garantia_itens": [
+        {
+            "id": "3330414200",
+            "fk_garantia": 333041420,
+            "codcli": "14010",
+            "codprod": "41172-BF1-TD00",
+            "codfab": "41172-BF1-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "abriu na emenda"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "3330414200",
+            "anexo": "41172-BF1-TD00_20260409_150556_1.jpeg"
+        }
+    ]
+}

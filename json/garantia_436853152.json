@@ -1,0 +1,91 @@
+{
+    "garantia": {
+        "id": 436853152,
+        "dt_cad": "2026-04-20T20:36:44.732Z",
+        "codcli": "13734",
+        "codusur": "341",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "extremodistribuidora"
+    },
+    "garantia_itens": [
+        {
+            "id": "4368531520",
+            "fk_garantia": 436853152,
+            "codcli": "13734",
+            "codprod": "53200-DF0-BZ04",
+            "codfab": "53200-DF0-BZ04",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "Empenada"
+        },
+        {
+            "id": "4368531521",
+            "fk_garantia": 436853152,
+            "codcli": "13734",
+            "codprod": "11200-BF0-BZ01",
+            "codfab": "11200-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "Canecou"
+        },
+        {
+            "id": "4368531522",
+            "fk_garantia": 436853152,
+            "codcli": "13734",
+            "codprod": "33300-BB0-CG08",
+            "codfab": "33300-BB0-CG08",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "N\u00e3o funcionou"
+        },
+        {
+            "id": "4368531523",
+            "fk_garantia": 436853152,
+            "codcli": "13734",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "3",
+            "motivo": "Vazando",
+            "observacao": "Sem corrente"
+        },
+        {
+            "id": "4368531524",
+            "fk_garantia": 436853152,
+            "codcli": "13734",
+            "codprod": "37300-DB0-CG05",
+            "codfab": "37300-DB0-CG05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00e2o funcionou"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "4368531520",
+            "anexo": "53200-DF0-BZ04_20260420_173640_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "4368531521",
+            "anexo": "11200-BF0-BZ01_20260420_173605_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "4368531522",
+            "anexo": "33300-BB0-CG08_20260420_173534_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4368531523",
+            "anexo": "33200-BB0-JL01_20260420_173457_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4368531524",
+            "anexo": "37300-DB0-CG05_20260420_173409_1.jpeg"
+        }
+    ]
+}

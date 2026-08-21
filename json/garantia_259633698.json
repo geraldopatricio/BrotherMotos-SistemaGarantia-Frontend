@@ -1,0 +1,346 @@
+{
+    "garantia": {
+        "id": 259633698,
+        "dt_cad": "2026-03-27T14:58:27.071Z",
+        "codcli": "4337",
+        "codusur": "169",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "pmp.araruna"
+    },
+    "garantia_itens": [
+        {
+            "id": "2596336980",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "33200-BB0-CG05",
+            "codfab": "33200-BB0-CG05",
+            "qtd": "1",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": null
+        },
+        {
+            "id": "2596336981",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "10",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": null
+        },
+        {
+            "id": "2596336982",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "34110-DB0-PO01",
+            "codfab": "34110-DB0-PO01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "FALTANDO PE\u00c7A"
+        },
+        {
+            "id": "2596336983",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "35130-BB0-BZ01",
+            "codfab": "35130-BB0-BZ01",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": "FIO SOLTO"
+        },
+        {
+            "id": "2596336984",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "35130-BB0-PO01",
+            "codfab": "35130-BB0-PO01",
+            "qtd": "5",
+            "motivo": "Outros",
+            "observacao": null
+        },
+        {
+            "id": "2596336985",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "16710-DF0-CG09",
+            "codfab": "16710-DF0-CG09",
+            "qtd": "6",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "2596336986",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "11500-DF0-CG02",
+            "codfab": "11500-DF0-CG02",
+            "qtd": "2",
+            "motivo": "Travando",
+            "observacao": null
+        },
+        {
+            "id": "2596336987",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "11500-BF0-PH02",
+            "codfab": "11500-BF0-PH02",
+            "qtd": "1",
+            "motivo": "Sem pulso",
+            "observacao": null
+        },
+        {
+            "id": "2596336988",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "37800-DB0-PO01",
+            "codfab": "37800-DB0-PO01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "2596336989",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "37800-DB0-CG02",
+            "codfab": "37800-DB0-CG02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "25963369810",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "37800-DB0-CG01",
+            "codfab": "37800-DB0-CG01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "25963369811",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "36100-DF0-YB06",
+            "codfab": "36100-DF0-YB06",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": null
+        },
+        {
+            "id": "25963369812",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "31120-BF0-PO01",
+            "codfab": "31120-BF0-PO01",
+            "qtd": "3",
+            "motivo": "Outros",
+            "observacao": null
+        },
+        {
+            "id": "25963369813",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "52110-BF0-BR13",
+            "codfab": "52110-BF0-BR13",
+            "qtd": "2",
+            "motivo": "Arranhado",
+            "observacao": null
+        },
+        {
+            "id": "25963369814",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "31120-BF0-BZ01",
+            "codfab": "31120-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": null
+        },
+        {
+            "id": "25963369815",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "31120-DF0-JE23",
+            "codfab": "31120-DF0-JE23",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": null
+        },
+        {
+            "id": "25963369816",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "36100-DF0-BR04",
+            "codfab": "36100-DF0-BR04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "LUZ NAO LIGA"
+        },
+        {
+            "id": "25963369817",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "36100-DF0-BR08",
+            "codfab": "36100-DF0-BR08",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": null
+        },
+        {
+            "id": "25963369818",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "11600-BF0-YB01",
+            "codfab": "11600-BF0-YB01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": null
+        },
+        {
+            "id": "25963369819",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "11600-BF0-BZ03",
+            "codfab": "11600-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": null
+        },
+        {
+            "id": "25963369820",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": null
+        },
+        {
+            "id": "25963369821",
+            "fk_garantia": 259633698,
+            "codcli": "4337",
+            "codprod": "11600-BF0-JE01",
+            "codfab": "11600-BF0-JE01",
+            "qtd": "3",
+            "motivo": "Vazando",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 28,
+            "fk_item": "2596336980",
+            "anexo": "33200-BB0-CG05_20260327_115553_28.jpeg"
+        },
+        {
+            "id": 27,
+            "fk_item": "2596336981",
+            "anexo": "33200-BB0-JL01_20260327_115402_27.jpeg"
+        },
+        {
+            "id": 26,
+            "fk_item": "2596336982",
+            "anexo": "34110-DB0-PO01_20260327_115251_26.jpeg"
+        },
+        {
+            "id": 25,
+            "fk_item": "2596336983",
+            "anexo": "35130-BB0-BZ01_20260327_114428_25.jpeg"
+        },
+        {
+            "id": 24,
+            "fk_item": "2596336984",
+            "anexo": "35130-BB0-PO01_20260327_113339_24.jpeg"
+        },
+        {
+            "id": 23,
+            "fk_item": "2596336985",
+            "anexo": "16710-DF0-CG09_20260327_113226_23.jpeg"
+        },
+        {
+            "id": 22,
+            "fk_item": "2596336986",
+            "anexo": "11500-DF0-CG02_20260327_113120_22.jpeg"
+        },
+        {
+            "id": 21,
+            "fk_item": "2596336987",
+            "anexo": "11500-BF0-PH02_20260327_112801_21.jpeg"
+        },
+        {
+            "id": 20,
+            "fk_item": "2596336988",
+            "anexo": "37800-DB0-PO01_20260327_112529_20.jpeg"
+        },
+        {
+            "id": 19,
+            "fk_item": "2596336989",
+            "anexo": "37800-DB0-CG02_20260327_111324_19.jpeg"
+        },
+        {
+            "id": 17,
+            "fk_item": "25963369811",
+            "anexo": "36100-DF0-YB06_20260327_110628_17.jpeg"
+        },
+        {
+            "id": 16,
+            "fk_item": "25963369812",
+            "anexo": "31120-BF0-PO01_20260327_110119_16.jpeg"
+        },
+        {
+            "id": 15,
+            "fk_item": "25963369813",
+            "anexo": "52110-BF0-BR13_20260327_110010_15.jpeg"
+        },
+        {
+            "id": 13,
+            "fk_item": "25963369814",
+            "anexo": "31120-BF0-BZ01_20260327_105426_13.jpeg"
+        },
+        {
+            "id": 9,
+            "fk_item": "25963369815",
+            "anexo": "31120-DF0-JE23_20260327_105002_9.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "25963369816",
+            "anexo": "36100-DF0-BR04_20260327_104421_7.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "25963369817",
+            "anexo": "36100-DF0-BR08_20260327_104144_5.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "25963369817",
+            "anexo": "36100-DF0-BR08_20260327_104144_6.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "25963369818",
+            "anexo": "11600-BF0-YB01_20260327_103902_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "25963369819",
+            "anexo": "11600-BF0-BZ03_20260327_103456_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "25963369820",
+            "anexo": "11600-BF0-CG08_20260327_103229_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "25963369821",
+            "anexo": "11600-BF0-JE01_20260327_102553_1.jpeg"
+        }
+    ]
+}

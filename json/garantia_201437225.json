@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 201437225,
+        "dt_cad": "2026-04-08T18:52:02.142Z",
+        "codcli": "9921",
+        "codusur": "337",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "rsurlo"
+    },
+    "garantia_itens": [
+        {
+            "id": "2014372250",
+            "fk_garantia": 201437225,
+            "codcli": "9921",
+            "codprod": "11630-DF0-CG07",
+            "codfab": "11630-DF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O INJETA "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2014372250",
+            "anexo": "11630-DF0-CG07_20260408_155157_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2014372250",
+            "anexo": "11630-DF0-CG07_20260408_155157_2.jpg"
+        }
+    ]
+}

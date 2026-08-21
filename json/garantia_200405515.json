@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 200405515,
+        "dt_cad": "2026-04-08T14:49:34.649Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "2004055150",
+            "fk_garantia": 200405515,
+            "codcli": "8839",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "NAO EST\u00c1 SEGURANDO LENTA."
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2004055150",
+            "anexo": "11600-BF0-CG08_20260408_104931_1.jpeg"
+        }
+    ]
+}

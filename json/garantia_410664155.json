@@ -1,0 +1,76 @@
+{
+    "garantia": {
+        "id": 410664155,
+        "dt_cad": "2026-04-14T13:49:10.889Z",
+        "codcli": "6284",
+        "codusur": "176",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "sinalverde"
+    },
+    "garantia_itens": [
+        {
+            "id": "4106641550",
+            "fk_garantia": 410664155,
+            "codcli": "6284",
+            "codprod": "37210-DB0-BR03",
+            "codfab": "37210-DB0-BR03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O D\u00c1 CORRENTE"
+        },
+        {
+            "id": "4106641551",
+            "fk_garantia": 410664155,
+            "codcli": "6284",
+            "codprod": "91500-BF1-TD00",
+            "codfab": "91500-BF1-TD00",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "FAZENDO ZUADA"
+        },
+        {
+            "id": "4106641552",
+            "fk_garantia": 410664155,
+            "codcli": "6284",
+            "codprod": "92540-DF0-CG01",
+            "codfab": "92540-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O CARREGA"
+        },
+        {
+            "id": "4106641553",
+            "fk_garantia": 410664155,
+            "codcli": "6284",
+            "codprod": "41240-BF0-XY01",
+            "codfab": "41240-BF0-XY01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "ROLAMENTO COM FIGA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 4,
+            "fk_item": "4106641550",
+            "anexo": "37210-DB0-BR03_20260414_104902_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "4106641551",
+            "anexo": "91500-BF1-TD00_20260414_104520_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "4106641552",
+            "anexo": "92540-DF0-CG01_20260414_104417_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "4106641553",
+            "anexo": "41240-BF0-XY01_20260414_104242_1.jpeg"
+        }
+    ]
+}

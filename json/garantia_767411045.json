@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 767411045,
+        "dt_cad": "2026-04-10T18:45:56.141Z",
+        "codcli": "17134",
+        "codusur": "176",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "Marcos"
+    },
+    "garantia_itens": [
+        {
+            "id": "7674110450",
+            "fk_garantia": 767411045,
+            "codcli": "17134",
+            "codprod": "81140-DF0-CG01",
+            "codfab": "81140-DF0-CG01",
+            "qtd": "2",
+            "motivo": "Falhando",
+            "observacao": "MOTO FALHANDO AO UTILIZAR O REFIL"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7674110450",
+            "anexo": "81140-DF0-CG01_20260410_154537_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7674110450",
+            "anexo": "81140-DF0-CG01_20260410_154537_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7674110450",
+            "anexo": "81140-DF0-CG01_20260410_154537_3.mp4"
+        }
+    ]
+}

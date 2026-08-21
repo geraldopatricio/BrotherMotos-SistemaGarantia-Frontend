@@ -1,0 +1,136 @@
+{
+    "garantia": {
+        "id": 361437857,
+        "dt_cad": "2026-04-17T11:18:48.123Z",
+        "codcli": "21650",
+        "codusur": "334",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "erik"
+    },
+    "garantia_itens": [
+        {
+            "id": "3614378570",
+            "fk_garantia": 361437857,
+            "codcli": "21650",
+            "codprod": "55100-BF0-CB03",
+            "codfab": "55100-BF0-CB03",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        },
+        {
+            "id": "3614378571",
+            "fk_garantia": 361437857,
+            "codcli": "21650",
+            "codprod": "31120-BF0-CG12",
+            "codfab": "31120-BF0-CG12",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": null
+        },
+        {
+            "id": "3614378572",
+            "fk_garantia": 361437857,
+            "codcli": "21650",
+            "codprod": "31120-DF0-NM01",
+            "codfab": "31120-DF0-NM01",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": null
+        },
+        {
+            "id": "3614378573",
+            "fk_garantia": 361437857,
+            "codcli": "21650",
+            "codprod": "37240-BF0-BR10",
+            "codfab": "37240-BF0-BR10",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": null
+        },
+        {
+            "id": "3614378574",
+            "fk_garantia": 361437857,
+            "codcli": "21650",
+            "codprod": "94100-DF0-PC01",
+            "codfab": "94100-DF0-PC01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "3614378575",
+            "fk_garantia": 361437857,
+            "codcli": "21650",
+            "codprod": "89200-DF0-KS01",
+            "codfab": "89200-DF0-KS01",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": null
+        },
+        {
+            "id": "3614378576",
+            "fk_garantia": 361437857,
+            "codcli": "21650",
+            "codprod": "89200-DF0-KS02",
+            "codfab": "89200-DF0-KS02",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": null
+        },
+        {
+            "id": "3614378577",
+            "fk_garantia": 361437857,
+            "codcli": "21650",
+            "codprod": "89200-DF0-KS01",
+            "codfab": "89200-DF0-KS01",
+            "qtd": "1",
+            "motivo": "N\u00e3o regula",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 8,
+            "fk_item": "3614378570",
+            "anexo": "55100-BF0-CB03_20260417_081833_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "3614378571",
+            "anexo": "31120-BF0-CG12_20260417_081748_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "3614378572",
+            "anexo": "31120-DF0-NM01_20260417_081710_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "3614378573",
+            "anexo": "37240-BF0-BR10_20260417_081632_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "3614378574",
+            "anexo": "94100-DF0-PC01_20260417_081541_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "3614378575",
+            "anexo": "89200-DF0-KS01_20260417_081507_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "3614378576",
+            "anexo": "89200-DF0-KS02_20260417_081429_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3614378577",
+            "anexo": "89200-DF0-KS01_20260417_081330_1.jpeg"
+        }
+    ]
+}

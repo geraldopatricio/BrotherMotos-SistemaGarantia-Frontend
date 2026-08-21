@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 686061626,
+        "dt_cad": "2026-04-20T12:24:34.671Z",
+        "codcli": "18169",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "6860616260",
+            "fk_garantia": 686061626,
+            "codcli": "18169",
+            "codprod": "11200-DF0-FZ01",
+            "codfab": "11200-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "fumacando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "6860616260",
+            "anexo": "11200-DF0-FZ01_20260420_092432_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "6860616260",
+            "anexo": "11200-DF0-FZ01_20260420_092432_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "6860616260",
+            "anexo": "11200-DF0-FZ01_20260420_092432_3.jpg"
+        }
+    ]
+}

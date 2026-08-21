@@ -1,0 +1,36 @@
+{
+    "garantia": {
+        "id": 700978526,
+        "dt_cad": "2026-03-27T15:09:55.795Z",
+        "codcli": "11468",
+        "codusur": "251",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "joao.branco"
+    },
+    "garantia_itens": [
+        {
+            "id": "7009785260",
+            "fk_garantia": 700978526,
+            "codcli": "11468",
+            "codprod": "11321-DF1-CG01",
+            "codfab": "11321-DF1-CG01",
+            "qtd": "100",
+            "motivo": "Outros",
+            "observacao": "veio  errado, quer  STD"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7009785260",
+            "anexo": "11321-DF1-CG01_20260327_110950_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7009785260",
+            "anexo": "11321-DF1-CG01_20260327_110950_2.jpg"
+        }
+    ]
+}

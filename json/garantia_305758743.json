@@ -1,0 +1,51 @@
+{
+    "garantia": {
+        "id": 305758743,
+        "dt_cad": "2026-04-06T12:27:54.415Z",
+        "codcli": "13970",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "3057587430",
+            "fk_garantia": 305758743,
+            "codcli": "13970",
+            "codprod": "37240-BF0-CG07",
+            "codfab": "37240-BF0-CG07",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Desmontando "
+        },
+        {
+            "id": "3057587431",
+            "fk_garantia": 305758743,
+            "codcli": "13970",
+            "codprod": "12131-BF0-CG15",
+            "codfab": "12131-BF0-CG15",
+            "qtd": "1",
+            "motivo": "N\u00e3o encaixa",
+            "observacao": "N\u00e3o encaixa "
+        },
+        {
+            "id": "3057587432",
+            "fk_garantia": 305758743,
+            "codcli": "13970",
+            "codprod": "33300-BB0-CG10",
+            "codfab": "33300-BB0-CG10",
+            "qtd": "3",
+            "motivo": "Sem corrente el\u00e9trica",
+            "observacao": "N\u00e3o aciona "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "3057587431",
+            "anexo": "12131-BF0-CG15_20260406_092632_1.jpeg"
+        }
+    ]
+}

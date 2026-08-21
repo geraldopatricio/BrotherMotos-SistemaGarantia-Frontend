@@ -1,0 +1,61 @@
+{
+    "garantia": {
+        "id": 731112879,
+        "dt_cad": "2026-03-27T13:37:35.284Z",
+        "codcli": "6284",
+        "codusur": "176",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "sinalverde"
+    },
+    "garantia_itens": [
+        {
+            "id": "7311128790",
+            "fk_garantia": 731112879,
+            "codcli": "6284",
+            "codprod": "33300-BB0-CG10",
+            "codfab": "33300-BB0-CG10",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O DAR PARTIDA"
+        },
+        {
+            "id": "7311128791",
+            "fk_garantia": 731112879,
+            "codcli": "6284",
+            "codprod": "92540-DF0-CG01",
+            "codfab": "92540-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "N\u00c3O CARREGAR"
+        },
+        {
+            "id": "7311128792",
+            "fk_garantia": 731112879,
+            "codcli": "6284",
+            "codprod": "81110-BF0-BR12",
+            "codfab": "81110-BF0-BR12",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESS\u00c3O "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 3,
+            "fk_item": "7311128790",
+            "anexo": "33300-BB0-CG10_20260327_103730_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "7311128791",
+            "anexo": "92540-DF0-CG01_20260327_103558_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "7311128792",
+            "anexo": "81110-BF0-BR12_20260327_103449_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "garantia": {
+        "id": 304194763,
+        "dt_cad": "2026-04-09T14:46:05.702Z",
+        "codcli": "4749",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "motobox.pecas"
+    },
+    "garantia_itens": [
+        {
+            "id": "3041947630",
+            "fk_garantia": 304194763,
+            "codcli": "4749",
+            "codprod": "11600-BF0-CG08",
+            "codfab": "11600-BF0-CG08",
+            "qtd": "2",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        },
+        {
+            "id": "3041947631",
+            "fk_garantia": 304194763,
+            "codcli": "4749",
+            "codprod": "11600-DF0-TR01",
+            "codfab": "11600-DF0-TR01",
+            "qtd": "1",
+            "motivo": "Vazando",
+            "observacao": "vazando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 2,
+            "fk_item": "3041947630",
+            "anexo": "11600-BF0-CG08_20260409_114559_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "3041947631",
+            "anexo": "11600-DF0-TR01_20260409_114522_1.jpg"
+        }
+    ]
+}

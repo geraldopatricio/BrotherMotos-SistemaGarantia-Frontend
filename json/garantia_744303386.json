@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 744303386,
+        "dt_cad": "2026-04-07T16:10:04.520Z",
+        "codcli": "11745",
+        "codusur": "315",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "mobile",
+        "user_cad": "isnael"
+    },
+    "garantia_itens": [
+        {
+            "id": "7443033860",
+            "fk_garantia": 744303386,
+            "codcli": "11745",
+            "codprod": "37410-DB0-FZ03",
+            "codfab": "37410-DB0-FZ03",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": "Bot\u00e3o dos piscas n\u00e3o seguram na posi\u00e7\u00e3o indicada "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7443033860",
+            "anexo": "37410-DB0-FZ03_20260407_120959_1.jpg"
+        }
+    ]
+}

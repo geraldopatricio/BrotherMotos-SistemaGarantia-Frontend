@@ -1,0 +1,151 @@
+{
+    "garantia": {
+        "id": 158927036,
+        "dt_cad": "2026-04-14T14:00:16.809Z",
+        "codcli": "8839",
+        "codusur": "9",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "mobile",
+        "user_cad": "mapd.trading"
+    },
+    "garantia_itens": [
+        {
+            "id": "1589270360",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "11310-DF0-FZ01",
+            "codfab": "11310-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "1589270361",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "36100-BF0-CG22",
+            "codfab": "36100-BF0-CG22",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": null
+        },
+        {
+            "id": "1589270362",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "81110-DF0-BZ01",
+            "codfab": "81110-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "1589270363",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "81110-DF0-FZ02",
+            "codfab": "81110-DF0-FZ02",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "1589270364",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "81110-BF0-CG08",
+            "codfab": "81110-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": null
+        },
+        {
+            "id": "1589270365",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "31120-DF0-BR02",
+            "codfab": "31120-DF0-BR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o gera"
+        },
+        {
+            "id": "1589270366",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "12111-BF0-BZ03",
+            "codfab": "12111-BF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "lisa"
+        },
+        {
+            "id": "1589270367",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "12101-BF0-CG08",
+            "codfab": "12101-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "folga"
+        },
+        {
+            "id": "1589270368",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "45112-DF0-XR02",
+            "codfab": "45112-DF0-XR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o pega freio"
+        },
+        {
+            "id": "1589270369",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "41400-BF0-YB03",
+            "codfab": "41400-BF0-YB03",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": null
+        },
+        {
+            "id": "15892703610",
+            "fk_garantia": 158927036,
+            "codcli": "8839",
+            "codprod": "11471-BF0-CG07",
+            "codfab": "11471-BF0-CG07",
+            "qtd": "1",
+            "motivo": "N\u00e3o aciona",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 5,
+            "fk_item": "1589270360",
+            "anexo": "11310-DF0-FZ01_20260414_100011_5.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "1589270364",
+            "anexo": "81110-BF0-CG08_20260414_095241_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1589270365",
+            "anexo": "31120-DF0-BR02_20260414_095141_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1589270368",
+            "anexo": "45112-DF0-XR02_20260414_094851_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "1589270369",
+            "anexo": "41400-BF0-YB03_20260414_094728_1.jpg"
+        }
+    ]
+}

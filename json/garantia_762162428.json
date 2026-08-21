@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 762162428,
+        "dt_cad": "2026-04-06T13:20:06.412Z",
+        "codcli": "8313",
+        "codusur": "159",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "fanmotos"
+    },
+    "garantia_itens": [
+        {
+            "id": "7621624280",
+            "fk_garantia": 762162428,
+            "codcli": "8313",
+            "codprod": "12101-BF0-BZ01",
+            "codfab": "12101-BF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "QUEBRADA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7621624280",
+            "anexo": "12101-BF0-BZ01_20260406_101958_1.jpeg"
+        }
+    ]
+}

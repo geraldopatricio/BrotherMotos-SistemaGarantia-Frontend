@@ -1,0 +1,196 @@
+{
+    "garantia": {
+        "id": 780037501,
+        "dt_cad": "2026-04-20T14:07:35.972Z",
+        "codcli": "14866",
+        "codusur": "233",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "sidneyde"
+    },
+    "garantia_itens": [
+        {
+            "id": "7800375010",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "35320-DF0-BZ01",
+            "codfab": "35320-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "quebrado "
+        },
+        {
+            "id": "7800375011",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "35330-DF0-BZ02",
+            "codfab": "35330-DF0-BZ02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "QUEBRADO"
+        },
+        {
+            "id": "7800375012",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "81110-DF0-BZ01",
+            "codfab": "81110-DF0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESS\u00c3O"
+        },
+        {
+            "id": "7800375013",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "52110-DF0-FC01",
+            "codfab": "52110-DF0-FC01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "DEFEITOS QUE CAUSAM VAZAMENTOS"
+        },
+        {
+            "id": "7800375014",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "92100-DF0-CG01",
+            "codfab": "92100-DF0-CG01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "TORTO"
+        },
+        {
+            "id": "7800375015",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "37420-DB0-CG05",
+            "codfab": "37420-DB0-CG05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PLUG DE FIXA\u00c7\u00c3O N\u00c3O DANDO APERTO"
+        },
+        {
+            "id": "7800375016",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "41250-DF0-BR01",
+            "codfab": "41250-DF0-BR01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Empenamento"
+        },
+        {
+            "id": "7800375017",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "82102-DF0-CG02",
+            "codfab": "82102-DF0-CG02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "BOLHAS DE VERNIZ"
+        },
+        {
+            "id": "7800375018",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "37440-DB0-BZ01",
+            "codfab": "37440-DB0-BZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "Luz do Neutro Piscando"
+        },
+        {
+            "id": "7800375019",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "81140-BF0-CG19",
+            "codfab": "81140-BF0-CG19",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESS\u00c3O"
+        },
+        {
+            "id": "78003750110",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "36100-DF0-TW01",
+            "codfab": "36100-DF0-TW01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "MARCA\u00c7\u00c3O ERRADA"
+        },
+        {
+            "id": "78003750111",
+            "fk_garantia": 780037501,
+            "codcli": "14866",
+            "codprod": "81110-DF0-XR02",
+            "codfab": "81110-DF0-XR02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "SEM PRESS\u00c3O"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 13,
+            "fk_item": "7800375010",
+            "anexo": "35320-DF0-BZ01_20260420_110730_13.jpg"
+        },
+        {
+            "id": 12,
+            "fk_item": "7800375011",
+            "anexo": "35330-DF0-BZ02_20260420_110628_12.jpg"
+        },
+        {
+            "id": 11,
+            "fk_item": "7800375012",
+            "anexo": "81110-DF0-BZ01_20260420_110539_11.jpg"
+        },
+        {
+            "id": 10,
+            "fk_item": "7800375013",
+            "anexo": "52110-DF0-FC01_20260420_110448_10.jpg"
+        },
+        {
+            "id": 9,
+            "fk_item": "7800375014",
+            "anexo": "92100-DF0-CG01_20260420_105856_9.jpg"
+        },
+        {
+            "id": 8,
+            "fk_item": "7800375015",
+            "anexo": "37420-DB0-CG05_20260420_105745_8.jpg"
+        },
+        {
+            "id": 7,
+            "fk_item": "7800375016",
+            "anexo": "41250-DF0-BR01_20260420_105551_7.jpg"
+        },
+        {
+            "id": 6,
+            "fk_item": "7800375017",
+            "anexo": "82102-DF0-CG02_20260420_105439_6.jpg"
+        },
+        {
+            "id": 4,
+            "fk_item": "7800375018",
+            "anexo": "37440-DB0-BZ01_20260420_105103_4.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "7800375019",
+            "anexo": "81140-BF0-CG19_20260420_104959_3.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "78003750110",
+            "anexo": "36100-DF0-TW01_20260420_104917_2.jpg"
+        },
+        {
+            "id": 1,
+            "fk_item": "78003750111",
+            "anexo": "81110-DF0-XR02_20260420_104615_1.jpg"
+        }
+    ]
+}

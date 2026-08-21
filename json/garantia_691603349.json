@@ -1,0 +1,116 @@
+{
+    "garantia": {
+        "id": 691603349,
+        "dt_cad": "2026-04-15T18:34:32.564Z",
+        "codcli": "17750",
+        "codusur": "307",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "arthur"
+    },
+    "garantia_itens": [
+        {
+            "id": "6916033490",
+            "fk_garantia": 691603349,
+            "codcli": "17750",
+            "codprod": "31200-DB0-CG02",
+            "codfab": "31200-DB0-CG02",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "travado "
+        },
+        {
+            "id": "6916033491",
+            "fk_garantia": 691603349,
+            "codcli": "17750",
+            "codprod": "45110-DF0-XR01",
+            "codfab": "45110-DF0-XR01",
+            "qtd": "1",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem pressa "
+        },
+        {
+            "id": "6916033492",
+            "fk_garantia": 691603349,
+            "codcli": "17750",
+            "codprod": "12130-BF0-CG08",
+            "codfab": "12130-BF0-CG08",
+            "qtd": "1",
+            "motivo": "Deslizando",
+            "observacao": "patinando "
+        },
+        {
+            "id": "6916033493",
+            "fk_garantia": 691603349,
+            "codcli": "17750",
+            "codprod": "11600-DF0-TW01",
+            "codfab": "11600-DF0-TW01",
+            "qtd": "1",
+            "motivo": "Falha na acelera\u00e7\u00e3o",
+            "observacao": "falha "
+        },
+        {
+            "id": "6916033494",
+            "fk_garantia": 691603349,
+            "codcli": "17750",
+            "codprod": "11200-BF0-YB01",
+            "codfab": "11200-BF0-YB01",
+            "qtd": "1",
+            "motivo": "Fuma\u00e7ando",
+            "observacao": "fuma\u00e7ando"
+        },
+        {
+            "id": "6916033495",
+            "fk_garantia": 691603349,
+            "codcli": "17750",
+            "codprod": "55100-BF0-CG08",
+            "codfab": "55100-BF0-CG08",
+            "qtd": "2",
+            "motivo": "Sem press\u00e3o",
+            "observacao": "sem pressa "
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 8,
+            "fk_item": "6916033490",
+            "anexo": "31200-DB0-CG02_20260415_153428_8.jpeg"
+        },
+        {
+            "id": 7,
+            "fk_item": "6916033491",
+            "anexo": "45110-DF0-XR01_20260415_153337_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "6916033492",
+            "anexo": "12130-BF0-CG08_20260415_153305_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "6916033493",
+            "anexo": "11600-DF0-TW01_20260415_153220_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "6916033494",
+            "anexo": "11200-BF0-YB01_20260415_152835_4.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "6916033495",
+            "anexo": "55100-BF0-CG08_20260415_152649_1.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "6916033495",
+            "anexo": "55100-BF0-CG08_20260415_152649_2.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "6916033495",
+            "anexo": "55100-BF0-CG08_20260415_152649_3.jpeg"
+        }
+    ]
+}

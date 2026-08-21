@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 245481984,
+        "dt_cad": "2026-04-08T13:35:13.819Z",
+        "codcli": "19446",
+        "codusur": "347",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "flavio.araujo"
+    },
+    "garantia_itens": [
+        {
+            "id": "2454819840",
+            "fk_garantia": 245481984,
+            "codcli": "19446",
+            "codprod": "52110-BF0-CG07",
+            "codfab": "52110-BF0-CG07",
+            "qtd": "4",
+            "motivo": "Arranhado",
+            "observacao": null
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "2454819840",
+            "anexo": "52110-BF0-CG07_20260408_103509_1.jfif"
+        },
+        {
+            "id": 2,
+            "fk_item": "2454819840",
+            "anexo": "52110-BF0-CG07_20260408_103509_2.jfif"
+        },
+        {
+            "id": 3,
+            "fk_item": "2454819840",
+            "anexo": "52110-BF0-CG07_20260408_103509_3.jfif"
+        }
+    ]
+}

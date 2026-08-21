@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 442813275,
+        "dt_cad": "2026-04-20T18:43:36.494Z",
+        "codcli": "14323",
+        "codusur": "191",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "amotocenter"
+    },
+    "garantia_itens": [
+        {
+            "id": "4428132750",
+            "fk_garantia": 442813275,
+            "codcli": "14323",
+            "codprod": "11600-DF0-FC01",
+            "codfab": "11600-DF0-FC01",
+            "qtd": "1",
+            "motivo": "Oscilando",
+            "observacao": "falhando"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "4428132750",
+            "anexo": "11600-DF0-FC01_20260420_154320_1.jpeg"
+        }
+    ]
+}

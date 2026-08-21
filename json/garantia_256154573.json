@@ -1,0 +1,101 @@
+{
+    "garantia": {
+        "id": 256154573,
+        "dt_cad": "2026-03-27T13:20:53.142Z",
+        "codcli": "9238",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "marcos.meira"
+    },
+    "garantia_itens": [
+        {
+            "id": "2561545730",
+            "fk_garantia": 256154573,
+            "codcli": "9238",
+            "codprod": "36100-DF0-BZ03",
+            "codfab": "36100-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "PAROU DE FUNCIONAR "
+        },
+        {
+            "id": "2561545731",
+            "fk_garantia": 256154573,
+            "codcli": "9238",
+            "codprod": "35110-DF0-BZ03",
+            "codfab": "35110-DF0-BZ03",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "DERRETEU BLOCO "
+        },
+        {
+            "id": "2561545732",
+            "fk_garantia": 256154573,
+            "codcli": "9238",
+            "codprod": "11600-DF0-TW01",
+            "codfab": "11600-DF0-TW01",
+            "qtd": "2",
+            "motivo": "Outros",
+            "observacao": "NAO ACEITA REGULAGEM "
+        },
+        {
+            "id": "2561545733",
+            "fk_garantia": 256154573,
+            "codcli": "9238",
+            "codprod": "82520-DF0-PO01",
+            "codfab": "82520-DF0-PO01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "QUEBRADO NO ENCAIXE "
+        },
+        {
+            "id": "2561545734",
+            "fk_garantia": 256154573,
+            "codcli": "9238",
+            "codprod": "41250-BF1-CG04",
+            "codfab": "41250-BF1-CG04",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "FALTANDO NIPLE"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 7,
+            "fk_item": "2561545730",
+            "anexo": "36100-DF0-BZ03_20260327_102049_7.jpeg"
+        },
+        {
+            "id": 6,
+            "fk_item": "2561545731",
+            "anexo": "35110-DF0-BZ03_20260327_102000_6.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "2561545732",
+            "anexo": "11600-DF0-TW01_20260327_101910_3.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "2561545732",
+            "anexo": "11600-DF0-TW01_20260327_101910_4.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "2561545732",
+            "anexo": "11600-DF0-TW01_20260327_101910_5.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "2561545733",
+            "anexo": "82520-DF0-PO01_20260327_101745_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "2561545734",
+            "anexo": "41250-BF1-CG04_20260327_101643_1.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "garantia": {
+        "id": 570900058,
+        "dt_cad": "2026-04-17T02:14:59.573Z",
+        "codcli": "10288",
+        "codusur": "251",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "joao.branco"
+    },
+    "garantia_itens": [
+        {
+            "id": "5709000580",
+            "fk_garantia": 570900058,
+            "codcli": "10288",
+            "codprod": "11410-DF0-YB01",
+            "codfab": "11410-DF0-YB01",
+            "qtd": "1",
+            "motivo": "Travando",
+            "observacao": "TRAVADA"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5709000580",
+            "anexo": "11410-DF0-YB01_20260417_221447_1.jpg"
+        },
+        {
+            "id": 2,
+            "fk_item": "5709000580",
+            "anexo": "11410-DF0-YB01_20260417_221447_2.jpg"
+        },
+        {
+            "id": 3,
+            "fk_item": "5709000580",
+            "anexo": "11410-DF0-YB01_20260417_221447_3.jpg"
+        }
+    ]
+}

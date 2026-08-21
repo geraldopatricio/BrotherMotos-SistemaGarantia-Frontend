@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 178522679,
+        "dt_cad": "2026-03-30T16:57:33.890Z",
+        "codcli": "22511",
+        "codusur": "334",
+        "responsavel": "Time Garantia",
+        "status": "Em Digitacao",
+        "dispositivo": "computador",
+        "user_cad": "erik"
+    },
+    "garantia_itens": [
+        {
+            "id": "1785226790",
+            "fk_garantia": 178522679,
+            "codcli": "22511",
+            "codprod": "81140-DF0-CG14",
+            "codfab": "81140-DF0-CG14",
+            "qtd": "1",
+            "motivo": "N\u00e3o regula",
+            "observacao": "sem pressao"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "1785226790",
+            "anexo": "81140-DF0-CG14_20260330_135725_1.jpeg"
+        }
+    ]
+}

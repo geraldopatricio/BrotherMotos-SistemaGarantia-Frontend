@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 767682118,
+        "dt_cad": "2026-04-06T19:56:52.167Z",
+        "codcli": "2138",
+        "codusur": "190",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "companny"
+    },
+    "garantia_itens": [
+        {
+            "id": "7676821180",
+            "fk_garantia": 767682118,
+            "codcli": "2138",
+            "codprod": "33200-BB0-JL01",
+            "codfab": "33200-BB0-JL01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o passa faisca"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "7676821180",
+            "anexo": "33200-BB0-JL01_20260406_165648_1.jpeg"
+        }
+    ]
+}

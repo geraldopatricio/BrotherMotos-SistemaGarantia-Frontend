@@ -1,0 +1,106 @@
+{
+    "garantia": {
+        "id": 151685596,
+        "dt_cad": "2026-04-07T21:16:20.890Z",
+        "codcli": "7715",
+        "codusur": "288",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "tassya"
+    },
+    "garantia_itens": [
+        {
+            "id": "1516855960",
+            "fk_garantia": 151685596,
+            "codcli": "7715",
+            "codprod": "33200-BB0-CG05",
+            "codfab": "33200-BB0-CG05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o funcionou"
+        },
+        {
+            "id": "1516855961",
+            "fk_garantia": 151685596,
+            "codcli": "7715",
+            "codprod": "32100-BB0-JE01",
+            "codfab": "32100-BB0-JE01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o funcionou"
+        },
+        {
+            "id": "1516855962",
+            "fk_garantia": 151685596,
+            "codcli": "7715",
+            "codprod": "12100-BF0-PH02",
+            "codfab": "12100-BF0-PH02",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "sem a rosca"
+        },
+        {
+            "id": "1516855963",
+            "fk_garantia": 151685596,
+            "codcli": "7715",
+            "codprod": "37410-BB0-CG08",
+            "codfab": "37410-BB0-CG08",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "defeito no botao de pisca"
+        },
+        {
+            "id": "1516855964",
+            "fk_garantia": 151685596,
+            "codcli": "7715",
+            "codprod": "81140-DF0-FZ01",
+            "codfab": "81140-DF0-FZ01",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "sem pressao"
+        },
+        {
+            "id": "1516855965",
+            "fk_garantia": 151685596,
+            "codcli": "7715",
+            "codprod": "33200-BB0-CG05",
+            "codfab": "33200-BB0-CG05",
+            "qtd": "1",
+            "motivo": "Outros",
+            "observacao": "n\u00e3o funcionou"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 6,
+            "fk_item": "1516855960",
+            "anexo": "33200-BB0-CG05_20260407_181618_6.jpeg"
+        },
+        {
+            "id": 5,
+            "fk_item": "1516855961",
+            "anexo": "32100-BB0-JE01_20260407_181557_5.jpeg"
+        },
+        {
+            "id": 4,
+            "fk_item": "1516855962",
+            "anexo": "12100-BF0-PH02_20260407_181530_4.jpeg"
+        },
+        {
+            "id": 3,
+            "fk_item": "1516855963",
+            "anexo": "37410-BB0-CG08_20260407_181502_3.jpeg"
+        },
+        {
+            "id": 2,
+            "fk_item": "1516855964",
+            "anexo": "81140-DF0-FZ01_20260407_181429_2.jpeg"
+        },
+        {
+            "id": 1,
+            "fk_item": "1516855965",
+            "anexo": "33200-BB0-CG05_20260407_181300_1.jpeg"
+        }
+    ]
+}

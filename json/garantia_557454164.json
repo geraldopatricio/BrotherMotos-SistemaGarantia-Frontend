@@ -1,0 +1,31 @@
+{
+    "garantia": {
+        "id": 557454164,
+        "dt_cad": "2026-04-02T16:25:26.715Z",
+        "codcli": "12976",
+        "codusur": "174",
+        "responsavel": "Time Garantia",
+        "status": "Aberto",
+        "dispositivo": "computador",
+        "user_cad": "borges.mello"
+    },
+    "garantia_itens": [
+        {
+            "id": "5574541640",
+            "fk_garantia": 557454164,
+            "codcli": "12976",
+            "codprod": "11471-BF0-CB02",
+            "codfab": "11471-BF0-CB02",
+            "qtd": "1",
+            "motivo": "Falhando",
+            "observacao": "nao ta fucionando colocamos na moto e ficou com barulho e apos tirar estar sem pressao"
+        }
+    ],
+    "garantia_itens_anexos": [
+        {
+            "id": 1,
+            "fk_item": "5574541640",
+            "anexo": "11471-BF0-CB02_20260402_132513_1.jpeg"
+        }
+    ]
+}
