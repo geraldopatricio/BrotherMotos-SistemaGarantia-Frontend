@@ -1,0 +1,27 @@
+name: Deploy Frontend PHP-HTML Automático
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Atualizar Servidor via SSH
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            # Entra na pasta do projeto
+            cd /root/garantia/frontend
+
+            # Puxa as alterações do GitHub
+            git fetch --all
+            git reset --hard origin/main
+
+            # Opcional: Ajustar permissões (caso o PHP precise escrever em alguma pasta de upload)
+            # chown -R www-data:www-data /root/garantia/frontend
