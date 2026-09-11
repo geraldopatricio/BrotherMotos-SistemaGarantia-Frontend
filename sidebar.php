@@ -73,7 +73,7 @@ function getMenuTree($conn, $role) {
         }
     }
     unset($item); // LIMPEZA DE REFERÊNCIA IMPORTANTE
-    
+
     return $menuTree;
 }
 
@@ -123,6 +123,17 @@ if (in_array($user_role_lower, ['sac', 'admin'])) {
                 'type' => 'link',
                 'children' => []
             ];
+
+            $subMenuQtdAprovadaAnual = [
+                'id' => 'manual_qtd_aprovada_anual',
+                'title' => 'Qtd. Aprovada Anual', // Nome reduzido para caber no menu
+                'link' => 'index.php?page=rptQuantidadesAprovadas',
+                'page_name' => 'rptQuantidadesAprovadas',
+                'icon' => '',
+                'type' => 'link',
+                'children' => []
+            ];
+
 
             $posicaoPesquisar = -1;
             foreach ($menu['children'] as $index => $sub) {
@@ -179,10 +190,10 @@ if (in_array($user_role_lower, ['sac', 'admin'])) {
 
         <?php foreach ($menus as $menu): ?>
 
-        <?php 
+        <?php
             // -- TIPO: HEADER (Separador de seção) --
             // Dica: Poderíamos verificar se o header tem itens abaixo, mas vamos exibir se tiver permissão
-            if ($menu['type'] === 'header'): 
+            if ($menu['type'] === 'header'):
             ?>
         <li class="menu-header small">
             <span class="menu-header-text" data-i18n="<?php echo htmlspecialchars($menu['title']); ?>">
@@ -190,14 +201,14 @@ if (in_array($user_role_lower, ['sac', 'admin'])) {
             </span>
         </li>
 
-        <?php 
+        <?php
             // -- TIPO: DROPDOWN (Menu com filhos) --
-            elseif ($menu['type'] === 'dropdown'): 
-                
+            elseif ($menu['type'] === 'dropdown'):
+
                 // IMPORTANTE: Se o usuário tem permissão para ver o menu PAI, mas NENHUM FILHO,
                 // ocultamos o menu pai para não ficar um dropdown vazio.
                 if (empty($menu['children'])) {
-                    continue; 
+                    continue;
                 }
 
                 $isActiveOpen = isChildActive($menu['children'], $current_page);
@@ -212,7 +223,7 @@ if (in_array($user_role_lower, ['sac', 'admin'])) {
                 </div>
             </a>
             <ul class="menu-sub" style="<?php echo $styleBlock; ?>">
-                <?php foreach ($menu['children'] as $sub): 
+                <?php foreach ($menu['children'] as $sub):
                             $activeClass = ($sub['page_name'] === $current_page) ? 'active' : '';
                         ?>
                 <li class="menu-item <?php echo $activeClass; ?>">
@@ -226,9 +237,9 @@ if (in_array($user_role_lower, ['sac', 'admin'])) {
             </ul>
         </li>
 
-        <?php 
+        <?php
             // -- TIPO: LINK (Link direto no nível raiz) --
-            else: 
+            else:
                 $activeClass = ($menu['page_name'] === $current_page) ? 'active' : '';
             ?>
         <li class="menu-item <?php echo $activeClass; ?>">
